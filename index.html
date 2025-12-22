@@ -7,99 +7,221 @@
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
+    
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        'cockpit-bg': '#0B1015',
+                        'cockpit-card': '#131B24',
+                        'cockpit-border': '#2A3B4C',
+                        'av-cyan': '#00E5FF',
+                        'av-amber': '#FFB300',
+                        'av-green': '#00E676',
+                        'av-text': '#E2E8F0',
+                        'av-muted': '#64748B'
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    }
+                }
+            }
+        }
+    </script>
+
     <style>
-        body { background-color: #0f172a; color: #e2e8f0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
-        .card { @apply bg-slate-800 rounded-xl p-4 shadow-lg border border-slate-700; }
-        .input-box { @apply bg-slate-900 border border-slate-600 rounded-lg px-4 py-3 w-full text-white text-lg focus:outline-none focus:border-blue-500 placeholder-slate-500; }
-        .btn { @apply active:scale-95 transition-transform; }
-        select { appearance: none; background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e"); background-repeat: no-repeat; background-position: right 1rem center; background-size: 1em; }
-        .loader { width: 48px; height: 48px; border: 5px solid #FFF; border-bottom-color: #3b82f6; border-radius: 50%; display: inline-block; box-sizing: border-box; animation: rotation 1s linear infinite; }
-        @keyframes rotation { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        body { 
+            background: radial-gradient(circle at top, #1a2736 0%, #0B1015 100%);
+            color: #E2E8F0;
+            -webkit-font-smoothing: antialiased;
+        }
+
+        /* 玻璃質感卡片 */
+        .glass-panel {
+            background: rgba(19, 27, 36, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(42, 59, 76, 0.5);
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+        }
+
+        /* 航電輸入框 */
+        .fms-input {
+            background: #080C10;
+            border: 1px solid #2A3B4C;
+            color: #00E5FF;
+            text-shadow: 0 0 5px rgba(0, 229, 255, 0.3);
+            transition: all 0.3s ease;
+        }
+        .fms-input:focus {
+            border-color: #00E5FF;
+            box-shadow: 0 0 10px rgba(0, 229, 255, 0.2);
+            outline: none;
+        }
+
+        /* 跑道選擇器箭頭美化 */
+        select {
+            appearance: none;
+            background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%2300E5FF' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e");
+            background-repeat: no-repeat;
+            background-position: right 1rem center;
+            background-size: 1.2em;
+        }
+
+        /* 滾動條美化 */
+        ::-webkit-scrollbar { width: 6px; }
+        ::-webkit-scrollbar-track { background: #0B1015; }
+        ::-webkit-scrollbar-thumb { background: #2A3B4C; border-radius: 3px; }
+        ::-webkit-scrollbar-thumb:hover { background: #00E5FF; }
+
+        /* 動畫 */
+        .fade-enter-active, .fade-leave-active { transition: opacity 0.3s ease; }
+        .fade-enter-from, .fade-leave-to { opacity: 0; }
+        
+        .slide-up { animation: slideUp 0.4s cubic-bezier(0.16, 1, 0.3, 1); }
+        @keyframes slideUp { from { transform: translateY(20px); opacity: 0; } to { transform: translateY(0); opacity: 1; } }
+
+        /* 雷達掃描 Loading */
+        .radar-spinner {
+            width: 48px; height: 48px;
+            border: 2px solid #2A3B4C;
+            border-radius: 50%;
+            position: relative;
+            overflow: hidden;
+            background: rgba(0, 0, 0, 0.3);
+        }
+        .radar-spinner::after {
+            content: ''; position: absolute; top: 0; left: 0; width: 100%; height: 100%;
+            background: conic-gradient(from 0deg, transparent 0%, rgba(0, 229, 255, 0.5) 100%);
+            animation: radar 1.5s linear infinite;
+            border-radius: 50%;
+        }
+        @keyframes radar { from { transform: rotate(0deg); } to { transform: rotate(360deg); } }
     </style>
 </head>
 <body>
 
-<div id="app" class="max-w-md mx-auto min-h-screen p-4 flex flex-col gap-4 pb-10">
+<div id="app" class="max-w-md mx-auto min-h-screen p-4 flex flex-col gap-5 pb-10 relative">
 
-    <div v-if="loading" class="fixed inset-0 bg-slate-900 z-50 flex flex-col items-center justify-center">
-        <span class="loader mb-4"></span>
-        <p class="text-blue-400 font-bold tracking-wider">LOADING DATA...</p>
-    </div>
-
-    <header class="flex justify-between items-center py-2">
-        <div class="flex items-center gap-2">
-            <i class="fa-solid fa-plane text-blue-500 text-xl"></i>
-            <h1 class="text-xl font-bold tracking-tight">SID/STAR Viewer</h1>
+    <transition name="fade">
+        <div v-if="loading" class="fixed inset-0 bg-cockpit-bg z-50 flex flex-col items-center justify-center">
+            <div class="radar-spinner mb-4"></div>
+            <p class="text-av-cyan font-mono tracking-[0.2em] text-sm animate-pulse">INITIALIZING FMS...</p>
         </div>
-        <div class="text-xs font-mono text-slate-500 bg-slate-800 px-2 py-1 rounded border border-slate-700">
-            PMDG DATA
+    </transition>
+
+    <header class="flex justify-between items-center py-2 border-b border-cockpit-border/50 pb-4">
+        <div class="flex items-center gap-3">
+            <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-blue-900 to-slate-900 flex items-center justify-center border border-blue-500/30 shadow-lg shadow-blue-500/10">
+                <i class="fa-solid fa-plane-departure text-av-cyan text-lg"></i>
+            </div>
+            <div>
+                <h1 class="text-lg font-bold tracking-tight text-white leading-tight">FLIGHT OPS</h1>
+                <p class="text-[10px] text-av-muted font-mono uppercase tracking-wider">Procedure Viewer</p>
+            </div>
+        </div>
+        <div class="flex flex-col items-end">
+            <span class="text-[10px] font-mono text-av-muted">SOURCE</span>
+            <span class="text-xs font-mono font-bold text-av-amber bg-av-amber/10 px-2 py-0.5 rounded border border-av-amber/20">PMDG AIRAC</span>
         </div>
     </header>
 
-    <div class="card space-y-4">
-        <div class="relative">
-            <input v-model="icaoInput" @keyup.enter="searchAirport" type="text" placeholder="ICAO (e.g. RCTP)" class="input-box uppercase font-mono tracking-wider">
-            <button @click="searchAirport" class="absolute right-2 top-2 bottom-2 bg-blue-600 hover:bg-blue-500 text-white px-4 rounded-md font-bold btn">
-                GO
+    <div class="glass-panel rounded-xl p-5 space-y-4">
+        <div class="flex justify-between items-end mb-1">
+            <label class="text-xs font-bold text-av-muted uppercase tracking-widest">Airport ICAO</label>
+            <span v-if="errorMsg" class="text-xs text-red-400 font-mono"><i class="fa-solid fa-triangle-exclamation mr-1"></i>NOT FOUND</span>
+        </div>
+        <div class="relative group">
+            <input v-model="icaoInput" @keyup.enter="searchAirport" type="text" placeholder="----" class="fms-input w-full rounded-lg px-4 py-3 text-2xl font-mono font-bold uppercase tracking-widest placeholder-slate-700">
+            <button @click="searchAirport" class="absolute right-2 top-2 bottom-2 bg-slate-800 hover:bg-av-cyan hover:text-black text-av-cyan border border-slate-600 hover:border-av-cyan transition-all px-5 rounded font-bold tracking-wider active:scale-95 shadow-lg">
+                ENT
             </button>
-        </div>
-        <p v-if="errorMsg" class="text-red-400 text-sm text-center bg-red-900/20 py-2 rounded border border-red-900/50">
-            {{ errorMsg }}
-        </p>
-    </div>
-
-    <div v-if="currentAirport" class="card animate-fade-in border-l-4 border-l-blue-500">
-        <div class="flex justify-between items-start mb-4">
-            <div>
-                <h2 class="text-4xl font-black text-white font-mono tracking-tighter">{{ currentAirport.code }}</h2>
-                <p class="text-sm text-slate-400 mt-1 line-clamp-1">{{ currentAirport.name }}</p>
-            </div>
-        </div>
-
-        <div class="bg-slate-900/50 p-3 rounded-lg border border-slate-700">
-            <label class="block text-xs text-blue-400 font-bold mb-2 uppercase tracking-wider">Runway Selection</label>
-            <select v-model="selectedRunway" class="w-full bg-slate-800 text-white font-mono text-xl font-bold p-2 rounded outline-none border border-slate-600 focus:border-blue-500">
-                <option value="" disabled>-- SELECT RUNWAY --</option>
-                <option v-for="rwy in currentAirport.runways" :value="rwy">{{ rwy }}</option>
-            </select>
         </div>
     </div>
 
-    <div v-if="selectedRunway" class="flex-1 flex flex-col gap-3">
-        
-        <div class="grid grid-cols-2 gap-2 bg-slate-800 p-1 rounded-lg">
-            <button @click="viewTab = 'SID'" :class="viewTab === 'SID' ? 'bg-green-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'" class="py-2 rounded font-bold transition-all text-sm uppercase">
-                SID (DEPARTURE)
-            </button>
-            <button @click="viewTab = 'STAR'" :class="viewTab === 'STAR' ? 'bg-yellow-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'" class="py-2 rounded font-bold transition-all text-sm uppercase">
-                STAR (ARRIVAL)
-            </button>
-        </div>
-
-        <div class="flex-1 overflow-y-auto space-y-3 pb-safe">
-            <div v-if="filteredProcedures.length === 0" class="text-center text-slate-500 py-8">
-                <p>無符合此跑道的程序</p>
+    <transition name="fade">
+        <div v-if="currentAirport" class="slide-up space-y-4">
+            <div class="flex justify-between items-center px-2">
+                <div>
+                    <h2 class="text-5xl font-black text-white font-mono tracking-tighter drop-shadow-lg">{{ currentAirport.code }}</h2>
+                    <p class="text-sm text-av-cyan font-mono mt-1 opacity-80">{{ currentAirport.name }}</p>
+                </div>
+                <div class="text-right">
+                    <div class="text-[10px] text-av-muted uppercase mb-1">REGION</div>
+                    <span class="text-xs font-bold bg-slate-800 text-slate-300 px-3 py-1 rounded-full border border-slate-700">
+                        {{ currentAirport.country || 'N/A' }}
+                    </span>
+                </div>
             </div>
+
+            <div class="glass-panel p-1 rounded-xl">
+                <div class="relative">
+                    <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
+                        <span class="text-av-muted font-mono text-xs">RWY</span>
+                    </div>
+                    <select v-model="selectedRunway" class="w-full bg-transparent text-white font-mono text-xl font-bold py-3 pl-12 pr-10 rounded-lg outline-none cursor-pointer hover:bg-white/5 transition">
+                        <option value="" disabled class="bg-cockpit-card text-slate-500">SELECT RUNWAY</option>
+                        <option v-for="rwy in currentAirport.runways" :value="rwy" class="bg-cockpit-card text-white">{{ rwy }}</option>
+                    </select>
+                </div>
+            </div>
+        </div>
+    </transition>
+
+    <transition name="fade">
+        <div v-if="selectedRunway" class="flex-1 flex flex-col gap-4 slide-up" style="animation-delay: 0.1s;">
             
-            <div v-for="proc in filteredProcedures" :key="proc.name + proc.transition" class="bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-sm relative overflow-hidden group">
-                <div class="absolute left-0 top-0 bottom-0 w-1" :class="viewTab === 'SID' ? 'bg-green-500' : 'bg-yellow-500'"></div>
-                
-                <div class="flex justify-between items-start pl-3 mb-2">
-                    <span class="text-xl font-black font-mono tracking-wide text-white">{{ proc.name }}</span>
-                    <span v-if="proc.transition" class="text-xs bg-blue-900 text-blue-200 px-2 py-1 rounded font-mono border border-blue-800">
-                        via {{ proc.transition }}
-                    </span>
+            <div class="grid grid-cols-2 gap-1 bg-black/40 p-1 rounded-lg border border-slate-800">
+                <button @click="viewTab = 'SID'" 
+                    :class="viewTab === 'SID' ? 'bg-av-green text-black shadow-[0_0_15px_rgba(0,230,118,0.4)]' : 'text-slate-500 hover:text-slate-300'" 
+                    class="py-2 rounded font-bold transition-all text-sm tracking-wider font-mono">
+                    DEPARTURE
+                </button>
+                <button @click="viewTab = 'STAR'" 
+                    :class="viewTab === 'STAR' ? 'bg-av-amber text-black shadow-[0_0_15px_rgba(255,179,0,0.4)]' : 'text-slate-500 hover:text-slate-300'" 
+                    class="py-2 rounded font-bold transition-all text-sm tracking-wider font-mono">
+                    ARRIVAL
+                </button>
+            </div>
+
+            <div class="flex-1 overflow-y-auto space-y-3 pb-safe min-h-[300px]">
+                <div v-if="filteredProcedures.length === 0" class="flex flex-col items-center justify-center py-12 text-av-muted opacity-50 border-2 border-dashed border-slate-800 rounded-xl">
+                    <i class="fa-solid fa-route text-3xl mb-2"></i>
+                    <p class="font-mono text-xs">NO PROCEDURES FOUND</p>
                 </div>
                 
-                <div class="pl-3 flex flex-wrap gap-2 text-xs font-mono text-slate-500 mt-2 border-t border-slate-700 pt-2">
-                    <span class="text-slate-400">Valid for:</span>
-                    <span v-for="r in proc.rwy" class="bg-slate-700 px-1 rounded text-slate-300">
-                        {{ r }}
-                    </span>
+                <div v-for="proc in filteredProcedures" :key="proc.name + proc.transition" 
+                    class="glass-panel p-4 rounded-xl relative overflow-hidden group hover:border-slate-500 transition-colors cursor-default">
+                    
+                    <div class="absolute left-0 top-0 bottom-0 w-1.5 transition-all group-hover:w-2" 
+                        :class="viewTab === 'SID' ? 'bg-av-green shadow-[0_0_10px_#00E676]' : 'bg-av-amber shadow-[0_0_10px_#FFB300]'"></div>
+                    
+                    <div class="pl-4">
+                        <div class="flex justify-between items-start mb-2">
+                            <span class="text-2xl font-bold font-mono text-white tracking-wide group-hover:text-av-cyan transition">{{ proc.name }}</span>
+                            <span v-if="proc.transition" class="text-[10px] font-mono font-bold bg-blue-900/40 text-blue-300 px-2 py-1 rounded border border-blue-500/30">
+                                VIA {{ proc.transition }}
+                            </span>
+                        </div>
+                        
+                        <div class="flex items-center gap-2 border-t border-white/5 pt-2 mt-1">
+                            <span class="text-[10px] text-av-muted font-mono uppercase">Valid:</span>
+                            <div class="flex flex-wrap gap-1">
+                                <span v-for="r in proc.rwy" 
+                                    class="text-[10px] font-mono font-bold px-1.5 rounded bg-slate-800 text-slate-400 border border-slate-700"
+                                    :class="{'text-av-cyan border-av-cyan/30 bg-av-cyan/5': r === selectedRunway}">
+                                    {{ r }}
+                                </span>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
+    </transition>
 
 </div>
 
@@ -113,17 +235,16 @@
             const icaoInput = ref('');
             const currentAirport = ref(null);
             const selectedRunway = ref('');
-            const viewTab = ref('STAR'); // 預設改為 STAR 方便您測試
+            const viewTab = ref('STAR'); 
             const errorMsg = ref('');
 
             onMounted(async () => {
                 try {
-                    // 加上時間戳記，強制瀏覽器不讀快取 (重要！)
                     const response = await fetch('./database.json?timestamp=' + new Date().getTime());
                     database.value = await response.json();
                     loading.value = false;
                 } catch (e) {
-                    errorMsg.value = "Load Error. Please check database.json";
+                    errorMsg.value = "DB ERR";
                     loading.value = false;
                 }
             });
@@ -140,7 +261,9 @@
                     currentAirport.value = found;
                     icaoInput.value = ''; 
                 } else {
-                    errorMsg.value = `Airport ${code} not found.`;
+                    errorMsg.value = "ERR";
+                    // Shake effect logic can go here
+                    setTimeout(() => errorMsg.value = '', 3000);
                 }
             };
 
@@ -150,7 +273,6 @@
                 const list = viewTab.value === 'SID' ? currentAirport.value.sids : currentAirport.value.stars;
                 
                 return list.filter(p => {
-                    // 如果資料是 "ALL"，或者包含當前選擇的跑道，就顯示
                     return p.rwy.includes("ALL") || p.rwy.includes(selectedRunway.value);
                 });
             });
