@@ -1,209 +1,93 @@
 [
   {
-    "code": "RC0",
+    "code": "RCBS",
     "country": "Unknown",
-    "name": "Elliott Field",
+    "name": "KINMEN",
     "runways": [
-      "08",
-      "26"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCLM",
-    "country": "Unknown",
-    "name": "Dongsha Island (Pratas Island) Airport",
-    "runways": [
-      "11",
-      "29"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCDI",
-    "country": "Unknown",
-    "name": "Lungtang",
-    "runways": [
-      "04",
-      "22"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCGM",
-    "country": "Unknown",
-    "name": "Taoyuan",
-    "runways": [
-      "05",
-      "23"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCSQ",
-    "country": "Unknown",
-    "name": "Pingtung North",
-    "runways": [
-      "08",
-      "26"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCTA",
-    "country": "Unknown",
-    "name": "Taimali Airport",
-    "runways": [
-      "02",
-      "20"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCBD",
-    "country": "Taiwan",
-    "name": "Lancingting",
-    "runways": [
-      "03",
-      "21"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCHD",
-    "country": "Taiwan",
-    "name": "Huadong",
-    "runways": [
-      "13",
-      "31"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCHL",
-    "country": "Taiwan",
-    "name": "Fenglin",
-    "runways": [
-      "13",
-      "31"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCMA",
-    "country": "Taiwan",
-    "name": "Mataian",
-    "runways": [
-      "03",
-      "21"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCWC",
-    "country": "Taiwan",
-    "name": "Baiyun",
-    "runways": [
-      "14",
-      "32"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCYD",
-    "country": "Taiwan",
-    "name": "Yangdong",
-    "runways": [
-      "17",
-      "35"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCFG",
-    "country": "Unknown",
-    "name": "Nangan",
-    "runways": [
-      "03",
-      "21"
+      "06",
+      "24"
     ],
     "sids": [
       {
-        "name": "DONJU",
+        "name": "CUBO1A",
         "rwy": [
-          "ALL"
+          "06"
         ],
-        "transition": "DONJU",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "NACRE",
+        "name": "CUBO1B",
         "rwy": [
-          "ALL"
+          "24"
         ],
-        "transition": "NACRE",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "AICER",
+        "name": "INDI1A",
         "rwy": [
-          "ALL"
+          "06"
         ],
-        "transition": "AICER",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "KUMMA",
+        "name": "INDI1B",
         "rwy": [
-          "ALL"
+          "24"
         ],
-        "transition": "KUMMA",
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SAND1A",
+        "rwy": [
+          "06"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SAND1B",
+        "rwy": [
+          "24"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1J",
+        "rwy": [
+          "06"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1K",
+        "rwy": [
+          "24"
+        ],
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ],
     "stars": [
       {
-        "name": "DONJU",
+        "name": "CUBO1C",
         "rwy": [
-          "ALL"
+          "06"
         ],
-        "transition": "DONJU",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "NACRE",
+        "name": "CUBO2D",
         "rwy": [
-          "ALL"
+          "24"
         ],
-        "transition": "NACRE",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "AICER",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "AICER",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "KUMMA",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "KUMMA",
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ]
@@ -211,322 +95,1144 @@
   {
     "code": "RCCM",
     "country": "Unknown",
-    "name": "Qimei",
+    "name": "QIMEI",
     "runways": [
       "02",
       "20"
     ],
     "sids": [],
-    "stars": []
+    "stars": [
+      {
+        "name": "MA1R",
+        "rwy": [
+          "ALL"
+        ],
+        "transition": "ALL",
+        "waypoints": "TRANS"
+      },
+      {
+        "name": "SA1R",
+        "rwy": [
+          "ALL"
+        ],
+        "transition": "ALL",
+        "waypoints": "TRANS"
+      }
+    ]
   },
   {
-    "code": "RCWA",
+    "code": "RCDC",
     "country": "Unknown",
-    "name": "Wang-An",
+    "name": "PINGTUNG SOUTH",
     "runways": [
-      "02",
-      "20"
+      "09",
+      "27"
     ],
-    "sids": [],
-    "stars": []
+    "sids": [
+      {
+        "name": "KT2B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PT2B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
+    "stars": [
+      {
+        "name": "TNN",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ]
   },
   {
-    "code": "RCMT",
+    "code": "RCFG",
     "country": "Unknown",
-    "name": "Beigan",
+    "name": "NANGAN",
     "runways": [
       "03",
       "21"
     ],
     "sids": [
       {
-        "name": "MT033",
+        "name": "HAPY1A",
         "rwy": [
-          "ALL"
+          "03"
         ],
-        "transition": "MT033",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HIPPO",
+        "name": "HAPY1B",
         "rwy": [
-          "ALL"
+          "21"
         ],
-        "transition": "HIPPO",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HAPPY",
+        "name": "HIPO1A",
         "rwy": [
-          "ALL"
+          "03"
         ],
-        "transition": "HAPPY",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "ZIPPY",
+        "name": "HIPO1B",
         "rwy": [
-          "ALL"
+          "21"
         ],
-        "transition": "ZIPPY",
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
+    "stars": []
+  },
+  {
+    "code": "RCFN",
+    "country": "Unknown",
+    "name": "FONGNIAN",
+    "runways": [
+      "04",
+      "22"
+    ],
+    "sids": [
+      {
+        "name": "DONA1A",
+        "rwy": [
+          "04"
+        ],
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HANKY",
+        "name": "DONA1B",
         "rwy": [
-          "ALL"
+          "22"
         ],
-        "transition": "HANKY",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "DOTRI",
+        "name": "FONG1A",
         "rwy": [
-          "ALL"
+          "04"
         ],
-        "transition": "DOTRI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "DABRA",
+        "name": "FONG1B",
         "rwy": [
-          "ALL"
+          "22"
         ],
-        "transition": "DABRA",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "ALAKA",
+        "name": "GAMA1A",
         "rwy": [
-          "ALL"
+          "04"
         ],
-        "transition": "ALAKA",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "SEDGA",
+        "name": "GAMA2B",
         "rwy": [
-          "ALL"
+          "22"
         ],
-        "transition": "SEDGA",
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HYPE1B",
+        "rwy": [
+          "22"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HYPE1C",
+        "rwy": [
+          "04"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HYPE2A",
+        "rwy": [
+          "04"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TACL1A",
+        "rwy": [
+          "04"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TACL1B",
+        "rwy": [
+          "22"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
+    "stars": []
+  },
+  {
+    "code": "RCKH",
+    "country": "Unknown",
+    "name": "KAOHSIUNG INTL",
+    "runways": [
+      "09",
+      "27"
+    ],
+    "sids": [
+      {
+        "name": "ANDR1B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "ANDR2A",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "GLIG1B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "GLIG2A",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HCN1B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HCN1C",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HCN1D",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HCN1F",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HCN2A",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PARA1B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PARA2A",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PARP1B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1L",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1C",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1F",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1H",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN2D",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN2G",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ],
     "stars": [
       {
-        "name": "MT033",
+        "name": "HCN1G",
         "rwy": [
-          "ALL"
+          "09"
         ],
-        "transition": "MT033",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HIPPO",
+        "name": "HCN1H",
         "rwy": [
-          "ALL"
+          "27"
         ],
-        "transition": "HIPPO",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HAPPY",
+        "name": "LUGI1A",
         "rwy": [
-          "ALL"
+          "09"
         ],
-        "transition": "HAPPY",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "ZIPPY",
+        "name": "LUGI2B",
         "rwy": [
-          "ALL"
+          "27"
         ],
-        "transition": "ZIPPY",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HANKY",
+        "name": "PARP1C",
         "rwy": [
-          "ALL"
+          "09"
         ],
-        "transition": "HANKY",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "DOTRI",
+        "name": "PORC1A",
         "rwy": [
-          "ALL"
+          "09"
         ],
-        "transition": "DOTRI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "DABRA",
+        "name": "POTI1A",
         "rwy": [
-          "ALL"
+          "09"
         ],
-        "transition": "DABRA",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "ALAKA",
+        "name": "POTI2B",
         "rwy": [
-          "ALL"
+          "27"
         ],
-        "transition": "ALAKA",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "SEDGA",
+        "name": "TNN1J",
         "rwy": [
-          "ALL"
+          "09"
         ],
-        "transition": "SEDGA",
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1M",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YANM1A",
+        "rwy": [
+          "09"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YANM2B",
+        "rwy": [
+          "27"
+        ],
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ]
   },
   {
-    "code": "RCPO",
+    "code": "RCKU",
     "country": "Unknown",
-    "name": "Hsinchu Aero",
+    "name": "CHIAYI",
     "runways": [
-      "05",
-      "23"
+      "18",
+      "36"
     ],
-    "sids": [],
+    "sids": [
+      {
+        "name": "HOUP1A",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HOUP1B",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1U",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1V",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1N",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1P",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
+    "stars": []
+  },
+  {
+    "code": "RCMQ",
+    "country": "Unknown",
+    "name": "CINGCYUANGANG",
+    "runways": [
+      "18",
+      "36"
+    ],
+    "sids": [
+      {
+        "name": "HLG1A",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HLG1B",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HOME1A",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HOME1B",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "MKG1C",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "MKG1D",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1S",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1T",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TENL1A",
+        "rwy": [
+          "18"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TENL1B",
+        "rwy": [
+          "36"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
+    "stars": []
+  },
+  {
+    "code": "RCMT",
+    "country": "Unknown",
+    "name": "BEIGAN",
+    "runways": [
+      "03",
+      "21"
+    ],
+    "sids": [
+      {
+        "name": "HOPA1B",
+        "rwy": [
+          "21"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "LOTA1A",
+        "rwy": [
+          "03"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "LOTA1B",
+        "rwy": [
+          "21"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "MEDI2B",
+        "rwy": [
+          "21"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "RALT1A",
+        "rwy": [
+          "03"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "RALT1B",
+        "rwy": [
+          "21"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
+    "stars": []
+  },
+  {
+    "code": "RCNN",
+    "country": "Unknown",
+    "name": "TAINAN",
+    "runways": [
+      "18L",
+      "18R",
+      "36L",
+      "36R"
+    ],
+    "sids": [
+      {
+        "name": "CASA1A",
+        "rwy": [
+          "18L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "CASA1B",
+        "rwy": [
+          "36R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1Q",
+        "rwy": [
+          "18L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1R",
+        "rwy": [
+          "36R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1S",
+        "rwy": [
+          "18L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TNN1T",
+        "rwy": [
+          "36R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TORO1C",
+        "rwy": [
+          "18L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
+    "stars": []
+  },
+  {
+    "code": "RCQC",
+    "country": "Unknown",
+    "name": "PENGHU",
+    "runways": [
+      "02",
+      "20"
+    ],
+    "sids": [
+      {
+        "name": "MKG1A",
+        "rwy": [
+          "02"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "MKG1B",
+        "rwy": [
+          "20"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1G",
+        "rwy": [
+          "02"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1H",
+        "rwy": [
+          "20"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SWOR1A",
+        "rwy": [
+          "02"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SWOR1B",
+        "rwy": [
+          "20"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TORO1A",
+        "rwy": [
+          "02"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TORO1B",
+        "rwy": [
+          "20"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      }
+    ],
     "stars": []
   },
   {
     "code": "RCSS",
-    "country": "Taiwan",
-    "name": "Songshan",
+    "country": "Unknown",
+    "name": "SONGSHAN",
     "runways": [
       "10",
       "28"
     ],
     "sids": [
       {
-        "name": "DUPAR",
+        "name": "APU1A",
         "rwy": [
-          "ALL"
+          "10"
         ],
-        "transition": "DUPAR",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "PINSI",
+        "name": "APU1B",
         "rwy": [
-          "ALL"
+          "28"
         ],
-        "transition": "PINSI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "FUTER",
+        "name": "HLG1C",
         "rwy": [
-          "ALL"
+          "10"
         ],
-        "transition": "FUTER",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "SALUN",
+        "name": "HLG1D",
         "rwy": [
-          "ALL"
+          "28"
         ],
-        "transition": "SALUN",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "ZONLI",
+        "name": "KUDO1G",
         "rwy": [
-          "ALL"
+          "10"
         ],
-        "transition": "ZONLI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "THEOD",
+        "name": "KUDO1H",
         "rwy": [
-          "ALL"
+          "28"
         ],
-        "transition": "THEOD",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "PUTIN",
+        "name": "MOLK1G",
         "rwy": [
-          "ALL"
+          "10"
         ],
-        "transition": "PUTIN",
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "MOLK1H",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PIAN1H",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PIAN1J",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PIAN1K",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "ROBI1G",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "ROBI1H",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "RONE1A",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "RONE1B",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "RONE1C",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1N",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1P",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "XEBE1A",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "XEBE1B",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "XEBE1C",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YILA1A",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YILA1B",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YILA1C",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YILA1D",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ],
     "stars": [
       {
-        "name": "DUPAR",
+        "name": "ANNA1B",
         "rwy": [
-          "ALL"
+          "28"
         ],
-        "transition": "DUPAR",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "PINSI",
+        "name": "APU1C",
         "rwy": [
-          "ALL"
+          "10"
         ],
-        "transition": "PINSI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "FUTER",
+        "name": "APU1E",
         "rwy": [
-          "ALL"
+          "10"
         ],
-        "transition": "FUTER",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "SALUN",
+        "name": "APU1F",
         "rwy": [
-          "ALL"
+          "28"
         ],
-        "transition": "SALUN",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "ZONLI",
+        "name": "BAKE1D",
         "rwy": [
-          "ALL"
+          "28"
         ],
-        "transition": "ZONLI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "THEOD",
+        "name": "CARO1B",
         "rwy": [
-          "ALL"
+          "28"
         ],
-        "transition": "THEOD",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "PUTIN",
+        "name": "HLG1E",
         "rwy": [
-          "ALL"
+          "10"
         ],
-        "transition": "PUTIN",
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HLG1F",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HLG1G",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "HLG1H",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "KUDO1K",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YILA1E",
+        "rwy": [
+          "10"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "YILA1F",
+        "rwy": [
+          "28"
+        ],
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ]
   },
   {
     "code": "RCTP",
-    "country": "Taiwan",
-    "name": "Chiang Kai Shek Intl",
+    "country": "Unknown",
+    "name": "TAIWAN TAOYUAN INTL",
     "runways": [
       "05L",
       "05R",
@@ -535,1113 +1241,423 @@
     ],
     "sids": [
       {
-        "name": "TP053",
+        "name": "CHAL1A",
         "rwy": [
-          "ALL"
+          "05R"
         ],
-        "transition": "TP053",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "JAMMY",
+        "name": "CHAL1B",
         "rwy": [
-          "ALL"
+          "23L"
         ],
-        "transition": "JAMMY",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "TP063",
+        "name": "CHAL1C",
         "rwy": [
-          "ALL"
+          "05L"
         ],
-        "transition": "TP063",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "AUGUR",
+        "name": "CHAL1D",
         "rwy": [
-          "ALL"
+          "23R"
         ],
-        "transition": "AUGUR",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "TP243",
+        "name": "KUDO1A",
         "rwy": [
-          "ALL"
+          "05R"
         ],
-        "transition": "TP243",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "TP233",
+        "name": "KUDO1B",
         "rwy": [
-          "ALL"
+          "23L"
         ],
-        "transition": "TP233",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "FETUS",
+        "name": "KUDO1C",
         "rwy": [
-          "ALL"
+          "05L"
         ],
-        "transition": "FETUS",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HL",
+        "name": "KUDO1D",
         "rwy": [
-          "ALL"
+          "23R"
         ],
-        "transition": "HL",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HLG",
+        "name": "MOLK1A",
         "rwy": [
-          "ALL"
+          "05R"
         ],
-        "transition": "HLG",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "MARCH",
+        "name": "MOLK1B",
         "rwy": [
-          "ALL"
+          "23L"
         ],
-        "transition": "MARCH",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "FLASH",
+        "name": "MOLK1C",
         "rwy": [
-          "ALL"
+          "05L"
         ],
-        "transition": "FLASH",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "JUNTA",
+        "name": "MOLK1D",
         "rwy": [
-          "ALL"
+          "23R"
         ],
-        "transition": "JUNTA",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "JUROR",
+        "name": "PIAN1A",
         "rwy": [
-          "ALL"
+          "05R"
         ],
-        "transition": "JUROR",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "FRANK",
+        "name": "PIAN1B",
         "rwy": [
-          "ALL"
+          "23L"
         ],
-        "transition": "FRANK",
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PIAN1C",
+        "rwy": [
+          "05L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "PIAN1D",
+        "rwy": [
+          "23R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "ROBI1A",
+        "rwy": [
+          "05R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "ROBI1B",
+        "rwy": [
+          "23L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "ROBI1C",
+        "rwy": [
+          "05L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "ROBI1D",
+        "rwy": [
+          "23R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1A",
+        "rwy": [
+          "05R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1B",
+        "rwy": [
+          "23L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1C",
+        "rwy": [
+          "05L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "SPRA1D",
+        "rwy": [
+          "23R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TINH1A",
+        "rwy": [
+          "05R"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TINH1B",
+        "rwy": [
+          "23L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TINH1C",
+        "rwy": [
+          "05L"
+        ],
+        "transition": "",
+        "waypoints": "VECTORS"
+      },
+      {
+        "name": "TINH1D",
+        "rwy": [
+          "23R"
+        ],
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ],
     "stars": [
       {
-        "name": "TP053",
+        "name": "BAKE1A",
         "rwy": [
           "ALL"
         ],
-        "transition": "TP053",
-        "waypoints": "VECTORS"
+        "transition": "RW05B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "JAMMY",
+        "name": "BAKE1B",
         "rwy": [
           "ALL"
         ],
-        "transition": "JAMMY",
-        "waypoints": "VECTORS"
+        "transition": "RW23B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "TP063",
+        "name": "DRAK1A",
         "rwy": [
           "ALL"
         ],
-        "transition": "TP063",
-        "waypoints": "VECTORS"
+        "transition": "RW05B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "AUGUR",
+        "name": "DRAK1B",
         "rwy": [
           "ALL"
         ],
-        "transition": "AUGUR",
-        "waypoints": "VECTORS"
+        "transition": "RW23B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "TP243",
+        "name": "GRAC1A",
         "rwy": [
           "ALL"
         ],
-        "transition": "TP243",
-        "waypoints": "VECTORS"
+        "transition": "RW05B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "TP233",
+        "name": "GRAC1B",
         "rwy": [
           "ALL"
         ],
-        "transition": "TP233",
-        "waypoints": "VECTORS"
+        "transition": "RW23B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "FETUS",
+        "name": "TNN1A",
         "rwy": [
           "ALL"
         ],
-        "transition": "FETUS",
-        "waypoints": "VECTORS"
+        "transition": "RW05B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "HL",
+        "name": "TNN1B",
         "rwy": [
           "ALL"
         ],
-        "transition": "HL",
-        "waypoints": "VECTORS"
+        "transition": "RW23B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "HLG",
+        "name": "TONG1A",
         "rwy": [
           "ALL"
         ],
-        "transition": "HLG",
-        "waypoints": "VECTORS"
+        "transition": "RW05B",
+        "waypoints": "TRANS"
       },
       {
-        "name": "MARCH",
+        "name": "TONG1B",
         "rwy": [
           "ALL"
         ],
-        "transition": "MARCH",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FLASH",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FLASH",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "JUNTA",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "JUNTA",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "JUROR",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "JUROR",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FRANK",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FRANK",
-        "waypoints": "VECTORS"
+        "transition": "RW23B",
+        "waypoints": "TRANS"
       }
     ]
   },
   {
-    "code": "RCMQ",
+    "code": "RCWA",
     "country": "Unknown",
-    "name": "Ching Chuan Kang AB",
-    "runways": [
-      "18",
-      "36"
-    ],
-    "sids": [
-      {
-        "name": "SARAR",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "SARAR",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "TELUS",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TELUS",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "BASIR",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "BASIR",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "KADET",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "KADET",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "HLG",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "HLG",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "WUCHI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "WUCHI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "ARROZ",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "ARROZ",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FATAN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FATAN",
-        "waypoints": "VECTORS"
-      }
-    ],
-    "stars": [
-      {
-        "name": "SARAR",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "SARAR",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "TELUS",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TELUS",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "BASIR",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "BASIR",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "KADET",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "KADET",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "HLG",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "HLG",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "WUCHI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "WUCHI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "ARROZ",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "ARROZ",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FATAN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FATAN",
-        "waypoints": "VECTORS"
-      }
-    ]
-  },
-  {
-    "code": "RCAY",
-    "country": "Unknown",
-    "name": "Kangshan",
-    "runways": [
-      "18L",
-      "18R",
-      "36L",
-      "36R"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCDC",
-    "country": "Unknown",
-    "name": "Pingtung South",
-    "runways": [
-      "08",
-      "09",
-      "26",
-      "27"
-    ],
-    "sids": [
-      {
-        "name": "YUNAN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "YUNAN",
-        "waypoints": "VECTORS"
-      }
-    ],
-    "stars": [
-      {
-        "name": "YUNAN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "YUNAN",
-        "waypoints": "VECTORS"
-      }
-    ]
-  },
-  {
-    "code": "RCKH",
-    "country": "Taiwan",
-    "name": "Kaohsiung Intl",
-    "runways": [
-      "09",
-      "27"
-    ],
-    "sids": [
-      {
-        "name": "KAPOK",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "KAPOK",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FORKY",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FORKY",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "GATON",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "GATON",
-        "waypoints": "VECTORS"
-      }
-    ],
-    "stars": [
-      {
-        "name": "KAPOK",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "KAPOK",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FORKY",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FORKY",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "GATON",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "GATON",
-        "waypoints": "VECTORS"
-      }
-    ]
-  },
-  {
-    "code": "RCNN",
-    "country": "Unknown",
-    "name": "Tainan Aero",
-    "runways": [
-      "18L",
-      "18R",
-      "36L",
-      "36R"
-    ],
-    "sids": [
-      {
-        "name": "TNN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TNN",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MITOR",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MITOR",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "CHIGU",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "CHIGU",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "YENSA",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "YENSA",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MADEM",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MADEM",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MUREX",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MUREX",
-        "waypoints": "VECTORS"
-      }
-    ],
-    "stars": [
-      {
-        "name": "TNN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TNN",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MITOR",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MITOR",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "CHIGU",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "CHIGU",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "YENSA",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "YENSA",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MADEM",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MADEM",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MUREX",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MUREX",
-        "waypoints": "VECTORS"
-      }
-    ]
-  },
-  {
-    "code": "RCFN",
-    "country": "Unknown",
-    "name": "Fengnin",
-    "runways": [
-      "04",
-      "22"
-    ],
-    "sids": [
-      {
-        "name": "GID",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "GID",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "ORRIS",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "ORRIS",
-        "waypoints": "VECTORS"
-      }
-    ],
-    "stars": [
-      {
-        "name": "GID",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "GID",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "ORRIS",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "ORRIS",
-        "waypoints": "VECTORS"
-      }
-    ]
-  },
-  {
-    "code": "RCGI",
-    "country": "Unknown",
-    "name": "Lyudao",
-    "runways": [
-      "17",
-      "35"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCQS",
-    "country": "Unknown",
-    "name": "Chihhong",
-    "runways": [
-      "04L",
-      "04R",
-      "22L",
-      "22R"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCKW",
-    "country": "Unknown",
-    "name": "Hengchun",
-    "runways": [
-      "14",
-      "32"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCLY",
-    "country": "Taiwan",
-    "name": "Lanyu",
-    "runways": [
-      "01",
-      "13",
-      "31"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCQC",
-    "country": "Taiwan",
-    "name": "Penghu Airport",
+    "name": "WANG-AN",
     "runways": [
       "02",
       "20"
     ],
-    "sids": [
-      {
-        "name": "REGLE",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "REGLE",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MASON",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MASON",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "SEGMA",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "SEGMA",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "HUAYU",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "HUAYU",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "TONJI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TONJI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "JIBEI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "JIBEI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "PINIT",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "PINIT",
-        "waypoints": "VECTORS"
-      }
-    ],
+    "sids": [],
     "stars": [
       {
-        "name": "REGLE",
+        "name": "MA1F",
         "rwy": [
           "ALL"
         ],
-        "transition": "REGLE",
-        "waypoints": "VECTORS"
+        "transition": "ALL",
+        "waypoints": "TRANS"
       },
       {
-        "name": "MASON",
+        "name": "SA1T",
         "rwy": [
           "ALL"
         ],
-        "transition": "MASON",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "SEGMA",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "SEGMA",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "HUAYU",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "HUAYU",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "TONJI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TONJI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "JIBEI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "JIBEI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "PINIT",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "PINIT",
-        "waypoints": "VECTORS"
+        "transition": "ALL",
+        "waypoints": "TRANS"
       }
     ]
   },
   {
     "code": "RCYU",
-    "country": "Taiwan",
-    "name": "Hualien",
-    "runways": [
-      "03",
-      "03L",
-      "21",
-      "21R"
-    ],
-    "sids": [
-      {
-        "name": "UGRUB",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "UGRUB",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "EDMUN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "EDMUN",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "DABIL",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "DABIL",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MEZZO",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MEZZO",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "VAGLI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "VAGLI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FOPIN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FOPIN",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "JICHI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "JICHI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "TOTEM",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TOTEM",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "WAGON",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "WAGON",
-        "waypoints": "VECTORS"
-      }
-    ],
-    "stars": [
-      {
-        "name": "UGRUB",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "UGRUB",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "EDMUN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "EDMUN",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "DABIL",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "DABIL",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "MEZZO",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "MEZZO",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "VAGLI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "VAGLI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "FOPIN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "FOPIN",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "JICHI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "JICHI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "TOTEM",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TOTEM",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "WAGON",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "WAGON",
-        "waypoints": "VECTORS"
-      }
-    ]
-  },
-  {
-    "code": "RCE",
-    "country": "Argentina",
-    "name": "Mercedes",
+    "country": "Unknown",
+    "name": "HUALIEN",
     "runways": [
       "03",
       "21"
     ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCBS",
-    "country": "Taiwan",
-    "name": "Kinmen",
-    "runways": [
-      "06",
-      "24"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCSP",
-    "country": "Philippines",
-    "name": "Taiping",
-    "runways": [
-      "07",
-      "25"
-    ],
-    "sids": [],
-    "stars": []
-  },
-  {
-    "code": "RCKU",
-    "country": "Taiwan",
-    "name": "Chiayi Airport",
-    "runways": [
-      "02",
-      "03",
-      "04",
-      "05",
-      "06",
-      "07",
-      "08",
-      "09",
-      "18",
-      "36"
-    ],
     "sids": [
       {
-        "name": "HSILO",
+        "name": "PEIP1A",
         "rwy": [
-          "ALL"
+          "03"
         ],
-        "transition": "HSILO",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "TAISI",
+        "name": "PEIP1B",
         "rwy": [
-          "ALL"
+          "21"
         ],
-        "transition": "TAISI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "POTZU",
+        "name": "TINH1G",
         "rwy": [
-          "ALL"
+          "03"
         ],
-        "transition": "POTZU",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "WUSAN",
+        "name": "TINH1H",
         "rwy": [
-          "ALL"
+          "21"
         ],
-        "transition": "WUSAN",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "HOUPI",
+        "name": "WAGO1A",
         "rwy": [
-          "ALL"
+          "03"
         ],
-        "transition": "HOUPI",
+        "transition": "",
         "waypoints": "VECTORS"
       },
       {
-        "name": "TNN",
+        "name": "WAGO1B",
         "rwy": [
-          "ALL"
+          "21"
         ],
-        "transition": "TNN",
+        "transition": "",
         "waypoints": "VECTORS"
       }
     ],
     "stars": [
       {
-        "name": "HSILO",
+        "name": "POLKA1",
         "rwy": [
           "ALL"
         ],
-        "transition": "HSILO",
-        "waypoints": "VECTORS"
+        "transition": "ALL",
+        "waypoints": "TRANS"
       },
       {
-        "name": "TAISI",
+        "name": "TINHO1",
         "rwy": [
           "ALL"
         ],
-        "transition": "TAISI",
-        "waypoints": "VECTORS"
+        "transition": "ALL",
+        "waypoints": "TRANS"
       },
       {
-        "name": "POTZU",
+        "name": "WADER1",
         "rwy": [
           "ALL"
         ],
-        "transition": "POTZU",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "WUSAN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "WUSAN",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "HOUPI",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "HOUPI",
-        "waypoints": "VECTORS"
-      },
-      {
-        "name": "TNN",
-        "rwy": [
-          "ALL"
-        ],
-        "transition": "TNN",
-        "waypoints": "VECTORS"
+        "transition": "ALL",
+        "waypoints": "TRANS"
       }
     ]
   }
