@@ -1,7 +1,7 @@
 [
   {
     "code": "K1U7",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BEAR LAKE CO",
     "runways": [
       "10",
@@ -33,7 +33,7 @@
   },
   {
     "code": "K2S8",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WILBUR",
     "runways": [
       "02",
@@ -54,7 +54,7 @@
   },
   {
     "code": "K3W7",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRAND COULEE DAM",
     "runways": [
       "04",
@@ -74,7 +74,7 @@
   },
   {
     "code": "K4S1",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GOLD BEACH MUN",
     "runways": [
       "16",
@@ -95,7 +95,7 @@
   },
   {
     "code": "K65S",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOUNDARY CO",
     "runways": [
       "02",
@@ -115,7 +115,7 @@
   },
   {
     "code": "K77S",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOBBY",
     "runways": [
       "16",
@@ -135,7 +135,7 @@
   },
   {
     "code": "K7S0",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RONAN",
     "runways": [
       "16",
@@ -163,7 +163,7 @@
   },
   {
     "code": "K8S1",
-    "country": "Unknown",
+    "country": "USA",
     "name": "POLSON",
     "runways": [
       "18",
@@ -183,7 +183,7 @@
   },
   {
     "code": "KAFO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AFTON LINCOLN CO/GEN BOYD L ED",
     "runways": [
       "16",
@@ -211,7 +211,7 @@
   },
   {
     "code": "KAOC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ARCO-BUTTE CO",
     "runways": [
       "06",
@@ -231,7 +231,7 @@
   },
   {
     "code": "KAST",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ASTORIA REGL",
     "runways": [
       "08",
@@ -256,7 +256,7 @@
   },
   {
     "code": "KAWO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ARLINGTON MUN",
     "runways": [
       "11",
@@ -279,7 +279,7 @@
   },
   {
     "code": "KBDN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BEND MUN",
     "runways": [
       "16",
@@ -300,7 +300,7 @@
   },
   {
     "code": "KBFI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOEING/KING CO INTL",
     "runways": [
       "14L",
@@ -472,7 +472,7 @@
   },
   {
     "code": "KBIL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BILLINGS LOGAN INTL",
     "runways": [
       "07",
@@ -542,7 +542,7 @@
   },
   {
     "code": "KBLI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BELLINGHAM INTL",
     "runways": [
       "16",
@@ -582,7 +582,7 @@
   },
   {
     "code": "KBOI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOISE AIR TERMINAL/GOWEN",
     "runways": [
       "10L",
@@ -729,7 +729,7 @@
   },
   {
     "code": "KBZN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOZEMAN YELLOWSTONE INTL",
     "runways": [
       "03",
@@ -905,7 +905,7 @@
   },
   {
     "code": "KCLM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WILLIAM R FAIRCHILD INTL",
     "runways": [
       "09",
@@ -929,7 +929,7 @@
   },
   {
     "code": "KCOE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COEUR DALENE/BOYINGTON",
     "runways": [
       "02",
@@ -954,7 +954,7 @@
   },
   {
     "code": "KCPR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CASPER/NATRONA CO INTL",
     "runways": [
       "03",
@@ -990,7 +990,7 @@
   },
   {
     "code": "KCTB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CUT BANK INTL",
     "runways": [
       "05",
@@ -1026,7 +1026,7 @@
   },
   {
     "code": "KCVO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CORVALLIS MUN",
     "runways": [
       "10",
@@ -1051,7 +1051,7 @@
   },
   {
     "code": "KDIJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DRIGGS/REED MEML",
     "runways": [
       "04",
@@ -1072,7 +1072,7 @@
   },
   {
     "code": "KDLS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COLUMBIA GORGE REGL/THE DALLES",
     "runways": [
       "07",
@@ -1096,7 +1096,7 @@
   },
   {
     "code": "KDUB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DUBOIS MUN",
     "runways": [
       "11",
@@ -1116,7 +1116,7 @@
   },
   {
     "code": "KDWX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DIXON",
     "runways": [
       "06",
@@ -1144,7 +1144,7 @@
   },
   {
     "code": "KEAN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PHIFER",
     "runways": [
       "08",
@@ -1165,7 +1165,7 @@
   },
   {
     "code": "KEAT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PANGBORN MEML",
     "runways": [
       "12",
@@ -1231,7 +1231,7 @@
   },
   {
     "code": "KEKS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ENNIS BIG SKY",
     "runways": [
       "16",
@@ -1252,7 +1252,7 @@
   },
   {
     "code": "KEMM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KEMMERER MUN",
     "runways": [
       "04",
@@ -1277,7 +1277,7 @@
   },
   {
     "code": "KEUG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MAHLON SWEET",
     "runways": [
       "16L",
@@ -1302,7 +1302,7 @@
   },
   {
     "code": "KGEG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPOKANE INTL",
     "runways": [
       "03",
@@ -1368,7 +1368,7 @@
   },
   {
     "code": "KGEY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOUTH BIG HORN CO",
     "runways": [
       "08",
@@ -1393,7 +1393,7 @@
   },
   {
     "code": "KGIC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "IDAHO CO",
     "runways": [
       "08",
@@ -1413,7 +1413,7 @@
   },
   {
     "code": "KGPI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GLACIER PARK INTL",
     "runways": [
       "02",
@@ -1465,7 +1465,7 @@
   },
   {
     "code": "KGRF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRAY AAF",
     "runways": [
       "15",
@@ -1486,7 +1486,7 @@
   },
   {
     "code": "KHIO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PORTLAND-HILLSBORO",
     "runways": [
       "02",
@@ -1723,7 +1723,7 @@
   },
   {
     "code": "KHLN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HELENA REGL",
     "runways": [
       "05",
@@ -1815,7 +1815,7 @@
   },
   {
     "code": "KHRF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RAVALLI CO",
     "runways": [
       "17",
@@ -1835,7 +1835,7 @@
   },
   {
     "code": "KIDA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "IDAHO FALLS REGL",
     "runways": [
       "03",
@@ -1905,7 +1905,7 @@
   },
   {
     "code": "KJAC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JACKSON HOLE",
     "runways": [
       "01",
@@ -1981,7 +1981,7 @@
   },
   {
     "code": "KKLS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOUTHWEST WASHINGTON REGL",
     "runways": [
       "12",
@@ -2001,7 +2001,7 @@
   },
   {
     "code": "KLAR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LARAMIE REGL",
     "runways": [
       "03",
@@ -2026,7 +2026,7 @@
   },
   {
     "code": "KLGD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LA GRANDE/UNION CO",
     "runways": [
       "12",
@@ -2051,7 +2051,7 @@
   },
   {
     "code": "KLMT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CRATER LAKE/KLAMATH REGL",
     "runways": [
       "08",
@@ -2085,7 +2085,7 @@
   },
   {
     "code": "KLWS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LEWISTON/NEZ PERCE CO",
     "runways": [
       "08",
@@ -2121,7 +2121,7 @@
   },
   {
     "code": "KM46",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COLSTRIP",
     "runways": [
       "06",
@@ -2149,7 +2149,7 @@
   },
   {
     "code": "KMAN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NAMPA MUN",
     "runways": [
       "11",
@@ -2177,7 +2177,7 @@
   },
   {
     "code": "KMFR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROGUE VALLEY INTL/MEDFORD",
     "runways": [
       "14",
@@ -2222,7 +2222,7 @@
   },
   {
     "code": "KMSO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MISSOULA MONTANA",
     "runways": [
       "08",
@@ -2341,7 +2341,7 @@
   },
   {
     "code": "KMYL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MC CALL MUN",
     "runways": [
       "16",
@@ -2361,7 +2361,7 @@
   },
   {
     "code": "KNUW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WHIDBEY I NAS",
     "runways": [
       "07",
@@ -2386,7 +2386,7 @@
   },
   {
     "code": "KOLM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OLYMPIA REGL",
     "runways": [
       "08",
@@ -2409,7 +2409,7 @@
   },
   {
     "code": "KOMK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OMAK",
     "runways": [
       "17",
@@ -2429,7 +2429,7 @@
   },
   {
     "code": "KONP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEWPORT MUN",
     "runways": [
       "02",
@@ -2453,7 +2453,7 @@
   },
   {
     "code": "KORS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ORCAS I",
     "runways": [
       "16",
@@ -2481,7 +2481,7 @@
   },
   {
     "code": "KOTH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOUTHWEST OREGON REGL",
     "runways": [
       "05",
@@ -2550,7 +2550,7 @@
   },
   {
     "code": "KPAE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SEATTLE PAINE INTL",
     "runways": [
       "16L",
@@ -2637,7 +2637,7 @@
   },
   {
     "code": "KPDX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PORTLAND INTL",
     "runways": [
       "03",
@@ -3082,7 +3082,7 @@
   },
   {
     "code": "KPIH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "POCATELLO REGL",
     "runways": [
       "03",
@@ -3107,7 +3107,7 @@
   },
   {
     "code": "KRNT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RENTON MUN",
     "runways": [
       "16",
@@ -3239,7 +3239,7 @@
   },
   {
     "code": "KRVF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RUBY VALLEY",
     "runways": [
       "07",
@@ -3269,7 +3269,7 @@
   },
   {
     "code": "KS39",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PRINEVILLE",
     "runways": [
       "11",
@@ -3294,7 +3294,7 @@
   },
   {
     "code": "KS50",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AUBURN MUN",
     "runways": [
       "17",
@@ -3315,7 +3315,7 @@
   },
   {
     "code": "KS59",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LIBBY",
     "runways": [
       "15",
@@ -3335,7 +3335,7 @@
   },
   {
     "code": "KSAA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SHIVELY",
     "runways": [
       "05",
@@ -3356,7 +3356,7 @@
   },
   {
     "code": "KSEA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SEATTLE-TACOMA INTL",
     "runways": [
       "16C",
@@ -3855,7 +3855,7 @@
   },
   {
     "code": "KSFF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FELTS",
     "runways": [
       "03",
@@ -3936,7 +3936,7 @@
   },
   {
     "code": "KSKA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FAIRCHILD AFB",
     "runways": [
       "05",
@@ -3988,7 +3988,7 @@
   },
   {
     "code": "KSMN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LEMHI CO",
     "runways": [
       "17",
@@ -4024,7 +4024,7 @@
   },
   {
     "code": "KSUN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FRIEDMAN MEML",
     "runways": [
       "13",
@@ -4141,7 +4141,7 @@
   },
   {
     "code": "KTCM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MCCHORD",
     "runways": [
       "16",
@@ -4314,7 +4314,7 @@
   },
   {
     "code": "KTIW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TACOMA NARROWS",
     "runways": [
       "17",
@@ -4335,7 +4335,7 @@
   },
   {
     "code": "KTMK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TILLAMOOK",
     "runways": [
       "01",
@@ -4357,7 +4357,7 @@
   },
   {
     "code": "KTTD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PORTLAND-TROUTDALE",
     "runways": [
       "07",
@@ -4442,7 +4442,7 @@
   },
   {
     "code": "KTWF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JOSLIN/MAGIC VALLEY REGL",
     "runways": [
       "08",
@@ -4511,7 +4511,7 @@
   },
   {
     "code": "KU02",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MC CARLEY",
     "runways": [
       "01",
@@ -4539,7 +4539,7 @@
   },
   {
     "code": "KU76",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MOUNTAIN HOME MUN",
     "runways": [
       "10",
@@ -4560,7 +4560,7 @@
   },
   {
     "code": "KUAO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AURORA STATE",
     "runways": [
       "17",
@@ -4618,7 +4618,7 @@
   },
   {
     "code": "KW43",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HULETT MUN",
     "runways": [
       "13",
@@ -4657,7 +4657,7 @@
   },
   {
     "code": "KWYS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "YELLOWSTONE",
     "runways": [
       "01",
@@ -4678,7 +4678,7 @@
   },
   {
     "code": "KYKM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "YAKIMA AIR TERM/MCALLISTER",
     "runways": [
       "04",
@@ -4832,7 +4832,7 @@
   },
   {
     "code": "K05U",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EUREKA",
     "runways": [
       "18",
@@ -4852,7 +4852,7 @@
   },
   {
     "code": "K0V7",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KAYENTA",
     "runways": [
       "05",
@@ -4873,7 +4873,7 @@
   },
   {
     "code": "K10U",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OWYHEE",
     "runways": [
       "05",
@@ -4894,7 +4894,7 @@
   },
   {
     "code": "K1L7",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ESCALANTE MUN",
     "runways": [
       "13",
@@ -4914,7 +4914,7 @@
   },
   {
     "code": "K1O2",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAMPSON",
     "runways": [
       "10",
@@ -4934,7 +4934,7 @@
   },
   {
     "code": "K33V",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WALDEN-JACKSON CO",
     "runways": [
       "04",
@@ -4957,7 +4957,7 @@
   },
   {
     "code": "K41U",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MANTI-EPHRAIM",
     "runways": [
       "03",
@@ -4985,7 +4985,7 @@
   },
   {
     "code": "K4V0",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RANGELY",
     "runways": [
       "07",
@@ -5006,7 +5006,7 @@
   },
   {
     "code": "K4V1",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPANISH PEAKS",
     "runways": [
       "02",
@@ -5029,7 +5029,7 @@
   },
   {
     "code": "KAAT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALTURAS MUN",
     "runways": [
       "03",
@@ -5063,7 +5063,7 @@
   },
   {
     "code": "KABQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALBUQUERQUE INTL SUNPORT",
     "runways": [
       "03",
@@ -5555,7 +5555,7 @@
   },
   {
     "code": "KACV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CALIFORNIA REDWOOD COAST - HUM",
     "runways": [
       "01",
@@ -5591,7 +5591,7 @@
   },
   {
     "code": "KAEG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DOUBLE EAGLE II",
     "runways": [
       "04",
@@ -5709,7 +5709,7 @@
   },
   {
     "code": "KAEJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CENTRAL COLORADO REGL",
     "runways": [
       "15",
@@ -5729,7 +5729,7 @@
   },
   {
     "code": "KAIB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOPKINS FIELD",
     "runways": [
       "05",
@@ -5752,7 +5752,7 @@
   },
   {
     "code": "KAJO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CORONA MUN",
     "runways": [
       "07",
@@ -5822,7 +5822,7 @@
   },
   {
     "code": "KALM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALAMOGORDO-WHITE SANDS REGL",
     "runways": [
       "04",
@@ -5844,7 +5844,7 @@
   },
   {
     "code": "KANK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SALIDA ALEXANDER",
     "runways": [
       "06",
@@ -5864,7 +5864,7 @@
   },
   {
     "code": "KAPA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CENTENNIAL",
     "runways": [
       "10",
@@ -6776,7 +6776,7 @@
   },
   {
     "code": "KAPC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NAPA CO",
     "runways": [
       "01L",
@@ -6998,7 +6998,7 @@
   },
   {
     "code": "KAPV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "APPLE VALLEY",
     "runways": [
       "08",
@@ -7028,7 +7028,7 @@
   },
   {
     "code": "KASE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ASPEN-PITKIN CO/SARDY",
     "runways": [
       "15",
@@ -7225,7 +7225,7 @@
   },
   {
     "code": "KAUN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AUBURN MUN",
     "runways": [
       "07",
@@ -7246,7 +7246,7 @@
   },
   {
     "code": "KAXX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ANGEL FIRE",
     "runways": [
       "17",
@@ -7266,7 +7266,7 @@
   },
   {
     "code": "KAZC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COLORADO CITY MUN",
     "runways": [
       "02",
@@ -7290,7 +7290,7 @@
   },
   {
     "code": "KBAB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BEALE AFB",
     "runways": [
       "15",
@@ -7311,7 +7311,7 @@
   },
   {
     "code": "KBCE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BRYCE CANYON",
     "runways": [
       "03",
@@ -7332,7 +7332,7 @@
   },
   {
     "code": "KBFL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MEADOWS",
     "runways": [
       "12L",
@@ -7423,7 +7423,7 @@
   },
   {
     "code": "KBJC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROCKY MOUNTAIN METRO",
     "runways": [
       "03",
@@ -8225,7 +8225,7 @@
   },
   {
     "code": "KBKF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BUCKLEY SFB",
     "runways": [
       "14",
@@ -8742,7 +8742,7 @@
   },
   {
     "code": "KBUR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOB HOPE",
     "runways": [
       "08",
@@ -9159,7 +9159,7 @@
   },
   {
     "code": "KC80",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW COALINGA MUN",
     "runways": [
       "01",
@@ -9182,7 +9182,7 @@
   },
   {
     "code": "KCCR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BUCHANAN",
     "runways": [
       "01L",
@@ -9288,7 +9288,7 @@
   },
   {
     "code": "KCEZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CORTEZ MUN",
     "runways": [
       "03",
@@ -9327,7 +9327,7 @@
   },
   {
     "code": "KCFO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COLORADO AIR AND SPACE PORT",
     "runways": [
       "08",
@@ -10070,7 +10070,7 @@
   },
   {
     "code": "KCFT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GREENLEE CO",
     "runways": [
       "07",
@@ -10091,7 +10091,7 @@
   },
   {
     "code": "KCHD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHANDLER MUN",
     "runways": [
       "04L",
@@ -10465,7 +10465,7 @@
   },
   {
     "code": "KCIC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHICO REGL",
     "runways": [
       "13L",
@@ -10490,7 +10490,7 @@
   },
   {
     "code": "KCMA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CAMARILLO",
     "runways": [
       "08",
@@ -10558,7 +10558,7 @@
   },
   {
     "code": "KCNO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHINO",
     "runways": [
       "03",
@@ -10638,7 +10638,7 @@
   },
   {
     "code": "KCOS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CITY OF COLORADO SPRINGS MUN",
     "runways": [
       "13",
@@ -10724,7 +10724,7 @@
   },
   {
     "code": "KCRQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MC CLELLAN-PALOMAR",
     "runways": [
       "06",
@@ -10873,7 +10873,7 @@
   },
   {
     "code": "KCXP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CARSON CITY",
     "runways": [
       "09",
@@ -10893,7 +10893,7 @@
   },
   {
     "code": "KDAG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BARSTOW-DAGGETT",
     "runways": [
       "04",
@@ -10918,7 +10918,7 @@
   },
   {
     "code": "KDEN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DENVER INTL",
     "runways": [
       "07",
@@ -12847,7 +12847,7 @@
   },
   {
     "code": "KDMA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DAVIS MONTHAN AFB",
     "runways": [
       "13",
@@ -12875,7 +12875,7 @@
   },
   {
     "code": "KDTA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DELTA MUN",
     "runways": [
       "17",
@@ -12896,7 +12896,7 @@
   },
   {
     "code": "KDVO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GNOSS",
     "runways": [
       "13",
@@ -13004,7 +13004,7 @@
   },
   {
     "code": "KDVT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PHOENIX DEER VALLEY",
     "runways": [
       "07L",
@@ -13323,7 +13323,7 @@
   },
   {
     "code": "KE24",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WHITERIVER",
     "runways": [
       "01",
@@ -13343,7 +13343,7 @@
   },
   {
     "code": "KE55",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OCEAN RIDGE",
     "runways": [
       "13",
@@ -13373,7 +13373,7 @@
   },
   {
     "code": "KEGE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EAGLE CO REGL",
     "runways": [
       "07",
@@ -13571,7 +13571,7 @@
   },
   {
     "code": "KEMT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN GABRIEL VALLEY",
     "runways": [
       "01",
@@ -13641,7 +13641,7 @@
   },
   {
     "code": "KENV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WENDOVER",
     "runways": [
       "08",
@@ -13665,7 +13665,7 @@
   },
   {
     "code": "KFAT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FRESNO YOSEMITE INTL",
     "runways": [
       "11L",
@@ -13722,7 +13722,7 @@
   },
   {
     "code": "KFFZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FALCON",
     "runways": [
       "04L",
@@ -13887,7 +13887,7 @@
   },
   {
     "code": "KFLG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FLAGSTAFF PULLIAM",
     "runways": [
       "03",
@@ -13908,7 +13908,7 @@
   },
   {
     "code": "KFLY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MEADOW LAKE",
     "runways": [
       "08",
@@ -13933,7 +13933,7 @@
   },
   {
     "code": "KFMN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FOUR CORNERS REGL",
     "runways": [
       "05",
@@ -13992,7 +13992,7 @@
   },
   {
     "code": "KFNL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTHERN COLORADO REGL",
     "runways": [
       "06",
@@ -14730,7 +14730,7 @@
   },
   {
     "code": "KFUL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FULLERTON MUN",
     "runways": [
       "06",
@@ -14827,7 +14827,7 @@
   },
   {
     "code": "KGCN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRAND CANYON NATL PARK",
     "runways": [
       "03",
@@ -14855,7 +14855,7 @@
   },
   {
     "code": "KGEU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GLENDALE REGL",
     "runways": [
       "01",
@@ -15130,7 +15130,7 @@
   },
   {
     "code": "KGJT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRAND JUNCTION REGL",
     "runways": [
       "04",
@@ -15230,7 +15230,7 @@
   },
   {
     "code": "KGNB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRANBY-GRAND CO",
     "runways": [
       "09",
@@ -15250,7 +15250,7 @@
   },
   {
     "code": "KGXY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GREELEY-WELD CO",
     "runways": [
       "10",
@@ -16001,7 +16001,7 @@
   },
   {
     "code": "KGYR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PHOENIX GOODYEAR",
     "runways": [
       "03",
@@ -16276,7 +16276,7 @@
   },
   {
     "code": "KHCR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HEBER VALLEY",
     "runways": [
       "04",
@@ -16296,7 +16296,7 @@
   },
   {
     "code": "KHDN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "YAMPA VALLEY",
     "runways": [
       "10",
@@ -16372,7 +16372,7 @@
   },
   {
     "code": "KHEQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOLYOKE MUN",
     "runways": [
       "14",
@@ -16393,7 +16393,7 @@
   },
   {
     "code": "KHES",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HEALDSBURG MUN",
     "runways": [
       "13",
@@ -16501,7 +16501,7 @@
   },
   {
     "code": "KHHR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTHROP/HAWTHORNE MUN",
     "runways": [
       "07",
@@ -16627,7 +16627,7 @@
   },
   {
     "code": "KHIF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HILL AFB",
     "runways": [
       "14",
@@ -16673,7 +16673,7 @@
   },
   {
     "code": "KHMN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOLLOMAN AFB",
     "runways": [
       "04",
@@ -16739,7 +16739,7 @@
   },
   {
     "code": "KHND",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HENDERSON EXECUTIVE",
     "runways": [
       "17L",
@@ -16985,7 +16985,7 @@
   },
   {
     "code": "KHWD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HAYWARD EXECUTIVE",
     "runways": [
       "10L",
@@ -17071,7 +17071,7 @@
   },
   {
     "code": "KIWA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MESA GATEWAY",
     "runways": [
       "12C",
@@ -17502,7 +17502,7 @@
   },
   {
     "code": "KIYK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "INYOKERN",
     "runways": [
       "02",
@@ -17534,7 +17534,7 @@
   },
   {
     "code": "KKNB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KANAB MUN",
     "runways": [
       "01",
@@ -17564,7 +17564,7 @@
   },
   {
     "code": "KL08",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BORREGO VALLEY",
     "runways": [
       "08",
@@ -17594,7 +17594,7 @@
   },
   {
     "code": "KL35",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BIG BEAR CITY",
     "runways": [
       "08",
@@ -17614,7 +17614,7 @@
   },
   {
     "code": "KL45",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BAKERSFIELD MUN",
     "runways": [
       "16",
@@ -17635,7 +17635,7 @@
   },
   {
     "code": "KL71",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CALIFORNIA CITY MUN",
     "runways": [
       "06",
@@ -17656,7 +17656,7 @@
   },
   {
     "code": "KLAS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "REID INTL",
     "runways": [
       "01L",
@@ -18309,7 +18309,7 @@
   },
   {
     "code": "KLAX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LOS ANGELES INTL",
     "runways": [
       "06L",
@@ -20065,7 +20065,7 @@
   },
   {
     "code": "KLGB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LONG BEACH DAUGHERTY FIELD",
     "runways": [
       "08L",
@@ -20510,7 +20510,7 @@
   },
   {
     "code": "KLGU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LOGAN-CACHE",
     "runways": [
       "10",
@@ -20533,7 +20533,7 @@
   },
   {
     "code": "KLLR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LITTLE RIVER",
     "runways": [
       "11",
@@ -20554,7 +20554,7 @@
   },
   {
     "code": "KLMO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BRAND",
     "runways": [
       "11",
@@ -20799,7 +20799,7 @@
   },
   {
     "code": "KLSV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NELLIS AFB",
     "runways": [
       "03L",
@@ -20835,7 +20835,7 @@
   },
   {
     "code": "KLUF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LUKE AFB",
     "runways": [
       "03L",
@@ -20937,7 +20937,7 @@
   },
   {
     "code": "KLVK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LIVERMORE MUN",
     "runways": [
       "07L",
@@ -20962,7 +20962,7 @@
   },
   {
     "code": "KLXV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKE CO",
     "runways": [
       "16",
@@ -20990,7 +20990,7 @@
   },
   {
     "code": "KMEV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MINDEN-TAHOE",
     "runways": [
       "12",
@@ -21012,7 +21012,7 @@
   },
   {
     "code": "KMHR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MATHER",
     "runways": [
       "04L",
@@ -21050,7 +21050,7 @@
   },
   {
     "code": "KMHV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MOJAVE AIR  SPACE PORT/RUTAN",
     "runways": [
       "04",
@@ -21092,7 +21092,7 @@
   },
   {
     "code": "KMMH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MAMMOTH YOSEMITE",
     "runways": [
       "09",
@@ -21169,7 +21169,7 @@
   },
   {
     "code": "KMRY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MONTEREY REGL",
     "runways": [
       "10L",
@@ -21203,7 +21203,7 @@
   },
   {
     "code": "KMTJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MONTROSE REGL",
     "runways": [
       "13",
@@ -21250,7 +21250,7 @@
   },
   {
     "code": "KMYF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MONTGOMERY-GIBBS EXECUTIVE",
     "runways": [
       "05",
@@ -21362,7 +21362,7 @@
   },
   {
     "code": "KNFG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CAMP PENDLETON MCAS",
     "runways": [
       "03",
@@ -21473,7 +21473,7 @@
   },
   {
     "code": "KNFL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FALLON NAS",
     "runways": [
       "07",
@@ -21515,7 +21515,7 @@
   },
   {
     "code": "KNID",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHINA LAKE NAWS ARMITAGE FLD",
     "runways": [
       "03",
@@ -21563,7 +21563,7 @@
   },
   {
     "code": "KNKX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIRAMAR MCAS JOE FOSS",
     "runways": [
       "06L",
@@ -21712,7 +21712,7 @@
   },
   {
     "code": "KNTD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "POINT MUGU NAS",
     "runways": [
       "03",
@@ -21795,7 +21795,7 @@
   },
   {
     "code": "KNUQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MOFFETT FEDERAL",
     "runways": [
       "14L",
@@ -21870,7 +21870,7 @@
   },
   {
     "code": "KNYL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "YUMA MCAS/YUMA INTL",
     "runways": [
       "03L",
@@ -21993,7 +21993,7 @@
   },
   {
     "code": "KNZY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTH ISLAND NAS",
     "runways": [
       "11",
@@ -22098,7 +22098,7 @@
   },
   {
     "code": "KO05",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROGERS",
     "runways": [
       "16",
@@ -22119,7 +22119,7 @@
   },
   {
     "code": "KO28",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ELLS/WILLITS MUN",
     "runways": [
       "16",
@@ -22147,7 +22147,7 @@
   },
   {
     "code": "KO43",
-    "country": "Unknown",
+    "country": "USA",
     "name": "YERINGTON MUN",
     "runways": [
       "02",
@@ -22186,7 +22186,7 @@
   },
   {
     "code": "KO46",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WEED",
     "runways": [
       "14",
@@ -22206,7 +22206,7 @@
   },
   {
     "code": "KO69",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PETALUMA MUN",
     "runways": [
       "11",
@@ -22314,7 +22314,7 @@
   },
   {
     "code": "KO85",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BENTON",
     "runways": [
       "16",
@@ -22335,7 +22335,7 @@
   },
   {
     "code": "KOAK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OAKLAND SAN FRANCISCO BAY",
     "runways": [
       "10L",
@@ -22846,7 +22846,7 @@
   },
   {
     "code": "KOGD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OGDEN-HINCKLEY",
     "runways": [
       "03",
@@ -22911,7 +22911,7 @@
   },
   {
     "code": "KOKB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MAXWELL MEML",
     "runways": [
       "07",
@@ -22932,7 +22932,7 @@
   },
   {
     "code": "KOLS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NOGALES INTL",
     "runways": [
       "04",
@@ -22953,7 +22953,7 @@
   },
   {
     "code": "KONT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ONTARIO INTL",
     "runways": [
       "08L",
@@ -23352,7 +23352,7 @@
   },
   {
     "code": "KOXR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OXNARD",
     "runways": [
       "07",
@@ -23484,7 +23484,7 @@
   },
   {
     "code": "KP13",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN CARLOS APACHE",
     "runways": [
       "09",
@@ -23505,7 +23505,7 @@
   },
   {
     "code": "KP19",
-    "country": "Unknown",
+    "country": "USA",
     "name": "STELLAR",
     "runways": [
       "17",
@@ -23600,7 +23600,7 @@
   },
   {
     "code": "KP33",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COCHISE CO",
     "runways": [
       "03",
@@ -23621,7 +23621,7 @@
   },
   {
     "code": "KP52",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COTTONWOOD",
     "runways": [
       "14",
@@ -23642,7 +23642,7 @@
   },
   {
     "code": "KPAO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PALO ALTO",
     "runways": [
       "13",
@@ -23678,7 +23678,7 @@
   },
   {
     "code": "KPHX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PHOENIX SKY HARBOR INTL",
     "runways": [
       "07L",
@@ -24479,7 +24479,7 @@
   },
   {
     "code": "KPOC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BRACKETT",
     "runways": [
       "08L",
@@ -24557,7 +24557,7 @@
   },
   {
     "code": "KPRB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PASO ROBLES MUN",
     "runways": [
       "01",
@@ -24604,7 +24604,7 @@
   },
   {
     "code": "KPRC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PRESCOTT REGL/ERNEST A LOVE",
     "runways": [
       "03L",
@@ -24698,7 +24698,7 @@
   },
   {
     "code": "KPSP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PALM SPRINGS INTL",
     "runways": [
       "13L",
@@ -25015,7 +25015,7 @@
   },
   {
     "code": "KPVU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PROVO MUN",
     "runways": [
       "13",
@@ -25123,7 +25123,7 @@
   },
   {
     "code": "KRAL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RIVERSIDE",
     "runways": [
       "09",
@@ -25212,7 +25212,7 @@
   },
   {
     "code": "KRCV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROMINGER",
     "runways": [
       "03",
@@ -25235,7 +25235,7 @@
   },
   {
     "code": "KRDD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "REDDING REGL",
     "runways": [
       "12",
@@ -25337,7 +25337,7 @@
   },
   {
     "code": "KRHV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "REID-HILLVIEW",
     "runways": [
       "13L",
@@ -25394,7 +25394,7 @@
   },
   {
     "code": "KRIF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RICHFIELD MUN",
     "runways": [
       "01",
@@ -25422,7 +25422,7 @@
   },
   {
     "code": "KRIL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RIFLE GARFIELD CO",
     "runways": [
       "08",
@@ -25571,7 +25571,7 @@
   },
   {
     "code": "KRIV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MARCH ARB",
     "runways": [
       "12",
@@ -25637,7 +25637,7 @@
   },
   {
     "code": "KRNM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RAMONA",
     "runways": [
       "09",
@@ -25697,7 +25697,7 @@
   },
   {
     "code": "KRNO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RENO/TAHOE INTL",
     "runways": [
       "08",
@@ -25960,7 +25960,7 @@
   },
   {
     "code": "KRTS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RENO/STEAD",
     "runways": [
       "08",
@@ -25985,7 +25985,7 @@
   },
   {
     "code": "KRYN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RYAN",
     "runways": [
       "06L",
@@ -26010,7 +26010,7 @@
   },
   {
     "code": "KSAD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAFFORD REGL/1LT DUANE SPALSBU",
     "runways": [
       "08",
@@ -26033,7 +26033,7 @@
   },
   {
     "code": "KSAF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SANTA FE REGL",
     "runways": [
       "02",
@@ -26111,7 +26111,7 @@
   },
   {
     "code": "KSAN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN DIEGO INTL",
     "runways": [
       "09",
@@ -26608,7 +26608,7 @@
   },
   {
     "code": "KSBA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SANTA BARBARA MUN",
     "runways": [
       "07",
@@ -26797,7 +26797,7 @@
   },
   {
     "code": "KSBD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN BERNARDINO INTL",
     "runways": [
       "06",
@@ -26901,7 +26901,7 @@
   },
   {
     "code": "KSBP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN LUIS OBISPO CO REGL",
     "runways": [
       "07",
@@ -26987,7 +26987,7 @@
   },
   {
     "code": "KSDL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SCOTTSDALE",
     "runways": [
       "03",
@@ -27401,7 +27401,7 @@
   },
   {
     "code": "KSDM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BROWN MUN",
     "runways": [
       "08L",
@@ -27510,7 +27510,7 @@
   },
   {
     "code": "KSEE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GILLESPIE",
     "runways": [
       "09L",
@@ -27617,7 +27617,7 @@
   },
   {
     "code": "KSEZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SEDONA",
     "runways": [
       "03",
@@ -27637,7 +27637,7 @@
   },
   {
     "code": "KSFO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN FRANCISCO INTL",
     "runways": [
       "01L",
@@ -28483,7 +28483,7 @@
   },
   {
     "code": "KSGU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ST GEORGE REGL",
     "runways": [
       "01",
@@ -28531,7 +28531,7 @@
   },
   {
     "code": "KSJC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MINETA SAN JOSE INTL",
     "runways": [
       "12L",
@@ -28948,7 +28948,7 @@
   },
   {
     "code": "KSLC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SALT LAKE CITY INTL",
     "runways": [
       "14",
@@ -29601,7 +29601,7 @@
   },
   {
     "code": "KSLI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LOS ALAMITOS AAF",
     "runways": [
       "04L",
@@ -29673,7 +29673,7 @@
   },
   {
     "code": "KSMF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SACRAMENTO INTL",
     "runways": [
       "17L",
@@ -29870,7 +29870,7 @@
   },
   {
     "code": "KSMO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SANTA MONICA MUN",
     "runways": [
       "03",
@@ -30334,7 +30334,7 @@
   },
   {
     "code": "KSMX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SANTA MARIA PUB/CAPT HANCOCK",
     "runways": [
       "02",
@@ -30388,7 +30388,7 @@
   },
   {
     "code": "KSNA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JOHN WAYNE-ORANGE CO",
     "runways": [
       "02L",
@@ -31007,7 +31007,7 @@
   },
   {
     "code": "KSNS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SALINAS MUN",
     "runways": [
       "08",
@@ -31032,7 +31032,7 @@
   },
   {
     "code": "KSPK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPANISH FORK MUN/WOODHOUSE",
     "runways": [
       "12",
@@ -31118,7 +31118,7 @@
   },
   {
     "code": "KSQL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN CARLOS",
     "runways": [
       "12",
@@ -31154,7 +31154,7 @@
   },
   {
     "code": "KSRR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SIERRA BLANCA REGL",
     "runways": [
       "06",
@@ -31179,7 +31179,7 @@
   },
   {
     "code": "KSTS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHARLES M SCHULZ/SONOMA CO",
     "runways": [
       "02",
@@ -31384,7 +31384,7 @@
   },
   {
     "code": "KSUU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TRAVIS AFB",
     "runways": [
       "03L",
@@ -31620,7 +31620,7 @@
   },
   {
     "code": "KSVC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRANT CO",
     "runways": [
       "03",
@@ -31647,7 +31647,7 @@
   },
   {
     "code": "KSVE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SUSANVILLE MUN",
     "runways": [
       "07",
@@ -31669,7 +31669,7 @@
   },
   {
     "code": "KSVR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOUTH VALLEY REGL",
     "runways": [
       "16",
@@ -31690,7 +31690,7 @@
   },
   {
     "code": "KTAD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "STOKES",
     "runways": [
       "03",
@@ -31713,7 +31713,7 @@
   },
   {
     "code": "KTCY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TRACY MUN",
     "runways": [
       "08",
@@ -31738,7 +31738,7 @@
   },
   {
     "code": "KTNX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TEST RANGE",
     "runways": [
       "14",
@@ -31812,7 +31812,7 @@
   },
   {
     "code": "KTOA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ZAMPERINI",
     "runways": [
       "11L",
@@ -31860,7 +31860,7 @@
   },
   {
     "code": "KTRK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TRUCKEE-TAHOE",
     "runways": [
       "02",
@@ -31928,7 +31928,7 @@
   },
   {
     "code": "KTRM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JACQUELINE COCHRAN REGL",
     "runways": [
       "12",
@@ -32133,7 +32133,7 @@
   },
   {
     "code": "KTUS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TUCSON INTL",
     "runways": [
       "04",
@@ -32332,7 +32332,7 @@
   },
   {
     "code": "KTVL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKE TAHOE",
     "runways": [
       "18",
@@ -32376,7 +32376,7 @@
   },
   {
     "code": "KTVY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOLINDER/TOOELE VALLEY",
     "runways": [
       "17",
@@ -32397,7 +32397,7 @@
   },
   {
     "code": "KTYL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TAYLOR MUN",
     "runways": [
       "03",
@@ -32425,7 +32425,7 @@
   },
   {
     "code": "KU14",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEPHI MUN",
     "runways": [
       "17",
@@ -32446,7 +32446,7 @@
   },
   {
     "code": "KU34",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GREEN RIVER MUN",
     "runways": [
       "13",
@@ -32467,7 +32467,7 @@
   },
   {
     "code": "KUDD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BERMUDA DUNES",
     "runways": [
       "10",
@@ -32657,7 +32657,7 @@
   },
   {
     "code": "KUKI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "UKIAH MUN",
     "runways": [
       "15",
@@ -32733,7 +32733,7 @@
   },
   {
     "code": "KVBG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "VANDENBERG SFB",
     "runways": [
       "12",
@@ -32761,7 +32761,7 @@
   },
   {
     "code": "KVCB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NUT TREE",
     "runways": [
       "02",
@@ -32791,7 +32791,7 @@
   },
   {
     "code": "KVGT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTH LAS VEGAS",
     "runways": [
       "07",
@@ -32898,7 +32898,7 @@
   },
   {
     "code": "KVNY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "VAN NUYS",
     "runways": [
       "16L",
@@ -33372,7 +33372,7 @@
   },
   {
     "code": "KWHP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WHITEMAN",
     "runways": [
       "12",
@@ -33393,7 +33393,7 @@
   },
   {
     "code": "KWJF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GEN WM J FOX",
     "runways": [
       "06",
@@ -33414,7 +33414,7 @@
   },
   {
     "code": "KWMC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WINNEMUCCA MUN",
     "runways": [
       "02",
@@ -33439,7 +33439,7 @@
   },
   {
     "code": "KWVI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WATSONVILLE MUN",
     "runways": [
       "02",
@@ -33508,7 +33508,7 @@
   },
   {
     "code": "KXTA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOMEY",
     "runways": [
       "12",
@@ -33540,7 +33540,7 @@
   },
   {
     "code": "K21D",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKE ELMO",
     "runways": [
       "04",
@@ -33578,7 +33578,7 @@
   },
   {
     "code": "KANE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ANOKA CO/BLAINE",
     "runways": [
       "09",
@@ -33750,7 +33750,7 @@
   },
   {
     "code": "KCFE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BUFFALO MUN",
     "runways": [
       "18",
@@ -33786,7 +33786,7 @@
   },
   {
     "code": "KDSM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DES MOINES INTL",
     "runways": [
       "05",
@@ -33811,7 +33811,7 @@
   },
   {
     "code": "KFBL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FARIBAULT MUN -STROHFUS",
     "runways": [
       "01",
@@ -33849,7 +33849,7 @@
   },
   {
     "code": "KFCM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FLYING CLOUD",
     "runways": [
       "10L",
@@ -34037,7 +34037,7 @@
   },
   {
     "code": "KFLV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SHERMAN AAF",
     "runways": [
       "16",
@@ -34258,7 +34258,7 @@
   },
   {
     "code": "KGPH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIDWEST NATIONAL AIR CENTER",
     "runways": [
       "18",
@@ -34511,7 +34511,7 @@
   },
   {
     "code": "KGYL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GLENCOE MUN",
     "runways": [
       "13",
@@ -34547,7 +34547,7 @@
   },
   {
     "code": "KHSR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOT SPRINGS MUN",
     "runways": [
       "01",
@@ -34579,7 +34579,7 @@
   },
   {
     "code": "KIXD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW CENTURY AIRCENTER",
     "runways": [
       "04",
@@ -34834,7 +34834,7 @@
   },
   {
     "code": "KLVN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AIRLAKE",
     "runways": [
       "12",
@@ -34926,7 +34926,7 @@
   },
   {
     "code": "KLXT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KANSAS CITY/LEES SUMMIT REGL",
     "runways": [
       "11",
@@ -35181,7 +35181,7 @@
   },
   {
     "code": "KMCI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KANSAS CITY INTL",
     "runways": [
       "01L",
@@ -35569,7 +35569,7 @@
   },
   {
     "code": "KMGG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MAPLE LAKE MUN-BILL MAVENCAMP",
     "runways": [
       "10",
@@ -35605,7 +35605,7 @@
   },
   {
     "code": "KMHK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MANHATTAN REGL",
     "runways": [
       "03",
@@ -35629,7 +35629,7 @@
   },
   {
     "code": "KMIC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CRYSTAL",
     "runways": [
       "06L",
@@ -35720,7 +35720,7 @@
   },
   {
     "code": "KMKC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KANSAS CITY DOWNTOWN/WHEELER",
     "runways": [
       "01",
@@ -35965,7 +35965,7 @@
   },
   {
     "code": "KMSP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MINNEAPOLIS-ST PAUL INTL/WOLD-",
     "runways": [
       "04",
@@ -36676,7 +36676,7 @@
   },
   {
     "code": "KOFF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OFFUTT AFB",
     "runways": [
       "13",
@@ -36786,7 +36786,7 @@
   },
   {
     "code": "KOJC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JOHNSON CO EXECUTIVE",
     "runways": [
       "18",
@@ -37039,7 +37039,7 @@
   },
   {
     "code": "KOMA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EPPLEY",
     "runways": [
       "14L",
@@ -37170,7 +37170,7 @@
   },
   {
     "code": "KRCA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ELLSWORTH AFB",
     "runways": [
       "13",
@@ -37191,7 +37191,7 @@
   },
   {
     "code": "KSGS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOUTH ST PAUL MUN/RICHARD E FL",
     "runways": [
       "16",
@@ -37227,7 +37227,7 @@
   },
   {
     "code": "KSPF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BLACK HILLS-ICE",
     "runways": [
       "04",
@@ -37252,7 +37252,7 @@
   },
   {
     "code": "KSTJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROSECRANS MEML",
     "runways": [
       "13",
@@ -37507,7 +37507,7 @@
   },
   {
     "code": "KSTL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ST LOUIS LAMBERT INTL",
     "runways": [
       "06",
@@ -38207,7 +38207,7 @@
   },
   {
     "code": "KSTP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ST PAUL DOWNTOWN-HOLMAN",
     "runways": [
       "09",
@@ -38388,7 +38388,7 @@
   },
   {
     "code": "KSUS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPIRIT OF ST LOUIS",
     "runways": [
       "08L",
@@ -38586,7 +38586,7 @@
   },
   {
     "code": "KXWA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WILLISTON BASIN INTL",
     "runways": [
       "04",
@@ -38655,7 +38655,7 @@
   },
   {
     "code": "K1K4",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DAVID JAY PERRY",
     "runways": [
       "13",
@@ -38702,7 +38702,7 @@
   },
   {
     "code": "K3R9",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKEWAY",
     "runways": [
       "16",
@@ -38932,7 +38932,7 @@
   },
   {
     "code": "K50F",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOURLAND",
     "runways": [
       "17",
@@ -39605,7 +39605,7 @@
   },
   {
     "code": "K54T",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RWJ AIRPARK",
     "runways": [
       "08",
@@ -40080,7 +40080,7 @@
   },
   {
     "code": "K5C1",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOERNE STAGE",
     "runways": [
       "17",
@@ -40371,7 +40371,7 @@
   },
   {
     "code": "K6R3",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLEVELAND MUN",
     "runways": [
       "16",
@@ -40847,7 +40847,7 @@
   },
   {
     "code": "KADS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ADDISON",
     "runways": [
       "16",
@@ -42090,7 +42090,7 @@
   },
   {
     "code": "KAFW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PEROT/FT WORTH ALLIANCE",
     "runways": [
       "16L",
@@ -43114,7 +43114,7 @@
   },
   {
     "code": "KARM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WHARTON REGL",
     "runways": [
       "14",
@@ -43292,7 +43292,7 @@
   },
   {
     "code": "KASG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPRINGDALE MUN",
     "runways": [
       "18",
@@ -43313,7 +43313,7 @@
   },
   {
     "code": "KAUS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AUSTIN-BERGSTROM INTL",
     "runways": [
       "18L",
@@ -43771,7 +43771,7 @@
   },
   {
     "code": "KAXH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOUSTON/SOUTHWEST",
     "runways": [
       "09",
@@ -44343,7 +44343,7 @@
   },
   {
     "code": "KBAZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW BRAUNFELS NATL",
     "runways": [
       "13",
@@ -44664,7 +44664,7 @@
   },
   {
     "code": "KBYY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BAY CITY REGL",
     "runways": [
       "13",
@@ -44842,7 +44842,7 @@
   },
   {
     "code": "KCHK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHICKASHA MUN",
     "runways": [
       "01",
@@ -44890,7 +44890,7 @@
   },
   {
     "code": "KCPT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLEBURNE REGL",
     "runways": [
       "15",
@@ -45565,7 +45565,7 @@
   },
   {
     "code": "KCVB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CASTROVILLE MUN",
     "runways": [
       "16",
@@ -45856,7 +45856,7 @@
   },
   {
     "code": "KCXO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CONROE/NORTH HOUSTON REGL",
     "runways": [
       "01",
@@ -46524,7 +46524,7 @@
   },
   {
     "code": "KDAL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DALLAS LOVE",
     "runways": [
       "13L",
@@ -49004,7 +49004,7 @@
   },
   {
     "code": "KDFW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DALLAS-FT WORTH INTL",
     "runways": [
       "13L",
@@ -52060,7 +52060,7 @@
   },
   {
     "code": "KDLF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAUGHLIN AFB",
     "runways": [
       "13C",
@@ -52141,7 +52141,7 @@
   },
   {
     "code": "KDTO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DENTON ENTERPRISE",
     "runways": [
       "18L",
@@ -53278,7 +53278,7 @@
   },
   {
     "code": "KDWH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DAVID WAYNE HOOKS MEML",
     "runways": [
       "17L",
@@ -53899,7 +53899,7 @@
   },
   {
     "code": "KE38",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALPINE-CASPARIS MUN",
     "runways": [
       "01",
@@ -53923,7 +53923,7 @@
   },
   {
     "code": "KEDC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AUSTIN EXECUTIVE",
     "runways": [
       "13",
@@ -54131,7 +54131,7 @@
   },
   {
     "code": "KEFD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ELLINGTON",
     "runways": [
       "04",
@@ -54879,7 +54879,7 @@
   },
   {
     "code": "KELP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EL PASO INTL",
     "runways": [
       "04",
@@ -55085,7 +55085,7 @@
   },
   {
     "code": "KEND",
-    "country": "Unknown",
+    "country": "USA",
     "name": "VANCE AFB",
     "runways": [
       "17C",
@@ -55154,7 +55154,7 @@
   },
   {
     "code": "KF41",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ENNIS MUN",
     "runways": [
       "16",
@@ -55853,7 +55853,7 @@
   },
   {
     "code": "KF46",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RALPH M HALL/ROCKWALL MUN",
     "runways": [
       "17",
@@ -56832,7 +56832,7 @@
   },
   {
     "code": "KFTW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FT WORTH MEACHAM INTL",
     "runways": [
       "16",
@@ -57878,7 +57878,7 @@
   },
   {
     "code": "KFWS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FT WORTH SPINKS",
     "runways": [
       "18L",
@@ -58840,7 +58840,7 @@
   },
   {
     "code": "KFYV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DRAKE",
     "runways": [
       "16",
@@ -58861,7 +58861,7 @@
   },
   {
     "code": "KGKY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ARLINGTON MUN",
     "runways": [
       "16",
@@ -59839,7 +59839,7 @@
   },
   {
     "code": "KGLS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SCHOLES INTL AT GALVESTON",
     "runways": [
       "14",
@@ -60523,7 +60523,7 @@
   },
   {
     "code": "KGOK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GUTHRIE/EDMOND REGL",
     "runways": [
       "16",
@@ -60567,7 +60567,7 @@
   },
   {
     "code": "KGPM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRAND PRAIRIE MUN",
     "runways": [
       "18",
@@ -61490,7 +61490,7 @@
   },
   {
     "code": "KGRK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROBERT GRAY AAF",
     "runways": [
       "15",
@@ -61544,7 +61544,7 @@
   },
   {
     "code": "KGTU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GEORGETOWN EXEC",
     "runways": [
       "11",
@@ -61746,7 +61746,7 @@
   },
   {
     "code": "KHLR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "YOAKUM-DEFRENN AHP",
     "runways": [
       "16",
@@ -61800,7 +61800,7 @@
   },
   {
     "code": "KHOU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WILLIAM P HOBBY",
     "runways": [
       "04",
@@ -62758,7 +62758,7 @@
   },
   {
     "code": "KHPY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BAYTOWN",
     "runways": [
       "14",
@@ -63234,7 +63234,7 @@
   },
   {
     "code": "KHQZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MESQUITE METRO",
     "runways": [
       "18",
@@ -64405,7 +64405,7 @@
   },
   {
     "code": "KHSD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SUNDANCE",
     "runways": [
       "18",
@@ -64449,7 +64449,7 @@
   },
   {
     "code": "KHYI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN MARCOS REGL",
     "runways": [
       "08",
@@ -64719,7 +64719,7 @@
   },
   {
     "code": "KIAH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GEORGE BUSH INTCNTL/HOUSTON",
     "runways": [
       "08L",
@@ -66600,7 +66600,7 @@
   },
   {
     "code": "KILE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SKYLARK",
     "runways": [
       "01",
@@ -66648,7 +66648,7 @@
   },
   {
     "code": "KIWS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WEST HOUSTON",
     "runways": [
       "15",
@@ -67220,7 +67220,7 @@
   },
   {
     "code": "KJWY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MID-WAY REGL",
     "runways": [
       "18",
@@ -68188,7 +68188,7 @@
   },
   {
     "code": "KLBX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TEXAS GULF COAST REGL",
     "runways": [
       "17",
@@ -68808,7 +68808,7 @@
   },
   {
     "code": "KLNC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LANCASTER REGL",
     "runways": [
       "13",
@@ -69962,7 +69962,7 @@
   },
   {
     "code": "KLTS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALTUS AFB",
     "runways": [
       "18L",
@@ -70020,7 +70020,7 @@
   },
   {
     "code": "KLUD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DECATUR MUN",
     "runways": [
       "17",
@@ -70805,7 +70805,7 @@
   },
   {
     "code": "KLVJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PEARLAND REGL",
     "runways": [
       "14",
@@ -71281,7 +71281,7 @@
   },
   {
     "code": "KMSY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ARMSTRONG NEW ORLEANS INTL",
     "runways": [
       "02",
@@ -71407,7 +71407,7 @@
   },
   {
     "code": "KNBG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW ORLEANS NAS",
     "runways": [
       "04",
@@ -71477,7 +71477,7 @@
   },
   {
     "code": "KNEW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKEFRONT",
     "runways": [
       "09",
@@ -71613,7 +71613,7 @@
   },
   {
     "code": "KNFW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FT WORTH NAS JRB",
     "runways": [
       "18",
@@ -72600,7 +72600,7 @@
   },
   {
     "code": "KOKC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OKC WILL ROGERS INTL",
     "runways": [
       "13",
@@ -73138,7 +73138,7 @@
   },
   {
     "code": "KOUN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "UNIV OF OKLA WESTHEIMER",
     "runways": [
       "03",
@@ -73579,7 +73579,7 @@
   },
   {
     "code": "KPEZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PLEASANTON MUN",
     "runways": [
       "16",
@@ -73870,7 +73870,7 @@
   },
   {
     "code": "KPWA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WILEY POST",
     "runways": [
       "13",
@@ -74325,7 +74325,7 @@
   },
   {
     "code": "KRBD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DALLAS EXECUTIVE",
     "runways": [
       "13",
@@ -75560,7 +75560,7 @@
   },
   {
     "code": "KRCE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLARENCE E PAGE MUN",
     "runways": [
       "17L",
@@ -75606,7 +75606,7 @@
   },
   {
     "code": "KRND",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RANDOLPH AFB",
     "runways": [
       "15L",
@@ -76055,7 +76055,7 @@
   },
   {
     "code": "KROG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROGERS EXECUTIVE-CARTER",
     "runways": [
       "02",
@@ -76076,7 +76076,7 @@
   },
   {
     "code": "KRQO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EL RENO REGL",
     "runways": [
       "17",
@@ -76122,7 +76122,7 @@
   },
   {
     "code": "KRVS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TULSA RIVERSIDE",
     "runways": [
       "01L",
@@ -76168,7 +76168,7 @@
   },
   {
     "code": "KRYW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAGO VISTA TX/RUSTY ALLEN",
     "runways": [
       "15",
@@ -76398,7 +76398,7 @@
   },
   {
     "code": "KSAT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SAN ANTONIO INTL",
     "runways": [
       "04",
@@ -76974,7 +76974,7 @@
   },
   {
     "code": "KSGR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SUGAR LAND REGL",
     "runways": [
       "17",
@@ -77546,7 +77546,7 @@
   },
   {
     "code": "KSKF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KELLY",
     "runways": [
       "16",
@@ -77965,7 +77965,7 @@
   },
   {
     "code": "KSNL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SHAWNEE REGL",
     "runways": [
       "17",
@@ -78004,7 +78004,7 @@
   },
   {
     "code": "KSSF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "STINSON MUN",
     "runways": [
       "10",
@@ -78530,7 +78530,7 @@
   },
   {
     "code": "KT00",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHAMBERS CO",
     "runways": [
       "12",
@@ -79005,7 +79005,7 @@
   },
   {
     "code": "KT41",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LA PORTE MUN",
     "runways": [
       "05",
@@ -79641,7 +79641,7 @@
   },
   {
     "code": "KT74",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TAYLOR MUN",
     "runways": [
       "17",
@@ -79871,7 +79871,7 @@
   },
   {
     "code": "KT78",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LIBERTY MUN",
     "runways": [
       "16",
@@ -80347,7 +80347,7 @@
   },
   {
     "code": "KT89",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAJITAS INTL",
     "runways": [
       "07",
@@ -80367,7 +80367,7 @@
   },
   {
     "code": "KTIK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TINKER AFB",
     "runways": [
       "13",
@@ -80598,7 +80598,7 @@
   },
   {
     "code": "KTKI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MCKINNEY NATL",
     "runways": [
       "18",
@@ -81769,7 +81769,7 @@
   },
   {
     "code": "KTME",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOUSTON EXEC",
     "runways": [
       "18",
@@ -82333,7 +82333,7 @@
   },
   {
     "code": "KTUL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TULSA INTL",
     "runways": [
       "08",
@@ -82376,7 +82376,7 @@
   },
   {
     "code": "KVBT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BENTONVILLE MUN/THADEN",
     "runways": [
       "17",
@@ -82399,7 +82399,7 @@
   },
   {
     "code": "KWEA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PARKER CO",
     "runways": [
       "17",
@@ -83079,7 +83079,7 @@
   },
   {
     "code": "KXNA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTHWEST ARKANSAS NATL",
     "runways": [
       "16L",
@@ -83102,7 +83102,7 @@
   },
   {
     "code": "K05C",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRIFFITH-MERRILLVILLE",
     "runways": [
       "08",
@@ -83210,7 +83210,7 @@
   },
   {
     "code": "K1G3",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KENT STATE UNIVERSITY",
     "runways": [
       "01",
@@ -83334,7 +83334,7 @@
   },
   {
     "code": "K3HO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOBART SKY RANCH",
     "runways": [
       "18",
@@ -83442,7 +83442,7 @@
   },
   {
     "code": "K57C",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EAST TROY MUN",
     "runways": [
       "08",
@@ -83521,7 +83521,7 @@
   },
   {
     "code": "KAKR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AKRON FULTON INTL",
     "runways": [
       "07",
@@ -83645,7 +83645,7 @@
   },
   {
     "code": "KALN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ST LOUIS REGL",
     "runways": [
       "11",
@@ -83808,7 +83808,7 @@
   },
   {
     "code": "KARB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ANN ARBOR MUN",
     "runways": [
       "06",
@@ -84185,7 +84185,7 @@
   },
   {
     "code": "KARR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AURORA MUN",
     "runways": [
       "09",
@@ -84448,7 +84448,7 @@
   },
   {
     "code": "KBKL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BURKE LAKEFRONT",
     "runways": [
       "06L",
@@ -84720,7 +84720,7 @@
   },
   {
     "code": "KBLV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SCOTT AFB/MIDAMERICA ST LOUIS",
     "runways": [
       "14L",
@@ -84918,7 +84918,7 @@
   },
   {
     "code": "KBUU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BURLINGTON MUN",
     "runways": [
       "01",
@@ -84997,7 +84997,7 @@
   },
   {
     "code": "KCAK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AKRON-CANTON REGL",
     "runways": [
       "01",
@@ -85123,7 +85123,7 @@
   },
   {
     "code": "KCGF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CUYAHOGA CO",
     "runways": [
       "06",
@@ -85371,7 +85371,7 @@
   },
   {
     "code": "KCLE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLEVELAND-HOPKINS INTL",
     "runways": [
       "06L",
@@ -85725,7 +85725,7 @@
   },
   {
     "code": "KCMH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JOHN GLENN COLUMBUS INTL",
     "runways": [
       "10L",
@@ -85860,7 +85860,7 @@
   },
   {
     "code": "KCPS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ST LOUIS DOWNTOWN",
     "runways": [
       "05",
@@ -86047,7 +86047,7 @@
   },
   {
     "code": "KCVG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CINCINNATI/NORTHERN KY INTL",
     "runways": [
       "09",
@@ -86561,7 +86561,7 @@
   },
   {
     "code": "KDAY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COX-DAYTON INTL",
     "runways": [
       "06L",
@@ -86607,7 +86607,7 @@
   },
   {
     "code": "KDET",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COLEMAN A YOUNG MUN",
     "runways": [
       "15",
@@ -86982,7 +86982,7 @@
   },
   {
     "code": "KDPA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DUPAGE",
     "runways": [
       "02L",
@@ -87285,7 +87285,7 @@
   },
   {
     "code": "KDTW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DETROIT METRO WAYNE CO",
     "runways": [
       "03L",
@@ -88141,7 +88141,7 @@
   },
   {
     "code": "KENW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KENOSHA REGL",
     "runways": [
       "07L",
@@ -88222,7 +88222,7 @@
   },
   {
     "code": "KETB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WEST BEND MUN",
     "runways": [
       "06",
@@ -88301,7 +88301,7 @@
   },
   {
     "code": "KEYE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EAGLE CREEK",
     "runways": [
       "03",
@@ -88450,7 +88450,7 @@
   },
   {
     "code": "KFFO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WRIGHT-PATTERSON AFB",
     "runways": [
       "05L",
@@ -88480,7 +88480,7 @@
   },
   {
     "code": "KFNT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BISHOP INTL",
     "runways": [
       "09",
@@ -88526,7 +88526,7 @@
   },
   {
     "code": "KGEZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SHELBYVILLE MUN",
     "runways": [
       "01",
@@ -88612,7 +88612,7 @@
   },
   {
     "code": "KGYY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GARY/CHICAGO INTL",
     "runways": [
       "02",
@@ -88833,7 +88833,7 @@
   },
   {
     "code": "KHAO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BUTLER CO REGL-HOGAN",
     "runways": [
       "12",
@@ -88861,7 +88861,7 @@
   },
   {
     "code": "KHFY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "INDY SOUTH GREENWOOD",
     "runways": [
       "01",
@@ -88970,7 +88970,7 @@
   },
   {
     "code": "KHXF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HARTFORD MUN",
     "runways": [
       "09",
@@ -89049,7 +89049,7 @@
   },
   {
     "code": "KI69",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLERMONT CO",
     "runways": [
       "04",
@@ -89077,7 +89077,7 @@
   },
   {
     "code": "KIGQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LANSING MUN",
     "runways": [
       "09",
@@ -89187,7 +89187,7 @@
   },
   {
     "code": "KIND",
-    "country": "Unknown",
+    "country": "USA",
     "name": "INDIANAPOLIS INTL",
     "runways": [
       "05L",
@@ -89578,7 +89578,7 @@
   },
   {
     "code": "KJVY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLARK REGL",
     "runways": [
       "14",
@@ -89688,7 +89688,7 @@
   },
   {
     "code": "KLCK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RICKENBACKER INTL",
     "runways": [
       "05L",
@@ -89830,7 +89830,7 @@
   },
   {
     "code": "KLNN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKE CO EXECUTIVE",
     "runways": [
       "05",
@@ -90102,7 +90102,7 @@
   },
   {
     "code": "KLOT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LEWIS UNIVERSITY",
     "runways": [
       "02",
@@ -90325,7 +90325,7 @@
   },
   {
     "code": "KLOU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOWMAN",
     "runways": [
       "06",
@@ -90435,7 +90435,7 @@
   },
   {
     "code": "KLPR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LORAIN CO REGL",
     "runways": [
       "07",
@@ -90651,7 +90651,7 @@
   },
   {
     "code": "KLUK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CINCINNATI MUN-LUNKEN",
     "runways": [
       "03",
@@ -90698,7 +90698,7 @@
   },
   {
     "code": "KMDW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHICAGO MIDWAY INTL",
     "runways": [
       "04L",
@@ -90952,7 +90952,7 @@
   },
   {
     "code": "KMGY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DAYTON/WRIGHT BROTHERS",
     "runways": [
       "02",
@@ -90980,7 +90980,7 @@
   },
   {
     "code": "KMKE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GEN MITCHELL INTL",
     "runways": [
       "01L",
@@ -91082,7 +91082,7 @@
   },
   {
     "code": "KMQJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "INDIANAPOLIS REGL",
     "runways": [
       "07",
@@ -91249,7 +91249,7 @@
   },
   {
     "code": "KMTC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SELFRIDGE ANGB",
     "runways": [
       "01",
@@ -91555,7 +91555,7 @@
   },
   {
     "code": "KMWC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TIMMERMAN",
     "runways": [
       "04L",
@@ -91638,7 +91638,7 @@
   },
   {
     "code": "KMWO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIDDLETOWN REGL/HOOK",
     "runways": [
       "05",
@@ -91668,7 +91668,7 @@
   },
   {
     "code": "KOEO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "L O SIMENSTAD MUN",
     "runways": [
       "04",
@@ -91722,7 +91722,7 @@
   },
   {
     "code": "KONZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GROSSE ILE MUN",
     "runways": [
       "04",
@@ -92096,7 +92096,7 @@
   },
   {
     "code": "KORD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHICAGO OHARE INTL",
     "runways": [
       "04L",
@@ -93561,7 +93561,7 @@
   },
   {
     "code": "KOSU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OHIO STATE UNIVERSITY",
     "runways": [
       "05",
@@ -93705,7 +93705,7 @@
   },
   {
     "code": "KOZW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LIVINGSTON COUNTY HARDY",
     "runways": [
       "13",
@@ -94035,7 +94035,7 @@
   },
   {
     "code": "KPTK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OAKLAND CO INTL",
     "runways": [
       "09L",
@@ -94466,7 +94466,7 @@
   },
   {
     "code": "KPWK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHICAGO EXECUTIVE",
     "runways": [
       "06",
@@ -94636,7 +94636,7 @@
   },
   {
     "code": "KRAC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BATTEN INTL",
     "runways": [
       "04",
@@ -94715,7 +94715,7 @@
   },
   {
     "code": "KRFD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHICAGO/ROCKFORD INTL",
     "runways": [
       "01",
@@ -94848,7 +94848,7 @@
   },
   {
     "code": "KRNH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW RICHMOND REGL",
     "runways": [
       "04",
@@ -94889,7 +94889,7 @@
   },
   {
     "code": "KSDF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LOUISVILLE MUHAMMAD ALI INTL",
     "runways": [
       "11",
@@ -95122,7 +95122,7 @@
   },
   {
     "code": "KSGH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPRINGFIELD/BECKLEY MUN",
     "runways": [
       "06",
@@ -95152,7 +95152,7 @@
   },
   {
     "code": "KTTF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CUSTER",
     "runways": [
       "03",
@@ -95482,7 +95482,7 @@
   },
   {
     "code": "KTYQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "INDIANAPOLIS EXEC",
     "runways": [
       "18",
@@ -95597,7 +95597,7 @@
   },
   {
     "code": "KTZR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOLTON",
     "runways": [
       "04",
@@ -95713,7 +95713,7 @@
   },
   {
     "code": "KUES",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WAUKESHA CO",
     "runways": [
       "10",
@@ -95792,7 +95792,7 @@
   },
   {
     "code": "KUGN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WAUKEGAN NATL",
     "runways": [
       "05",
@@ -95960,7 +95960,7 @@
   },
   {
     "code": "KUMP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "INDIANAPOLIS METRO",
     "runways": [
       "15",
@@ -96061,7 +96061,7 @@
   },
   {
     "code": "KVLL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OAKLAND/TROY",
     "runways": [
       "10",
@@ -96391,7 +96391,7 @@
   },
   {
     "code": "KYIP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WILLOW RUN",
     "runways": [
       "05",
@@ -96813,7 +96813,7 @@
   },
   {
     "code": "K1B9",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MANSFIELD MUN",
     "runways": [
       "04",
@@ -96835,7 +96835,7 @@
   },
   {
     "code": "K2W2",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLEARVIEW",
     "runways": [
       "14",
@@ -96871,7 +96871,7 @@
   },
   {
     "code": "K2W5",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MARYLAND",
     "runways": [
       "02",
@@ -96915,7 +96915,7 @@
   },
   {
     "code": "K33N",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DELAWARE",
     "runways": [
       "09",
@@ -96967,7 +96967,7 @@
   },
   {
     "code": "K39N",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PRINCETON",
     "runways": [
       "10",
@@ -97005,7 +97005,7 @@
   },
   {
     "code": "K43B",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DEBLOIS",
     "runways": [
       "15",
@@ -97025,7 +97025,7 @@
   },
   {
     "code": "K47N",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CENTRAL JERSEY REGL",
     "runways": [
       "07",
@@ -97119,7 +97119,7 @@
   },
   {
     "code": "KACK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NANTUCKET MEML",
     "runways": [
       "06",
@@ -97192,7 +97192,7 @@
   },
   {
     "code": "KADW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JOINT BASE ANDREWS",
     "runways": [
       "01L",
@@ -97468,7 +97468,7 @@
   },
   {
     "code": "KAGC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALLEGHENY CO",
     "runways": [
       "10",
@@ -97493,7 +97493,7 @@
   },
   {
     "code": "KALB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALBANY INTL",
     "runways": [
       "01",
@@ -97518,7 +97518,7 @@
   },
   {
     "code": "KAVP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WILKES-BARRE/SCRANTON INTL",
     "runways": [
       "04",
@@ -97542,7 +97542,7 @@
   },
   {
     "code": "KBAF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WESTFIELD-BARNES REGL",
     "runways": [
       "02",
@@ -97667,7 +97667,7 @@
   },
   {
     "code": "KBCB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "VIRGINIA TECH/MONTGOMERY EXEC",
     "runways": [
       "13",
@@ -97703,7 +97703,7 @@
   },
   {
     "code": "KBDL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BRADLEY INTL",
     "runways": [
       "06",
@@ -97839,7 +97839,7 @@
   },
   {
     "code": "KBDR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BRIDGEPORT/SIKORSKY",
     "runways": [
       "06",
@@ -97953,7 +97953,7 @@
   },
   {
     "code": "KBED",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HANSCOM",
     "runways": [
       "05",
@@ -98055,7 +98055,7 @@
   },
   {
     "code": "KBGR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BANGOR INTL",
     "runways": [
       "15",
@@ -98076,7 +98076,7 @@
   },
   {
     "code": "KBKT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ALLEN C PERKINSON/BLACKSTONE A",
     "runways": [
       "04",
@@ -98115,7 +98115,7 @@
   },
   {
     "code": "KBLF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MERCER CO",
     "runways": [
       "05",
@@ -98144,7 +98144,7 @@
   },
   {
     "code": "KBLM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MONMOUTH EXECUTIVE",
     "runways": [
       "03",
@@ -98190,7 +98190,7 @@
   },
   {
     "code": "KBOS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LOGAN INTL",
     "runways": [
       "04L",
@@ -98584,7 +98584,7 @@
   },
   {
     "code": "KBTV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PATRICK LEAHY BURLINGTON INTL",
     "runways": [
       "01",
@@ -98609,7 +98609,7 @@
   },
   {
     "code": "KBUF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BUFFALO NIAGARA INTL",
     "runways": [
       "05",
@@ -98634,7 +98634,7 @@
   },
   {
     "code": "KBVY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BEVERLY REGL",
     "runways": [
       "09",
@@ -98740,7 +98740,7 @@
   },
   {
     "code": "KBWI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BALTIMORE/WASHINGTON INTL",
     "runways": [
       "10",
@@ -99296,7 +99296,7 @@
   },
   {
     "code": "KCDW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ESSEX CO",
     "runways": [
       "04",
@@ -99398,7 +99398,7 @@
   },
   {
     "code": "KCEF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WESTOVER ARB/METRO",
     "runways": [
       "05",
@@ -99512,7 +99512,7 @@
   },
   {
     "code": "KCJR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CULPEPER REGL",
     "runways": [
       "04",
@@ -99652,7 +99652,7 @@
   },
   {
     "code": "KCPK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHESAPEAKE REGL",
     "runways": [
       "05",
@@ -99696,7 +99696,7 @@
   },
   {
     "code": "KDAA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DAVISON AAF",
     "runways": [
       "14",
@@ -99869,7 +99869,7 @@
   },
   {
     "code": "KDCA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RONALD REAGAN WASHINGTON NATL",
     "runways": [
       "01",
@@ -100259,7 +100259,7 @@
   },
   {
     "code": "KDMW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CARROLL CO REGL/JACK B POAGE",
     "runways": [
       "16",
@@ -100418,7 +100418,7 @@
   },
   {
     "code": "KDOV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DOVER AFB",
     "runways": [
       "01",
@@ -100616,7 +100616,7 @@
   },
   {
     "code": "KDXR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DANBURY MUN",
     "runways": [
       "08",
@@ -100750,7 +100750,7 @@
   },
   {
     "code": "KEKN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ELKINS/RANDOLPH CO",
     "runways": [
       "05",
@@ -100772,7 +100772,7 @@
   },
   {
     "code": "KESN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EASTON/NEWNAM",
     "runways": [
       "04",
@@ -100912,7 +100912,7 @@
   },
   {
     "code": "KEWB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW BEDFORD REGL",
     "runways": [
       "05",
@@ -100958,7 +100958,7 @@
   },
   {
     "code": "KEWR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEWARK LIBERTY INTL",
     "runways": [
       "04L",
@@ -101241,7 +101241,7 @@
   },
   {
     "code": "KEZF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SHANNON",
     "runways": [
       "06",
@@ -101359,7 +101359,7 @@
   },
   {
     "code": "KFAF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FELKER AAF",
     "runways": [
       "14",
@@ -101395,7 +101395,7 @@
   },
   {
     "code": "KFDK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FREDERICK MUN",
     "runways": [
       "05",
@@ -101562,7 +101562,7 @@
   },
   {
     "code": "KFIT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FITCHBURG MUN",
     "runways": [
       "14",
@@ -101598,7 +101598,7 @@
   },
   {
     "code": "KFOK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FRANCIS S GABRESKI",
     "runways": [
       "01",
@@ -101702,7 +101702,7 @@
   },
   {
     "code": "KFRG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "REPUBLIC",
     "runways": [
       "01",
@@ -101958,7 +101958,7 @@
   },
   {
     "code": "KFRR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FRONT ROYAL-WARREN CO",
     "runways": [
       "10",
@@ -102066,7 +102066,7 @@
   },
   {
     "code": "KGAI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MONTGOMERY CO",
     "runways": [
       "14",
@@ -102225,7 +102225,7 @@
   },
   {
     "code": "KGED",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DELAWARE COASTAL",
     "runways": [
       "04",
@@ -102250,7 +102250,7 @@
   },
   {
     "code": "KGHG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MARSHFIELD MUN-HARLOW",
     "runways": [
       "06",
@@ -102270,7 +102270,7 @@
   },
   {
     "code": "KGON",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GROTON-NEW LONDON",
     "runways": [
       "05",
@@ -102340,7 +102340,7 @@
   },
   {
     "code": "KGTB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WHEELER-SACK AAF",
     "runways": [
       "03",
@@ -102367,7 +102367,7 @@
   },
   {
     "code": "KHEF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MANASSAS REGL/HARRY P DAVIS",
     "runways": [
       "16L",
@@ -102745,7 +102745,7 @@
   },
   {
     "code": "KHFD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HARTFORD-BRAINARD",
     "runways": [
       "02",
@@ -102844,7 +102844,7 @@
   },
   {
     "code": "KHGR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HAGERSTOWN REGL/HENSON",
     "runways": [
       "02",
@@ -102882,7 +102882,7 @@
   },
   {
     "code": "KHPN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WESTCHESTER CO",
     "runways": [
       "11",
@@ -103060,7 +103060,7 @@
   },
   {
     "code": "KHVN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TWEED/NEW HAVEN",
     "runways": [
       "02",
@@ -103170,7 +103170,7 @@
   },
   {
     "code": "KHWV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BROOKHAVEN",
     "runways": [
       "06",
@@ -103240,7 +103240,7 @@
   },
   {
     "code": "KHWY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WARRENTON/FAUQUIER",
     "runways": [
       "15",
@@ -103380,7 +103380,7 @@
   },
   {
     "code": "KIAD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WASHINGTON DULLES INTL",
     "runways": [
       "01C",
@@ -104016,7 +104016,7 @@
   },
   {
     "code": "KILG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW CASTLE",
     "runways": [
       "01",
@@ -104112,7 +104112,7 @@
   },
   {
     "code": "KISP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LONG ISLAND MAC ARTHUR",
     "runways": [
       "06",
@@ -104262,7 +104262,7 @@
   },
   {
     "code": "KJFK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JOHN F KENNEDY INTL",
     "runways": [
       "04L",
@@ -104524,7 +104524,7 @@
   },
   {
     "code": "KJPX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EAST HAMPTON TOWN",
     "runways": [
       "10",
@@ -104594,7 +104594,7 @@
   },
   {
     "code": "KJST",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MURTHA JOHNSTOWN/CAMBRIA CO",
     "runways": [
       "05",
@@ -104630,7 +104630,7 @@
   },
   {
     "code": "KJYO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LEESBURG EXECUTIVE",
     "runways": [
       "17",
@@ -104860,7 +104860,7 @@
   },
   {
     "code": "KLDJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LINDEN",
     "runways": [
       "09",
@@ -104960,7 +104960,7 @@
   },
   {
     "code": "KLFI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LANGLEY AFB",
     "runways": [
       "08",
@@ -104996,7 +104996,7 @@
   },
   {
     "code": "KLGA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAGUARDIA",
     "runways": [
       "04",
@@ -105283,7 +105283,7 @@
   },
   {
     "code": "KLWM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAWRENCE MUN",
     "runways": [
       "05",
@@ -105389,7 +105389,7 @@
   },
   {
     "code": "KLYH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LYNCHBURG REGL-GLENN",
     "runways": [
       "04",
@@ -105419,7 +105419,7 @@
   },
   {
     "code": "KMHT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MANCHESTER BOSTON REGL",
     "runways": [
       "06",
@@ -105533,7 +105533,7 @@
   },
   {
     "code": "KMIV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MILLVILLE MUN",
     "runways": [
       "10",
@@ -105580,7 +105580,7 @@
   },
   {
     "code": "KMJX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OCEAN CO",
     "runways": [
       "06",
@@ -105626,7 +105626,7 @@
   },
   {
     "code": "KMMU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MORRISTOWN MUN",
     "runways": [
       "05",
@@ -105740,7 +105740,7 @@
   },
   {
     "code": "KMQS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHESTER CO G O CARLSON",
     "runways": [
       "11",
@@ -105832,7 +105832,7 @@
   },
   {
     "code": "KMRB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "EASTERN W VA REGL/SHEPHERD",
     "runways": [
       "08",
@@ -106048,7 +106048,7 @@
   },
   {
     "code": "KMTN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MARTIN STATE",
     "runways": [
       "15",
@@ -106351,7 +106351,7 @@
   },
   {
     "code": "KMTP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MONTAUK",
     "runways": [
       "06",
@@ -106419,7 +106419,7 @@
   },
   {
     "code": "KN07",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LINCOLN PARK",
     "runways": [
       "01",
@@ -106455,7 +106455,7 @@
   },
   {
     "code": "KN14",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FLYING W",
     "runways": [
       "01",
@@ -106499,7 +106499,7 @@
   },
   {
     "code": "KN51",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOLBERG/HUNTERDON",
     "runways": [
       "04",
@@ -106531,7 +106531,7 @@
   },
   {
     "code": "KN87",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TRENTON-ROBBINSVILLE",
     "runways": [
       "11",
@@ -106575,7 +106575,7 @@
   },
   {
     "code": "KNEL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKEHURST MAXFIELD",
     "runways": [
       "06",
@@ -106621,7 +106621,7 @@
   },
   {
     "code": "KNGU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORFOLK NS",
     "runways": [
       "10",
@@ -106675,7 +106675,7 @@
   },
   {
     "code": "KNHK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PATUXENT RIVER NAS",
     "runways": [
       "02",
@@ -106735,7 +106735,7 @@
   },
   {
     "code": "KNTU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "OCEANA NAS APOLLO SOUCEK FIEL",
     "runways": [
       "05L",
@@ -106822,7 +106822,7 @@
   },
   {
     "code": "KNYG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "QUANTICO MCAF",
     "runways": [
       "02",
@@ -106954,7 +106954,7 @@
   },
   {
     "code": "KOKV",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WINCHESTER REGL",
     "runways": [
       "14",
@@ -107127,7 +107127,7 @@
   },
   {
     "code": "KOQU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "QUONSET STATE",
     "runways": [
       "05",
@@ -107173,7 +107173,7 @@
   },
   {
     "code": "KORF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORFOLK INTL",
     "runways": [
       "05",
@@ -107418,7 +107418,7 @@
   },
   {
     "code": "KORH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WORCESTER REGL",
     "runways": [
       "11",
@@ -107488,7 +107488,7 @@
   },
   {
     "code": "KOWD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORWOOD MEML",
     "runways": [
       "10",
@@ -107522,7 +107522,7 @@
   },
   {
     "code": "KOXC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WATERBURY-OXFORD",
     "runways": [
       "18",
@@ -107622,7 +107622,7 @@
   },
   {
     "code": "KP34",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIFFLINTOWN",
     "runways": [
       "08",
@@ -107642,7 +107642,7 @@
   },
   {
     "code": "KPHF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEWPORT NEWS/WILLIAMSBURG INTL",
     "runways": [
       "02",
@@ -107692,7 +107692,7 @@
   },
   {
     "code": "KPHL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PHILADELPHIA INTL",
     "runways": [
       "08",
@@ -107893,7 +107893,7 @@
   },
   {
     "code": "KPIT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PITTSBURGH INTL",
     "runways": [
       "10C",
@@ -108081,7 +108081,7 @@
   },
   {
     "code": "KPNE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTHEAST PHILADELPHIA",
     "runways": [
       "06",
@@ -108175,7 +108175,7 @@
   },
   {
     "code": "KPOU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HUDSON VALLEY REGL",
     "runways": [
       "06",
@@ -108225,7 +108225,7 @@
   },
   {
     "code": "KPSM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PORTSMOUTH INTL AT PEASE",
     "runways": [
       "16",
@@ -108255,7 +108255,7 @@
   },
   {
     "code": "KPVD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RHODE ISLAND TF GREEN INTL",
     "runways": [
       "05",
@@ -108318,7 +108318,7 @@
   },
   {
     "code": "KPVG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HAMPTON ROADS EXECUTIVE",
     "runways": [
       "02",
@@ -108364,7 +108364,7 @@
   },
   {
     "code": "KPWM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PORTLAND INTL",
     "runways": [
       "11",
@@ -108489,7 +108489,7 @@
   },
   {
     "code": "KPYM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PLYMOUTH MUN",
     "runways": [
       "06",
@@ -108535,7 +108535,7 @@
   },
   {
     "code": "KRIC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RICHMOND INTL",
     "runways": [
       "02",
@@ -108695,7 +108695,7 @@
   },
   {
     "code": "KRMN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "STAFFORD REGL",
     "runways": [
       "15",
@@ -108811,7 +108811,7 @@
   },
   {
     "code": "KROA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROANOKE/BLACKSBURG REGL WOODR",
     "runways": [
       "06",
@@ -108857,7 +108857,7 @@
   },
   {
     "code": "KROC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DOUGLASS/GREATER ROCHESTER INT",
     "runways": [
       "04",
@@ -108886,7 +108886,7 @@
   },
   {
     "code": "KSFQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SUFFOLK EXECUTIVE",
     "runways": [
       "04",
@@ -108908,7 +108908,7 @@
   },
   {
     "code": "KSFZ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTH CENTRAL STATE",
     "runways": [
       "05",
@@ -108954,7 +108954,7 @@
   },
   {
     "code": "KSMQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOMERSET",
     "runways": [
       "08",
@@ -109055,7 +109055,7 @@
   },
   {
     "code": "KSNC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHESTER",
     "runways": [
       "17",
@@ -109123,7 +109123,7 @@
   },
   {
     "code": "KSWF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW YORK STEWART INTL",
     "runways": [
       "09",
@@ -109173,7 +109173,7 @@
   },
   {
     "code": "KSYR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SYRACUSE HANCOCK INTL",
     "runways": [
       "10",
@@ -109198,7 +109198,7 @@
   },
   {
     "code": "KTAN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TAUNTON MUN/KING",
     "runways": [
       "04",
@@ -109245,7 +109245,7 @@
   },
   {
     "code": "KTEB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TETERBORO",
     "runways": [
       "01",
@@ -109375,7 +109375,7 @@
   },
   {
     "code": "KTTN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TRENTON MERCER",
     "runways": [
       "06",
@@ -109469,7 +109469,7 @@
   },
   {
     "code": "KUUU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEWPORT STATE",
     "runways": [
       "04",
@@ -109515,7 +109515,7 @@
   },
   {
     "code": "KVAY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOUTH JERSEY REGL",
     "runways": [
       "08",
@@ -109559,7 +109559,7 @@
   },
   {
     "code": "KVKX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "POTOMAC",
     "runways": [
       "06",
@@ -109603,7 +109603,7 @@
   },
   {
     "code": "KW00",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FREEWAY",
     "runways": [
       "18",
@@ -109647,7 +109647,7 @@
   },
   {
     "code": "KW50",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DAVIS",
     "runways": [
       "08",
@@ -109683,7 +109683,7 @@
   },
   {
     "code": "KWRI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MCGUIRE JOINT BASE MCGUIRE DI",
     "runways": [
       "06",
@@ -109793,7 +109793,7 @@
   },
   {
     "code": "KWST",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WESTERLY STATE",
     "runways": [
       "07",
@@ -109863,7 +109863,7 @@
   },
   {
     "code": "K6A2",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GRIFFIN-SPALDING CO",
     "runways": [
       "14",
@@ -109939,7 +109939,7 @@
   },
   {
     "code": "KAFP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ANSON CO/CLOUD",
     "runways": [
       "16",
@@ -110047,7 +110047,7 @@
   },
   {
     "code": "KAGS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AUGUSTA REGL AT BUSH",
     "runways": [
       "08",
@@ -110198,7 +110198,7 @@
   },
   {
     "code": "KAIK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "AIKEN REGL",
     "runways": [
       "01",
@@ -110292,7 +110292,7 @@
   },
   {
     "code": "KAKH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GASTONIA MUN",
     "runways": [
       "03",
@@ -110786,7 +110786,7 @@
   },
   {
     "code": "KAPF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NAPLES MUN",
     "runways": [
       "05",
@@ -110950,7 +110950,7 @@
   },
   {
     "code": "KATL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HARTSFIELD/JACKSON ATLANTA INT",
     "runways": [
       "08L",
@@ -112100,7 +112100,7 @@
   },
   {
     "code": "KAVL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ASHEVILLE REGL",
     "runways": [
       "17",
@@ -112121,7 +112121,7 @@
   },
   {
     "code": "KBCT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BOCA RATON",
     "runways": [
       "05",
@@ -112436,7 +112436,7 @@
   },
   {
     "code": "KBHM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "BIRMINGHAM-SHUTTLESWORTH INTL",
     "runways": [
       "06",
@@ -112461,7 +112461,7 @@
   },
   {
     "code": "KBNA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NASHVILLE INTL",
     "runways": [
       "02C",
@@ -112885,7 +112885,7 @@
   },
   {
     "code": "KCBM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COLUMBUS AFB",
     "runways": [
       "13C",
@@ -112912,7 +112912,7 @@
   },
   {
     "code": "KCCO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEWNAN-COWETA CO",
     "runways": [
       "15",
@@ -112988,7 +112988,7 @@
   },
   {
     "code": "KCHA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LOVELL",
     "runways": [
       "02",
@@ -113011,7 +113011,7 @@
   },
   {
     "code": "KCHS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHARLESTON AFB/INTL",
     "runways": [
       "03",
@@ -113202,7 +113202,7 @@
   },
   {
     "code": "KCLT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHARLOTTE/DOUGLAS INTL",
     "runways": [
       "18C",
@@ -114081,7 +114081,7 @@
   },
   {
     "code": "KCLW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CLEARWATER EXEC",
     "runways": [
       "16",
@@ -114269,7 +114269,7 @@
   },
   {
     "code": "KCNI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHEROKEE CO REGL",
     "runways": [
       "05",
@@ -114361,7 +114361,7 @@
   },
   {
     "code": "KCOF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PATRICK SFB",
     "runways": [
       "03",
@@ -114402,7 +114402,7 @@
   },
   {
     "code": "KCOI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MERRITT ISLAND",
     "runways": [
       "11",
@@ -114478,7 +114478,7 @@
   },
   {
     "code": "KCRG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JACKSONVILLE EXECUTIVE AT CRAI",
     "runways": [
       "05",
@@ -114588,7 +114588,7 @@
   },
   {
     "code": "KCTJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WEST GEORGIA REGL/O V GRAY",
     "runways": [
       "17",
@@ -114640,7 +114640,7 @@
   },
   {
     "code": "KCVC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COVINGTON MUN",
     "runways": [
       "10",
@@ -114740,7 +114740,7 @@
   },
   {
     "code": "KD73",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NUNNALLY MEML",
     "runways": [
       "03",
@@ -114904,7 +114904,7 @@
   },
   {
     "code": "KDAB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DAYTONA BEACH INTL",
     "runways": [
       "07L",
@@ -114958,7 +114958,7 @@
   },
   {
     "code": "KDCM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHESTER CATAWBA REGL",
     "runways": [
       "05",
@@ -115068,7 +115068,7 @@
   },
   {
     "code": "KDED",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DE LAND MUN-TAYLOR",
     "runways": [
       "05",
@@ -115106,7 +115106,7 @@
   },
   {
     "code": "KDNL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DANIEL",
     "runways": [
       "05",
@@ -115176,7 +115176,7 @@
   },
   {
     "code": "KEHO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SHELBY-CLEVELAND CO REGL",
     "runways": [
       "05",
@@ -115284,7 +115284,7 @@
   },
   {
     "code": "KEQY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHARLOTTE/MONROE EXECUTIVE",
     "runways": [
       "05",
@@ -115778,7 +115778,7 @@
   },
   {
     "code": "KEVB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NEW SMYRNA BEACH MUN JACK BOL",
     "runways": [
       "02",
@@ -115818,7 +115818,7 @@
   },
   {
     "code": "KEYW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KEY WEST INTL",
     "runways": [
       "09",
@@ -115966,7 +115966,7 @@
   },
   {
     "code": "KF45",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTH PALM BEACH CO GEN AVN",
     "runways": [
       "09L",
@@ -116160,7 +116160,7 @@
   },
   {
     "code": "KFAY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FAYETTEVILLE REGL/GRANNIS",
     "runways": [
       "04",
@@ -116185,7 +116185,7 @@
   },
   {
     "code": "KFFC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ATLANTA RGNL-FALCON",
     "runways": [
       "13",
@@ -116261,7 +116261,7 @@
   },
   {
     "code": "KFHB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FERNANDINA BEACH MUN",
     "runways": [
       "04",
@@ -116333,7 +116333,7 @@
   },
   {
     "code": "KFLL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FT LAUDERDALE/HOLLYWOOD INTL",
     "runways": [
       "10L",
@@ -117195,7 +117195,7 @@
   },
   {
     "code": "KFMY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PAGE",
     "runways": [
       "05",
@@ -117354,7 +117354,7 @@
   },
   {
     "code": "KFTY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FULTON CO EXEC/BROWN",
     "runways": [
       "08",
@@ -117536,7 +117536,7 @@
   },
   {
     "code": "KFXE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "FT LAUDERDALE EXECUTIVE",
     "runways": [
       "09",
@@ -118203,7 +118203,7 @@
   },
   {
     "code": "KGMU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GREENVILLE DOWNTOWN",
     "runways": [
       "01",
@@ -118330,7 +118330,7 @@
   },
   {
     "code": "KGSB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SEYMOUR JOHNSON AFB",
     "runways": [
       "08",
@@ -118351,7 +118351,7 @@
   },
   {
     "code": "KGSO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PIEDMONT TRIAD INTL",
     "runways": [
       "05L",
@@ -118588,7 +118588,7 @@
   },
   {
     "code": "KGSP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GREENVILLE SPARTANBURG INTL",
     "runways": [
       "04",
@@ -118713,7 +118713,7 @@
   },
   {
     "code": "KGVL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GILMER MEML",
     "runways": [
       "05",
@@ -118743,7 +118743,7 @@
   },
   {
     "code": "KGYH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DONALDSON",
     "runways": [
       "05",
@@ -118868,7 +118868,7 @@
   },
   {
     "code": "KHBG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HATTIESBURG BOBBY L CHAIN MUN",
     "runways": [
       "13",
@@ -118889,7 +118889,7 @@
   },
   {
     "code": "KHEG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HERLONG RECREATIONAL",
     "runways": [
       "07",
@@ -118927,7 +118927,7 @@
   },
   {
     "code": "KHKY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HICKORY REGL",
     "runways": [
       "06",
@@ -118948,7 +118948,7 @@
   },
   {
     "code": "KHMP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ATLANTA SPEEDWAY",
     "runways": [
       "06",
@@ -119024,7 +119024,7 @@
   },
   {
     "code": "KHQU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "THOMSON/MCDUFFIE CO",
     "runways": [
       "10",
@@ -119092,7 +119092,7 @@
   },
   {
     "code": "KHST",
-    "country": "Unknown",
+    "country": "USA",
     "name": "HOMESTEAD ARB",
     "runways": [
       "06",
@@ -119757,7 +119757,7 @@
   },
   {
     "code": "KHWO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "NORTH PERRY",
     "runways": [
       "01L",
@@ -119935,7 +119935,7 @@
   },
   {
     "code": "KINT",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SMITH REYNOLDS",
     "runways": [
       "04",
@@ -120203,7 +120203,7 @@
   },
   {
     "code": "KIPJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LINCOLNTON-LINCOLN CO REGL",
     "runways": [
       "05",
@@ -120697,7 +120697,7 @@
   },
   {
     "code": "KISM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KISSIMMEE GATEWAY",
     "runways": [
       "06",
@@ -121111,7 +121111,7 @@
   },
   {
     "code": "KJAX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JACKSONVILLE INTL",
     "runways": [
       "08",
@@ -121347,7 +121347,7 @@
   },
   {
     "code": "KJQF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CONCORD-PADGETT REGL",
     "runways": [
       "02",
@@ -121820,7 +121820,7 @@
   },
   {
     "code": "KJZI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CHARLESTON EXECUTIVE",
     "runways": [
       "04",
@@ -121963,7 +121963,7 @@
   },
   {
     "code": "KLAL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LAKELAND LINDER INTL",
     "runways": [
       "05",
@@ -122128,7 +122128,7 @@
   },
   {
     "code": "KLEE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LEESBURG INTL",
     "runways": [
       "04",
@@ -122472,7 +122472,7 @@
   },
   {
     "code": "KLKR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "LANCASTER CO-MC WHIRTER",
     "runways": [
       "06",
@@ -122966,7 +122966,7 @@
   },
   {
     "code": "KLNA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PALM BEACH CO PARK",
     "runways": [
       "04",
@@ -123038,7 +123038,7 @@
   },
   {
     "code": "KLZU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "GWINNETT CO/BRISCOE",
     "runways": [
       "07",
@@ -123218,7 +123218,7 @@
   },
   {
     "code": "KMCF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MACDILL AFB",
     "runways": [
       "05",
@@ -123424,7 +123424,7 @@
   },
   {
     "code": "KMCO",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ORLANDO INTL",
     "runways": [
       "17L",
@@ -124320,7 +124320,7 @@
   },
   {
     "code": "KMEM",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MEMPHIS INTL",
     "runways": [
       "09",
@@ -125237,7 +125237,7 @@
   },
   {
     "code": "KMGE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DOBBINS AIR RESERVE BASE",
     "runways": [
       "11",
@@ -125417,7 +125417,7 @@
   },
   {
     "code": "KMIA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIAMI INTL",
     "runways": [
       "08L",
@@ -126502,7 +126502,7 @@
   },
   {
     "code": "KMKY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MARCO I EXECUTIVE",
     "runways": [
       "17",
@@ -126649,7 +126649,7 @@
   },
   {
     "code": "KMLB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MELBOURNE ORLANDO INTL",
     "runways": [
       "05",
@@ -126787,7 +126787,7 @@
   },
   {
     "code": "KN52",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JAARS-TOWNSEND",
     "runways": [
       "04",
@@ -126895,7 +126895,7 @@
   },
   {
     "code": "KNIP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "JACKSONVILLE NAS",
     "runways": [
       "10",
@@ -126973,7 +126973,7 @@
   },
   {
     "code": "KNQX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KEY WEST NAS",
     "runways": [
       "04",
@@ -127115,7 +127115,7 @@
   },
   {
     "code": "KNRB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MAYPORT NS-ADMIRAL DAVID L. MC",
     "runways": [
       "05",
@@ -127223,7 +127223,7 @@
   },
   {
     "code": "KOMN",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ORMOND BEACH MUN",
     "runways": [
       "09",
@@ -127261,7 +127261,7 @@
   },
   {
     "code": "KOPF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIAMI-OPA LOCKA EXECUTIVE",
     "runways": [
       "09L",
@@ -128129,7 +128129,7 @@
   },
   {
     "code": "KORL",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ORLANDO EXECUTIVE",
     "runways": [
       "07",
@@ -128552,7 +128552,7 @@
   },
   {
     "code": "KOZR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CAIRNS AAF FT RUCKER",
     "runways": [
       "06",
@@ -128599,7 +128599,7 @@
   },
   {
     "code": "KPBI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PALM BEACH INTL",
     "runways": [
       "10L",
@@ -129015,7 +129015,7 @@
   },
   {
     "code": "KPDK",
-    "country": "Unknown",
+    "country": "USA",
     "name": "DEKALB-PEACHTREE",
     "runways": [
       "03L",
@@ -129199,7 +129199,7 @@
   },
   {
     "code": "KPGD",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PUNTA GORDA",
     "runways": [
       "04",
@@ -129279,7 +129279,7 @@
   },
   {
     "code": "KPIE",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ST PETE-CLEARWATER INTL",
     "runways": [
       "04",
@@ -129545,7 +129545,7 @@
   },
   {
     "code": "KPMP",
-    "country": "Unknown",
+    "country": "USA",
     "name": "POMPANO BEACH",
     "runways": [
       "06",
@@ -130254,7 +130254,7 @@
   },
   {
     "code": "KPUJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "PAULDING NORTHWEST ATLANTA",
     "runways": [
       "13",
@@ -130434,7 +130434,7 @@
   },
   {
     "code": "KRDU",
-    "country": "Unknown",
+    "country": "USA",
     "name": "RALEIGH-DURHAM INTL",
     "runways": [
       "05L",
@@ -130852,7 +130852,7 @@
   },
   {
     "code": "KRSW",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SOUTHWEST FLORIDA INTL",
     "runways": [
       "06",
@@ -131025,7 +131025,7 @@
   },
   {
     "code": "KRUQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MID-CAROLINA REGL",
     "runways": [
       "02",
@@ -131503,7 +131503,7 @@
   },
   {
     "code": "KRYY",
-    "country": "Unknown",
+    "country": "USA",
     "name": "COBB CO INTL/MCCOLLUM",
     "runways": [
       "09",
@@ -131683,7 +131683,7 @@
   },
   {
     "code": "KSFB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ORLANDO SANFORD INTL",
     "runways": [
       "09C",
@@ -132045,7 +132045,7 @@
   },
   {
     "code": "KSGJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ST AUGUSTINE",
     "runways": [
       "02",
@@ -132077,7 +132077,7 @@
   },
   {
     "code": "KSPA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPARTANBURG DOWNTOWN MEML/SIMP",
     "runways": [
       "05",
@@ -132202,7 +132202,7 @@
   },
   {
     "code": "KSPG",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WHITTED",
     "runways": [
       "07",
@@ -132392,7 +132392,7 @@
   },
   {
     "code": "KSRQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SARASOTA-BRADENTON INTL",
     "runways": [
       "04",
@@ -132564,7 +132564,7 @@
   },
   {
     "code": "KSSC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SHAW AFB",
     "runways": [
       "04L",
@@ -132596,7 +132596,7 @@
   },
   {
     "code": "KSUA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "WITHAM",
     "runways": [
       "07",
@@ -132730,7 +132730,7 @@
   },
   {
     "code": "KSVH",
-    "country": "Unknown",
+    "country": "USA",
     "name": "STATESVILLE REGL",
     "runways": [
       "10",
@@ -132758,7 +132758,7 @@
   },
   {
     "code": "KTIX",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPACE COAST REGL",
     "runways": [
       "09",
@@ -132836,7 +132836,7 @@
   },
   {
     "code": "KTMB",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIAMI EXECUTIVE",
     "runways": [
       "09L",
@@ -133585,7 +133585,7 @@
   },
   {
     "code": "KTPA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TAMPA INTL",
     "runways": [
       "01L",
@@ -133988,7 +133988,7 @@
   },
   {
     "code": "KTPF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "KNIGHT",
     "runways": [
       "04",
@@ -134090,7 +134090,7 @@
   },
   {
     "code": "KTRI",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TRI-CITIES",
     "runways": [
       "05",
@@ -134126,7 +134126,7 @@
   },
   {
     "code": "KTTS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "SPACE FLORIDA LAUNCH AND LANDI",
     "runways": [
       "15",
@@ -134146,7 +134146,7 @@
   },
   {
     "code": "KTYS",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MC GHEE TYSON",
     "runways": [
       "05L",
@@ -134171,7 +134171,7 @@
   },
   {
     "code": "KUZA",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ROCK HILL/YORK CO/BRYANT",
     "runways": [
       "02",
@@ -134665,7 +134665,7 @@
   },
   {
     "code": "KVDF",
-    "country": "Unknown",
+    "country": "USA",
     "name": "TAMPA EXECUTIVE",
     "runways": [
       "05",
@@ -134823,7 +134823,7 @@
   },
   {
     "code": "KVNC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "VENICE MUN",
     "runways": [
       "05",
@@ -134994,7 +134994,7 @@
   },
   {
     "code": "KVPC",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CARTERSVILLE",
     "runways": [
       "01",
@@ -135174,7 +135174,7 @@
   },
   {
     "code": "KVQQ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CECIL",
     "runways": [
       "09L",
@@ -135256,7 +135256,7 @@
   },
   {
     "code": "KVUJ",
-    "country": "Unknown",
+    "country": "USA",
     "name": "STANLY CO",
     "runways": [
       "04L",
@@ -135736,7 +135736,7 @@
   },
   {
     "code": "KX04",
-    "country": "Unknown",
+    "country": "USA",
     "name": "ORLANDO APOPKA",
     "runways": [
       "15",
@@ -135772,7 +135772,7 @@
   },
   {
     "code": "KX50",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MASSEY RANCH",
     "runways": [
       "18",
@@ -135808,7 +135808,7 @@
   },
   {
     "code": "KX51",
-    "country": "Unknown",
+    "country": "USA",
     "name": "MIAMI HOMESTEAD GENERAL AVIATI",
     "runways": [
       "09",
@@ -136562,7 +136562,7 @@
   },
   {
     "code": "KXMR",
-    "country": "Unknown",
+    "country": "USA",
     "name": "CAPE CANAVERAL SFS SKID STRIP",
     "runways": [
       "13",
@@ -136582,7 +136582,7 @@
   },
   {
     "code": "RCBS",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "KINMEN",
     "runways": [
       "06",
@@ -136675,7 +136675,7 @@
   },
   {
     "code": "RCCM",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "QIMEI",
     "runways": [
       "02",
@@ -136703,7 +136703,7 @@
   },
   {
     "code": "RCDC",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "PINGTUNG SOUTH",
     "runways": [
       "09",
@@ -136740,7 +136740,7 @@
   },
   {
     "code": "RCFG",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "NANGAN",
     "runways": [
       "03",
@@ -136784,7 +136784,7 @@
   },
   {
     "code": "RCFN",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "FONGNIAN",
     "runways": [
       "04",
@@ -136884,7 +136884,7 @@
   },
   {
     "code": "RCKH",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "KAOHSIUNG INTL",
     "runways": [
       "09",
@@ -137137,7 +137137,7 @@
   },
   {
     "code": "RCKU",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "CHIAYI",
     "runways": [
       "18",
@@ -137197,7 +137197,7 @@
   },
   {
     "code": "RCMQ",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "CINGCYUANGANG",
     "runways": [
       "18",
@@ -137289,7 +137289,7 @@
   },
   {
     "code": "RCMT",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "BEIGAN",
     "runways": [
       "03",
@@ -137349,7 +137349,7 @@
   },
   {
     "code": "RCNN",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "TAINAN",
     "runways": [
       "18L",
@@ -137419,7 +137419,7 @@
   },
   {
     "code": "RCQC",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "PENGHU",
     "runways": [
       "02",
@@ -137495,7 +137495,7 @@
   },
   {
     "code": "RCSS",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "SONGSHAN",
     "runways": [
       "10",
@@ -137812,7 +137812,7 @@
   },
   {
     "code": "RCTP",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "TAIWAN TAOYUAN INTL",
     "runways": [
       "05L",
@@ -138141,7 +138141,7 @@
   },
   {
     "code": "RCWA",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "WANG-AN",
     "runways": [
       "02",
@@ -138169,7 +138169,7 @@
   },
   {
     "code": "RCYU",
-    "country": "Unknown",
+    "country": "Taiwan",
     "name": "HUALIEN",
     "runways": [
       "03",
@@ -138254,7 +138254,7 @@
   },
   {
     "code": "RJAA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NARITA INTL",
     "runways": [
       "16L",
@@ -138652,7 +138652,7 @@
   },
   {
     "code": "RJAF",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MATSUMOTO",
     "runways": [
       "18",
@@ -138698,7 +138698,7 @@
   },
   {
     "code": "RJAH",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HYAKURI",
     "runways": [
       "03L",
@@ -138837,7 +138837,7 @@
   },
   {
     "code": "RJAN",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NIIJIMA",
     "runways": [
       "11",
@@ -138858,7 +138858,7 @@
   },
   {
     "code": "RJAW",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "IWOTO",
     "runways": [
       "07",
@@ -138947,7 +138947,7 @@
   },
   {
     "code": "RJAZ",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KOZUSHIMA",
     "runways": [
       "11",
@@ -138968,7 +138968,7 @@
   },
   {
     "code": "RJBB",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KANSAI INTL",
     "runways": [
       "06L",
@@ -139692,7 +139692,7 @@
   },
   {
     "code": "RJBD",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NANKI-SHIRAHAMA",
     "runways": [
       "15",
@@ -139739,7 +139739,7 @@
   },
   {
     "code": "RJBE",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KOBE",
     "runways": [
       "09",
@@ -139874,7 +139874,7 @@
   },
   {
     "code": "RJBT",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TAJIMA",
     "runways": [
       "01",
@@ -139904,7 +139904,7 @@
   },
   {
     "code": "RJCB",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OBIHIRO",
     "runways": [
       "17",
@@ -139970,7 +139970,7 @@
   },
   {
     "code": "RJCC",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NEW CHITOSE",
     "runways": [
       "01L",
@@ -140409,7 +140409,7 @@
   },
   {
     "code": "RJCH",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HAKODATE",
     "runways": [
       "12",
@@ -140490,7 +140490,7 @@
   },
   {
     "code": "RJCJ",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "CHITOSE",
     "runways": [
       "18L",
@@ -140669,7 +140669,7 @@
   },
   {
     "code": "RJCK",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KUSHIRO",
     "runways": [
       "17",
@@ -140807,7 +140807,7 @@
   },
   {
     "code": "RJCM",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MEMANBETSU",
     "runways": [
       "18",
@@ -140864,7 +140864,7 @@
   },
   {
     "code": "RJCN",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NAKASHIBETSU",
     "runways": [
       "08",
@@ -140921,7 +140921,7 @@
   },
   {
     "code": "RJCO",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "SAPPORO",
     "runways": [
       "14",
@@ -141063,7 +141063,7 @@
   },
   {
     "code": "RJCW",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "WAKKANAI",
     "runways": [
       "08",
@@ -141128,7 +141128,7 @@
   },
   {
     "code": "RJDA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "AMAKUSA",
     "runways": [
       "13",
@@ -141184,7 +141184,7 @@
   },
   {
     "code": "RJDB",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "IKI",
     "runways": [
       "02",
@@ -141232,7 +141232,7 @@
   },
   {
     "code": "RJDC",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "YAMAGUCHI-UBE",
     "runways": [
       "07",
@@ -141325,7 +141325,7 @@
   },
   {
     "code": "RJDT",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TSUSHIMA",
     "runways": [
       "14",
@@ -141364,7 +141364,7 @@
   },
   {
     "code": "RJDU",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OMURA",
     "runways": [
       "18",
@@ -141448,7 +141448,7 @@
   },
   {
     "code": "RJEB",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MONBETSU",
     "runways": [
       "14",
@@ -141478,7 +141478,7 @@
   },
   {
     "code": "RJEC",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "ASAHIKAWA",
     "runways": [
       "16",
@@ -141517,7 +141517,7 @@
   },
   {
     "code": "RJEO",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OKUSHIRI",
     "runways": [
       "13",
@@ -141556,7 +141556,7 @@
   },
   {
     "code": "RJER",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "RISHIRI",
     "runways": [
       "07",
@@ -141586,7 +141586,7 @@
   },
   {
     "code": "RJFA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "ASHIYA",
     "runways": [
       "12",
@@ -141650,7 +141650,7 @@
   },
   {
     "code": "RJFC",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "YAKUSHIMA",
     "runways": [
       "14",
@@ -141706,7 +141706,7 @@
   },
   {
     "code": "RJFE",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "FUKUE",
     "runways": [
       "03",
@@ -141763,7 +141763,7 @@
   },
   {
     "code": "RJFF",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "FUKUOKA",
     "runways": [
       "16L",
@@ -142095,7 +142095,7 @@
   },
   {
     "code": "RJFG",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TANEGASHIMA",
     "runways": [
       "13",
@@ -142143,7 +142143,7 @@
   },
   {
     "code": "RJFK",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KAGOSHIMA",
     "runways": [
       "16",
@@ -142266,7 +142266,7 @@
   },
   {
     "code": "RJFM",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MIYAZAKI",
     "runways": [
       "09",
@@ -142365,7 +142365,7 @@
   },
   {
     "code": "RJFN",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NYUTABARU",
     "runways": [
       "10",
@@ -142446,7 +142446,7 @@
   },
   {
     "code": "RJFO",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OITA",
     "runways": [
       "01",
@@ -142588,7 +142588,7 @@
   },
   {
     "code": "RJFR",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KITAKYUSHU",
     "runways": [
       "18",
@@ -142645,7 +142645,7 @@
   },
   {
     "code": "RJFS",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "SAGA",
     "runways": [
       "11",
@@ -142755,7 +142755,7 @@
   },
   {
     "code": "RJFT",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KUMAMOTO",
     "runways": [
       "07",
@@ -142916,7 +142916,7 @@
   },
   {
     "code": "RJFU",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NAGASAKI",
     "runways": [
       "14",
@@ -143026,7 +143026,7 @@
   },
   {
     "code": "RJFY",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KANOYA",
     "runways": [
       "08L",
@@ -143091,7 +143091,7 @@
   },
   {
     "code": "RJFZ",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TSUIKI",
     "runways": [
       "07",
@@ -143193,7 +143193,7 @@
   },
   {
     "code": "RJGG",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "CHUBU CENTRAIR INTL",
     "runways": [
       "18",
@@ -143716,7 +143716,7 @@
   },
   {
     "code": "RJNA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NAGOYA",
     "runways": [
       "16",
@@ -143904,7 +143904,7 @@
   },
   {
     "code": "RJNF",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "FUKUI",
     "runways": [
       "18",
@@ -143925,7 +143925,7 @@
   },
   {
     "code": "RJNG",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "GIFU",
     "runways": [
       "10",
@@ -143973,7 +143973,7 @@
   },
   {
     "code": "RJNH",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HAMAMATSU",
     "runways": [
       "09",
@@ -144030,7 +144030,7 @@
   },
   {
     "code": "RJNK",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KOMATSU",
     "runways": [
       "06",
@@ -144177,7 +144177,7 @@
   },
   {
     "code": "RJNO",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OKI",
     "runways": [
       "08",
@@ -144234,7 +144234,7 @@
   },
   {
     "code": "RJNS",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "SHIZUOKA",
     "runways": [
       "12",
@@ -144307,7 +144307,7 @@
   },
   {
     "code": "RJNT",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TOYAMA",
     "runways": [
       "02",
@@ -144387,7 +144387,7 @@
   },
   {
     "code": "RJNW",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NOTO",
     "runways": [
       "07",
@@ -144434,7 +144434,7 @@
   },
   {
     "code": "RJNY",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "SHIZUHAMA",
     "runways": [
       "09",
@@ -144490,7 +144490,7 @@
   },
   {
     "code": "RJOA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HIROSHIMA",
     "runways": [
       "10",
@@ -144596,7 +144596,7 @@
   },
   {
     "code": "RJOB",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OKAYAMA",
     "runways": [
       "07",
@@ -144644,7 +144644,7 @@
   },
   {
     "code": "RJOC",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "IZUMO",
     "runways": [
       "07",
@@ -144735,7 +144735,7 @@
   },
   {
     "code": "RJOF",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HOFU",
     "runways": [
       "01",
@@ -144776,7 +144776,7 @@
   },
   {
     "code": "RJOH",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MIHO",
     "runways": [
       "07",
@@ -144911,7 +144911,7 @@
   },
   {
     "code": "RJOI",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "IWAKUNI MCAS",
     "runways": [
       "02",
@@ -144941,7 +144941,7 @@
   },
   {
     "code": "RJOK",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KOCHI",
     "runways": [
       "14",
@@ -145049,7 +145049,7 @@
   },
   {
     "code": "RJOM",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MATSUYAMA",
     "runways": [
       "14",
@@ -145165,7 +145165,7 @@
   },
   {
     "code": "RJOO",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OSAKA INTL",
     "runways": [
       "14L",
@@ -145388,7 +145388,7 @@
   },
   {
     "code": "RJOR",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TOTTORI",
     "runways": [
       "10",
@@ -145427,7 +145427,7 @@
   },
   {
     "code": "RJOS",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TOKUSHIMA",
     "runways": [
       "11",
@@ -145493,7 +145493,7 @@
   },
   {
     "code": "RJOT",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TAKAMATSU",
     "runways": [
       "08",
@@ -145576,7 +145576,7 @@
   },
   {
     "code": "RJOW",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "IWAMI",
     "runways": [
       "11",
@@ -145615,7 +145615,7 @@
   },
   {
     "code": "RJOY",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "YAO",
     "runways": [
       "09",
@@ -145651,7 +145651,7 @@
   },
   {
     "code": "RJOZ",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OZUKI",
     "runways": [
       "12",
@@ -145681,7 +145681,7 @@
   },
   {
     "code": "RJSA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "AOMORI",
     "runways": [
       "06",
@@ -145755,7 +145755,7 @@
   },
   {
     "code": "RJSC",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "YAMAGATA",
     "runways": [
       "01",
@@ -145844,7 +145844,7 @@
   },
   {
     "code": "RJSF",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "FUKUSHIMA",
     "runways": [
       "01",
@@ -145933,7 +145933,7 @@
   },
   {
     "code": "RJSH",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HACHINOHE",
     "runways": [
       "07",
@@ -145954,7 +145954,7 @@
   },
   {
     "code": "RJSI",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HANAMAKI",
     "runways": [
       "02",
@@ -146052,7 +146052,7 @@
   },
   {
     "code": "RJSK",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "AKITA",
     "runways": [
       "10",
@@ -146149,7 +146149,7 @@
   },
   {
     "code": "RJSM",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MISAWA AB",
     "runways": [
       "10",
@@ -146186,7 +146186,7 @@
   },
   {
     "code": "RJSN",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "NIIGATA",
     "runways": [
       "04",
@@ -146351,7 +146351,7 @@
   },
   {
     "code": "RJSR",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "ODATE-NOSHIRO",
     "runways": [
       "11",
@@ -146399,7 +146399,7 @@
   },
   {
     "code": "RJSS",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "SENDAI",
     "runways": [
       "09",
@@ -146546,7 +146546,7 @@
   },
   {
     "code": "RJST",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MATSUSHIMA",
     "runways": [
       "07",
@@ -146632,7 +146632,7 @@
   },
   {
     "code": "RJSY",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "SHONAI",
     "runways": [
       "09",
@@ -146687,7 +146687,7 @@
   },
   {
     "code": "RJTA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "ATSUGI",
     "runways": [
       "01",
@@ -146717,7 +146717,7 @@
   },
   {
     "code": "RJTC",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TACHIKAWA",
     "runways": [
       "01",
@@ -146747,7 +146747,7 @@
   },
   {
     "code": "RJTF",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "CHOFU",
     "runways": [
       "17",
@@ -146768,7 +146768,7 @@
   },
   {
     "code": "RJTH",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "HACHIJOJIMA",
     "runways": [
       "08",
@@ -146807,7 +146807,7 @@
   },
   {
     "code": "RJTJ",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "IRUMA",
     "runways": [
       "17",
@@ -146837,7 +146837,7 @@
   },
   {
     "code": "RJTK",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KISARAZU",
     "runways": [
       "02",
@@ -146875,7 +146875,7 @@
   },
   {
     "code": "RJTL",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "SHIMOFUSA",
     "runways": [
       "01",
@@ -146923,7 +146923,7 @@
   },
   {
     "code": "RJTO",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OSHIMA",
     "runways": [
       "03",
@@ -146953,7 +146953,7 @@
   },
   {
     "code": "RJTQ",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "MIYAKEJIMA",
     "runways": [
       "02",
@@ -146983,7 +146983,7 @@
   },
   {
     "code": "RJTT",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TOKYO HANEDA INTL",
     "runways": [
       "04",
@@ -147852,7 +147852,7 @@
   },
   {
     "code": "RJTU",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "UTSUNOMIYA",
     "runways": [
       "01",
@@ -147900,7 +147900,7 @@
   },
   {
     "code": "RJTY",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "YOKOTA AB",
     "runways": [
       "18",
@@ -147953,7 +147953,7 @@
   },
   {
     "code": "RKJB",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "MUAN INTL",
     "runways": [
       "01",
@@ -148078,7 +148078,7 @@
   },
   {
     "code": "RKJJ",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "GWANGJU",
     "runways": [
       "04L",
@@ -148239,7 +148239,7 @@
   },
   {
     "code": "RKJK",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "KUNSAN AB",
     "runways": [
       "18",
@@ -148278,7 +148278,7 @@
   },
   {
     "code": "RKJY",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "YEOSU",
     "runways": [
       "17",
@@ -148419,7 +148419,7 @@
   },
   {
     "code": "RKNW",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "WONJU",
     "runways": [
       "03",
@@ -148513,7 +148513,7 @@
   },
   {
     "code": "RKNY",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "YANGYANG INTL",
     "runways": [
       "15",
@@ -148614,7 +148614,7 @@
   },
   {
     "code": "RKPC",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "JEJU INTL",
     "runways": [
       "07",
@@ -148901,7 +148901,7 @@
   },
   {
     "code": "RKPD",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "JEONGSEOK",
     "runways": [
       "01",
@@ -149044,7 +149044,7 @@
   },
   {
     "code": "RKPK",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "GIMHAE INTL",
     "runways": [
       "18L",
@@ -149466,7 +149466,7 @@
   },
   {
     "code": "RKPS",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "SACHEON",
     "runways": [
       "06L",
@@ -149699,7 +149699,7 @@
   },
   {
     "code": "RKPU",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "ULSAN",
     "runways": [
       "18",
@@ -149824,7 +149824,7 @@
   },
   {
     "code": "RKSG",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "A-511 DESIDERIO AAF",
     "runways": [
       "14",
@@ -149908,7 +149908,7 @@
   },
   {
     "code": "RKSI",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "INCHEON INTL",
     "runways": [
       "15L",
@@ -150362,7 +150362,7 @@
   },
   {
     "code": "RKSM",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "SEOUL / DOMESTIC",
     "runways": [
       "01",
@@ -150483,7 +150483,7 @@
   },
   {
     "code": "RKSO",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "OSAN AB",
     "runways": [
       "09L",
@@ -150508,7 +150508,7 @@
   },
   {
     "code": "RKSS",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "GIMPO INTL",
     "runways": [
       "14L",
@@ -150802,7 +150802,7 @@
   },
   {
     "code": "RKTH",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "POHANG GYEONGJU",
     "runways": [
       "10",
@@ -151063,7 +151063,7 @@
   },
   {
     "code": "RKTL",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "ULJIN",
     "runways": [
       "17",
@@ -151228,7 +151228,7 @@
   },
   {
     "code": "RKTN",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "DAEGU INTL",
     "runways": [
       "13L",
@@ -151589,7 +151589,7 @@
   },
   {
     "code": "RKTU",
-    "country": "Unknown",
+    "country": "South Korea",
     "name": "CHEONGJU INTL",
     "runways": [
       "06L",
@@ -151762,7 +151762,7 @@
   },
   {
     "code": "RJKA",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "AMAMI",
     "runways": [
       "03",
@@ -151879,7 +151879,7 @@
   },
   {
     "code": "RJKB",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "OKIERABU",
     "runways": [
       "04",
@@ -151994,7 +151994,7 @@
   },
   {
     "code": "RJKI",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "KIKAI",
     "runways": [
       "07",
@@ -152042,7 +152042,7 @@
   },
   {
     "code": "RJKN",
-    "country": "Unknown",
+    "country": "Japan",
     "name": "TOKUNOSHIMA",
     "runways": [
       "01",
@@ -152140,7 +152140,7 @@
   },
   {
     "code": "ROAH",
-    "country": "Unknown",
+    "country": "International",
     "name": "NAHA",
     "runways": [
       "18L",
@@ -152400,7 +152400,7 @@
   },
   {
     "code": "RODN",
-    "country": "Unknown",
+    "country": "International",
     "name": "KADENA AB",
     "runways": [
       "05L",
@@ -152457,7 +152457,7 @@
   },
   {
     "code": "ROIG",
-    "country": "Unknown",
+    "country": "International",
     "name": "ISHIGAKI",
     "runways": [
       "04",
@@ -152556,7 +152556,7 @@
   },
   {
     "code": "ROKJ",
-    "country": "Unknown",
+    "country": "International",
     "name": "KUMEJIMA",
     "runways": [
       "03",
@@ -152595,7 +152595,7 @@
   },
   {
     "code": "ROMD",
-    "country": "Unknown",
+    "country": "International",
     "name": "MINAMIDAITO",
     "runways": [
       "02",
@@ -152634,7 +152634,7 @@
   },
   {
     "code": "ROMY",
-    "country": "Unknown",
+    "country": "International",
     "name": "MIYAKO",
     "runways": [
       "04",
@@ -152708,7 +152708,7 @@
   },
   {
     "code": "RORK",
-    "country": "Unknown",
+    "country": "International",
     "name": "KITADAITO",
     "runways": [
       "03",
@@ -152738,7 +152738,7 @@
   },
   {
     "code": "RORS",
-    "country": "Unknown",
+    "country": "International",
     "name": "SHIMOJISHIMA",
     "runways": [
       "17",
@@ -152803,7 +152803,7 @@
   },
   {
     "code": "RORT",
-    "country": "Unknown",
+    "country": "International",
     "name": "TARAMA",
     "runways": [
       "18",
@@ -152824,7 +152824,7 @@
   },
   {
     "code": "RORY",
-    "country": "Unknown",
+    "country": "International",
     "name": "YORON",
     "runways": [
       "14",
@@ -152872,7 +152872,7 @@
   },
   {
     "code": "ROTM",
-    "country": "Unknown",
+    "country": "International",
     "name": "FUTENMA MCAS",
     "runways": [
       "06",
@@ -152929,7 +152929,7 @@
   },
   {
     "code": "ROYN",
-    "country": "Unknown",
+    "country": "International",
     "name": "YONAGUNI",
     "runways": [
       "08",
@@ -152977,7 +152977,7 @@
   },
   {
     "code": "RPLB",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "SUBIC BAY PRINCIPAL",
     "runways": [
       "07",
@@ -153294,7 +153294,7 @@
   },
   {
     "code": "RPLC",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "DIOSDADO MACAPAGAL INTL",
     "runways": [
       "02",
@@ -153579,7 +153579,7 @@
   },
   {
     "code": "RPLI",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "LAOAG INTL",
     "runways": [
       "01",
@@ -153928,7 +153928,7 @@
   },
   {
     "code": "RPLK",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "BICOL PRINCIPAL",
     "runways": [
       "05",
@@ -154037,7 +154037,7 @@
   },
   {
     "code": "RPLL",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "NINOY AQUINO INTL",
     "runways": [
       "06",
@@ -155264,7 +155264,7 @@
   },
   {
     "code": "RPMD",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "FRANCISCO BANGOY INTL",
     "runways": [
       "05",
@@ -155565,7 +155565,7 @@
   },
   {
     "code": "RPME",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "BUTUAN",
     "runways": [
       "12",
@@ -155674,7 +155674,7 @@
   },
   {
     "code": "RPMR",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "TAMBLER PRINCIPAL",
     "runways": [
       "17",
@@ -155919,7 +155919,7 @@
   },
   {
     "code": "RPMY",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "LAGUINDINGAN PRINCIPAL",
     "runways": [
       "09",
@@ -156140,7 +156140,7 @@
   },
   {
     "code": "RPMZ",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "ZAMBOANGA PRINCIPAL",
     "runways": [
       "09",
@@ -156593,7 +156593,7 @@
   },
   {
     "code": "RPSP",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "BOHOL-PANGLAO INTL",
     "runways": [
       "03",
@@ -156784,7 +156784,7 @@
   },
   {
     "code": "RPUN",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "NAGA PRINCIPAL",
     "runways": [
       "04",
@@ -156869,7 +156869,7 @@
   },
   {
     "code": "RPUT",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "TUGUEGARAO",
     "runways": [
       "17",
@@ -156954,7 +156954,7 @@
   },
   {
     "code": "RPVA",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "DANIEL Z. ROMUALDEZ",
     "runways": [
       "18",
@@ -157343,7 +157343,7 @@
   },
   {
     "code": "RPVB",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "BACOLOD PRINCIPAL",
     "runways": [
       "03",
@@ -157868,7 +157868,7 @@
   },
   {
     "code": "RPVD",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "DUMAGUETE",
     "runways": [
       "09",
@@ -157921,7 +157921,7 @@
   },
   {
     "code": "RPVE",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "GODOFREDO P. RAMOS PRINCIPAL",
     "runways": [
       "06",
@@ -158014,7 +158014,7 @@
   },
   {
     "code": "RPVI",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "ILOILO",
     "runways": [
       "02",
@@ -158523,7 +158523,7 @@
   },
   {
     "code": "RPVK",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "KALIBO INTL",
     "runways": [
       "05",
@@ -158784,7 +158784,7 @@
   },
   {
     "code": "RPVM",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "MACTAN-CEBU INTL",
     "runways": [
       "04L",
@@ -159483,7 +159483,7 @@
   },
   {
     "code": "RPVP",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "PUERTO PRINCESA INTL",
     "runways": [
       "09",
@@ -159680,7 +159680,7 @@
   },
   {
     "code": "RPVR",
-    "country": "Unknown",
+    "country": "Philippines",
     "name": "ROXAS PRINCIPAL",
     "runways": [
       "14",
