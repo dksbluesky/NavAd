@@ -12,9 +12,7 @@
         .card { @apply bg-slate-800 rounded-xl p-4 shadow-lg border border-slate-700; }
         .input-box { @apply bg-slate-900 border border-slate-600 rounded-lg px-4 py-3 w-full text-white text-lg focus:outline-none focus:border-blue-500 placeholder-slate-500; }
         .btn { @apply active:scale-95 transition-transform; }
-        /* 跑道選擇器美化 */
         select { appearance: none; background-image: url("data:image/svg+xml;charset=UTF-8,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='white' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3e%3cpolyline points='6 9 12 15 18 9'%3e%3c/polyline%3e%3c/svg%3e"); background-repeat: no-repeat; background-position: right 1rem center; background-size: 1em; }
-        /* 讀取動畫 */
         .loader { width: 48px; height: 48px; border: 5px solid #FFF; border-bottom-color: #3b82f6; border-radius: 50%; display: inline-block; box-sizing: border-box; animation: rotation 1s linear infinite; }
         @keyframes rotation { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
     </style>
@@ -25,7 +23,7 @@
 
     <div v-if="loading" class="fixed inset-0 bg-slate-900 z-50 flex flex-col items-center justify-center">
         <span class="loader mb-4"></span>
-        <p class="text-blue-400 font-bold tracking-wider">LOADING NAV DATA...</p>
+        <p class="text-blue-400 font-bold tracking-wider">LOADING DATA...</p>
     </div>
 
     <header class="flex justify-between items-center py-2">
@@ -34,19 +32,19 @@
             <h1 class="text-xl font-bold tracking-tight">SID/STAR Viewer</h1>
         </div>
         <div class="text-xs font-mono text-slate-500 bg-slate-800 px-2 py-1 rounded border border-slate-700">
-            AIRAC {{ airacCycle }}
+            PMDG DATA
         </div>
     </header>
 
     <div class="card space-y-4">
         <div class="relative">
-            <input v-model="icaoInput" @keyup.enter="searchAirport" type="text" placeholder="輸入機場代號 (例如 RCTP)" class="input-box uppercase font-mono tracking-wider">
+            <input v-model="icaoInput" @keyup.enter="searchAirport" type="text" placeholder="ICAO (e.g. RCTP)" class="input-box uppercase font-mono tracking-wider">
             <button @click="searchAirport" class="absolute right-2 top-2 bottom-2 bg-blue-600 hover:bg-blue-500 text-white px-4 rounded-md font-bold btn">
                 GO
             </button>
         </div>
         <p v-if="errorMsg" class="text-red-400 text-sm text-center bg-red-900/20 py-2 rounded border border-red-900/50">
-            <i class="fa-solid fa-circle-exclamation mr-1"></i> {{ errorMsg }}
+            {{ errorMsg }}
         </p>
     </div>
 
@@ -56,13 +54,12 @@
                 <h2 class="text-4xl font-black text-white font-mono tracking-tighter">{{ currentAirport.code }}</h2>
                 <p class="text-sm text-slate-400 mt-1 line-clamp-1">{{ currentAirport.name }}</p>
             </div>
-            <span class="text-xs font-bold bg-slate-700 text-slate-300 px-2 py-1 rounded uppercase">{{ currentAirport.country }}</span>
         </div>
 
         <div class="bg-slate-900/50 p-3 rounded-lg border border-slate-700">
-            <label class="block text-xs text-blue-400 font-bold mb-2 uppercase tracking-wider">Select Runway</label>
+            <label class="block text-xs text-blue-400 font-bold mb-2 uppercase tracking-wider">Runway Selection</label>
             <select v-model="selectedRunway" class="w-full bg-slate-800 text-white font-mono text-xl font-bold p-2 rounded outline-none border border-slate-600 focus:border-blue-500">
-                <option value="" disabled>-- 選擇跑道 --</option>
+                <option value="" disabled>-- SELECT RUNWAY --</option>
                 <option v-for="rwy in currentAirport.runways" :value="rwy">{{ rwy }}</option>
             </select>
         </div>
@@ -72,45 +69,36 @@
         
         <div class="grid grid-cols-2 gap-2 bg-slate-800 p-1 rounded-lg">
             <button @click="viewTab = 'SID'" :class="viewTab === 'SID' ? 'bg-green-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'" class="py-2 rounded font-bold transition-all text-sm uppercase">
-                DEPARTURE (SID)
+                SID (DEPARTURE)
             </button>
             <button @click="viewTab = 'STAR'" :class="viewTab === 'STAR' ? 'bg-yellow-600 text-white shadow' : 'text-slate-400 hover:text-slate-200'" class="py-2 rounded font-bold transition-all text-sm uppercase">
-                ARRIVAL (STAR)
+                STAR (ARRIVAL)
             </button>
         </div>
 
         <div class="flex-1 overflow-y-auto space-y-3 pb-safe">
-            <div v-if="filteredProcedures.length === 0" class="text-center text-slate-500 py-8 flex flex-col items-center">
-                <i class="fa-regular fa-folder-open text-4xl mb-2 opacity-50"></i>
-                <p>此跑道無對應程序</p>
+            <div v-if="filteredProcedures.length === 0" class="text-center text-slate-500 py-8">
+                <p>無符合此跑道的程序</p>
             </div>
             
-            <div v-for="proc in filteredProcedures" :key="proc.name" class="bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-sm hover:border-slate-500 transition relative overflow-hidden group">
+            <div v-for="proc in filteredProcedures" :key="proc.name + proc.transition" class="bg-slate-800 p-4 rounded-xl border border-slate-700 shadow-sm relative overflow-hidden group">
                 <div class="absolute left-0 top-0 bottom-0 w-1" :class="viewTab === 'SID' ? 'bg-green-500' : 'bg-yellow-500'"></div>
                 
-                <div class="flex justify-between items-center mb-1 pl-3">
-                    <span class="text-xl font-black font-mono tracking-wide group-hover:text-blue-400 transition">{{ proc.name }}</span>
-                    <span v-if="proc.transition" class="text-xs bg-slate-900 border border-slate-600 px-2 py-1 rounded text-slate-300 font-mono">
+                <div class="flex justify-between items-start pl-3 mb-2">
+                    <span class="text-xl font-black font-mono tracking-wide text-white">{{ proc.name }}</span>
+                    <span v-if="proc.transition" class="text-xs bg-blue-900 text-blue-200 px-2 py-1 rounded font-mono border border-blue-800">
                         via {{ proc.transition }}
                     </span>
                 </div>
                 
-                <div class="pl-3 flex items-center gap-4 text-xs text-slate-400 font-mono">
-                    <div class="flex items-center gap-1">
-                        <i class="fa-solid fa-road text-slate-600"></i>
-                        <span>{{ proc.rwy.join(', ') }}</span>
-                    </div>
-                    <div class="flex items-center gap-1">
-                        <i class="fa-solid fa-location-arrow text-slate-600"></i>
-                        <span>VECTORS</span>
-                    </div>
+                <div class="pl-3 flex flex-wrap gap-2 text-xs font-mono text-slate-500 mt-2 border-t border-slate-700 pt-2">
+                    <span class="text-slate-400">Valid for:</span>
+                    <span v-for="r in proc.rwy" class="bg-slate-700 px-1 rounded text-slate-300">
+                        {{ r }}
+                    </span>
                 </div>
             </div>
         </div>
-    </div>
-    
-    <div v-else-if="currentAirport" class="text-center text-slate-500 mt-10">
-        <p>👆 請先選擇起降跑道</p>
     </div>
 
 </div>
@@ -125,47 +113,34 @@
             const icaoInput = ref('');
             const currentAirport = ref(null);
             const selectedRunway = ref('');
-            const viewTab = ref('SID');
+            const viewTab = ref('STAR'); // 預設改為 STAR 方便您測試
             const errorMsg = ref('');
-            const airacCycle = ref('DATA'); // 這裡可以顯示資料版本
 
-            // 初始化：讀取 database.json
             onMounted(async () => {
                 try {
-                    // 加上時間戳記避免瀏覽器快取舊資料
-                    const response = await fetch('./database.json?t=' + new Date().getTime());
-                    if (!response.ok) throw new Error("讀取失敗");
-                    
+                    // 加上時間戳記，強制瀏覽器不讀快取 (重要！)
+                    const response = await fetch('./database.json?timestamp=' + new Date().getTime());
                     database.value = await response.json();
-                    
-                    // 簡單判斷一下資料筆數
-                    console.log(`Loaded ${database.value.length} airports.`);
                     loading.value = false;
                 } catch (e) {
-                    console.error(e);
-                    errorMsg.value = "無法載入資料庫，請確認 database.json 是否存在";
+                    errorMsg.value = "Load Error. Please check database.json";
                     loading.value = false;
                 }
             });
 
             const searchAirport = () => {
-                // 重置狀態
                 selectedRunway.value = '';
                 errorMsg.value = '';
                 currentAirport.value = null;
-
-                if (!icaoInput.value) return;
-
                 const code = icaoInput.value.toUpperCase().trim();
                 const found = database.value.find(a => a.code === code);
                 
                 if (found) {
-                    // 為了 UI 美觀，將跑道排序
                     found.runways.sort();
                     currentAirport.value = found;
-                    icaoInput.value = ''; // 清空輸入框
+                    icaoInput.value = ''; 
                 } else {
-                    errorMsg.value = `資料庫中找不到 ${code}，請確認該機場在您的導航資料範圍內。`;
+                    errorMsg.value = `Airport ${code} not found.`;
                 }
             };
 
@@ -174,24 +149,14 @@
                 
                 const list = viewTab.value === 'SID' ? currentAirport.value.sids : currentAirport.value.stars;
                 
-                // 篩選邏輯：如果程序適用於 'ALL' 跑道，或者包含目前選的跑道
                 return list.filter(p => {
-                    if (p.rwy.includes("ALL")) return true;
-                    // 有些資料庫可能是 "05L" 有些是 "RW05L"，做個寬鬆比對
-                    return p.rwy.some(r => r.includes(selectedRunway.value) || selectedRunway.value.includes(r));
+                    // 如果資料是 "ALL"，或者包含當前選擇的跑道，就顯示
+                    return p.rwy.includes("ALL") || p.rwy.includes(selectedRunway.value);
                 });
             });
 
             return {
-                loading,
-                icaoInput,
-                currentAirport,
-                selectedRunway,
-                viewTab,
-                errorMsg,
-                filteredProcedures,
-                searchAirport,
-                airacCycle
+                loading, icaoInput, currentAirport, selectedRunway, viewTab, errorMsg, filteredProcedures, searchAirport
             };
         }
     }).mount('#app');
