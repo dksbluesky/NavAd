@@ -4961,7 +4961,7 @@
           "35"
         ],
         "transition": "BUWZO",
-        "path": "HELNS ➔ KRATR ➔ BTG ➔ MOKIY ➔ RW17",
+        "path": "HELNS ➔ KRATR ➔ BTG ➔ BUWZO ➔ HELNS",
         "waypoints": "PATH"
       },
       {
@@ -4971,7 +4971,7 @@
           "35"
         ],
         "transition": "SEA",
-        "path": "HELNS ➔ KRATR ➔ BTG ➔ MOKIY ➔ RW17",
+        "path": "HELNS ➔ KRATR ➔ BTG ➔ SEA ➔ BUWZO ➔ HELNS",
         "waypoints": "PATH"
       }
     ]
@@ -80238,7 +80238,7 @@
           "35R"
         ],
         "transition": "ROLLS",
-        "path": "CAMET ➔ DAWKS ➔ WABUT ➔ RW13",
+        "path": "CAMET ➔ DAWKS ➔ ROLLS ➔ SCUFF ➔ CAMET",
         "waypoints": "PATH"
       },
       {
@@ -80251,7 +80251,7 @@
           "35R"
         ],
         "transition": "SCUFF",
-        "path": "CAMET ➔ DAWKS ➔ WABUT ➔ RW13",
+        "path": "CAMET ➔ DAWKS ➔ SCUFF ➔ CAMET",
         "waypoints": "PATH"
       },
       {
@@ -94751,7 +94751,7 @@
           "30R"
         ],
         "transition": "",
-        "path": "DELMA ➔ ZINKI ➔ FOSKU ➔ RW12R",
+        "path": "DELMA ➔ MMRSN",
         "waypoints": "PATH"
       },
       {
@@ -152238,7 +152238,7 @@
           "34L"
         ],
         "transition": "",
-        "path": "BINKS ➔ GIINA",
+        "path": "BINKS ➔ GIINA ➔ VIRGO ➔ 55VOR ➔ RW34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ GIINA ➔ COSMO ➔ RW34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ GIINA ➔ VIRGO ➔ 30LOC ➔ ML34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152247,7 +152247,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "BINKS ➔ TEMIS",
+        "path": "BINKS ➔ TEMIS ➔ CROWN ➔ 35LOC ➔ ML34R ➔ BOSPA ➔ TEMIS ➔ CROWN ➔ A4R70 ➔ RW34R ➔ AA471 ➔ BOSPA ➔ RW34R",
         "waypoints": "PATH"
       },
       {
@@ -152276,7 +152276,7 @@
           "34L"
         ],
         "transition": "",
-        "path": "BOSPA ➔ SIMAK ➔ D157U ➔ GIINA",
+        "path": "BOSPA ➔ SIMAK ➔ D157U ➔ GIINA ➔ VIRGO ➔ 55VOR ➔ RW34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ GIINA ➔ COSMO ➔ RW34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ GIINA ➔ VIRGO ➔ 30LOC ➔ ML34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152285,7 +152285,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "BOSPA ➔ SIMAK ➔ D153U ➔ TEMIS",
+        "path": "BOSPA ➔ SIMAK ➔ D153U ➔ TEMIS ➔ CROWN ➔ 35LOC ➔ ML34R ➔ BOSPA ➔ TEMIS ➔ CROWN ➔ A4R70 ➔ RW34R ➔ AA471 ➔ BOSPA ➔ RW34R",
         "waypoints": "PATH"
       },
       {
@@ -152464,7 +152464,7 @@
           "34L"
         ],
         "transition": "",
-        "path": "SWAMP ➔ DANTE ➔ SIMAK ➔ D157U ➔ GIINA",
+        "path": "SWAMP ➔ DANTE ➔ SIMAK ➔ D157U ➔ GIINA ➔ VIRGO ➔ 55VOR ➔ RW34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ GIINA ➔ COSMO ➔ RW34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ GIINA ➔ VIRGO ➔ 30LOC ➔ ML34L ➔ GUMYO ➔ D160Y ➔ BINKS ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152473,7 +152473,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "SWAMP ➔ DANTE ➔ SIMAK ➔ D153U ➔ TEMIS",
+        "path": "SWAMP ➔ DANTE ➔ SIMAK ➔ D153U ➔ TEMIS ➔ CROWN ➔ 35LOC ➔ ML34R ➔ BOSPA ➔ TEMIS ➔ CROWN ➔ A4R70 ➔ RW34R ➔ AA471 ➔ BOSPA ➔ RW34R",
         "waypoints": "PATH"
       }
     ]
@@ -153783,7 +153783,7 @@
           "09"
         ],
         "transition": "",
-        "path": "AVKUL ➔ TRACY ➔ SIOJI",
+        "path": "AVKUL ➔ TRACY ➔ SIOJI ➔ AKPUN ➔ BE950 ➔ RW09 ➔ TARUP ➔ LEMET ➔ MUKRI ➔ TRACY ➔ RW09",
         "waypoints": "PATH"
       },
       {
@@ -153810,7 +153810,7 @@
           "09"
         ],
         "transition": "",
-        "path": "TRACY ➔ SIOJI",
+        "path": "TRACY ➔ SIOJI ➔ AKPUN ➔ BE950 ➔ RW09 ➔ TARUP ➔ LEMET ➔ MUKRI ➔ TRACY ➔ RW09",
         "waypoints": "PATH"
       }
     ]
@@ -154296,7 +154296,7 @@
           "19R"
         ],
         "transition": "",
-        "path": "CHE ➔ FF19 ➔ RW19R",
+        "path": "CHE ➔ C9R53 ➔ C9R54 ➔ C9R55 ➔ NACKS",
         "waypoints": "PATH"
       },
       {
@@ -156098,7 +156098,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "EBISU ➔ D336P ➔ BIXAB",
+        "path": "EBISU ➔ D336P ➔ BIXAB ➔ BIVUK ➔ 60LOC ➔ 43LOC ➔ ML16R ➔ YAMEK ➔ IKE37 ➔ IKE ➔ BIXAB ➔ BIVUK ➔ F6R50 ➔ F6R51 ➔ RW16R ➔ F6R52 ➔ YAMEK ➔ FF601 ➔ IGDER ➔ IKE ➔ RW16R",
         "waypoints": "PATH"
       },
       {
@@ -156107,7 +156107,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "EBISU ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ ADPAR",
+        "path": "EBISU ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ ADPAR ➔ ANGAG ➔ RW34R ➔ DGC ➔ IKE ➔ ADPAR ➔ AKROP ➔ F4R50 ➔ F4R51 ➔ RW34R ➔ ESLAS ➔ IKE ➔ RW34R",
         "waypoints": "PATH"
       },
       {
@@ -156116,7 +156116,7 @@
           "34L"
         ],
         "transition": "",
-        "path": "EBISU ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ BUBTI",
+        "path": "EBISU ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ BUBTI ➔ BEGNI ➔ 94LOC ➔ 61LOC ➔ RW34L ➔ DGC ➔ IKE ➔ BUBTI ➔ BEGNI ➔ F4L50 ➔ F4L51 ➔ RW34L ➔ KAMEB ➔ IKE ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -156154,7 +156154,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "IKE ➔ D336P ➔ BIXAB",
+        "path": "IKE ➔ D336P ➔ BIXAB ➔ BIVUK ➔ 60LOC ➔ 43LOC ➔ ML16R ➔ YAMEK ➔ IKE37 ➔ IKE ➔ BIXAB ➔ BIVUK ➔ F6R50 ➔ F6R51 ➔ RW16R ➔ F6R52 ➔ YAMEK ➔ FF601 ➔ IGDER ➔ IKE ➔ RW16R",
         "waypoints": "PATH"
       },
       {
@@ -156163,7 +156163,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "IKE ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ ADPAR",
+        "path": "IKE ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ ADPAR ➔ ANGAG ➔ RW34R ➔ DGC ➔ IKE ➔ ADPAR ➔ AKROP ➔ F4R50 ➔ F4R51 ➔ RW34R ➔ ESLAS ➔ IKE ➔ RW34R",
         "waypoints": "PATH"
       },
       {
@@ -156172,7 +156172,7 @@
           "34L"
         ],
         "transition": "",
-        "path": "IKE ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ BUBTI",
+        "path": "IKE ➔ SGE44 ➔ SGE36 ➔ IGDER ➔ KUE35 ➔ KUE31 ➔ BUBTI ➔ BEGNI ➔ 94LOC ➔ 61LOC ➔ RW34L ➔ DGC ➔ IKE ➔ BUBTI ➔ BEGNI ➔ F4L50 ➔ F4L51 ➔ RW34L ➔ KAMEB ➔ IKE ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -158505,7 +158505,7 @@
           "06"
         ],
         "transition": "",
-        "path": "KMC ➔ CS06 ➔ RW06",
+        "path": "KMC ➔ SAWRA ➔ MEGIS ➔ KANOH ➔ DAIJO",
         "waypoints": "PATH"
       },
       {
@@ -161308,7 +161308,7 @@
           "27"
         ],
         "transition": "",
-        "path": "YSE ➔ CL27 ➔ RW27",
+        "path": "YSE ➔ SY761 ➔ MOKKE",
         "waypoints": "PATH"
       },
       {
@@ -161317,7 +161317,7 @@
           "09"
         ],
         "transition": "",
-        "path": "USUBA ➔ MOSSH ➔ RW09",
+        "path": "USUBA ➔ SY951 ➔ SY952 ➔ SY953 ➔ YURAH",
         "waypoints": "PATH"
       }
     ]
@@ -162101,7 +162101,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "AKSEL ➔ CLONE ➔ TT460 ➔ TT461 ➔ CIVIC ➔ TT462 ➔ TT463 ➔ TT464 ➔ EPSON ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO",
+        "path": "AKSEL ➔ CLONE ➔ TT460 ➔ TT461 ➔ CIVIC ➔ TT462 ➔ TT463 ➔ TT464 ➔ EPSON ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO ➔ ATMEK ➔ 47VOR ➔ MD34L ➔ UTIBO ➔ ALLIE ➔ AZURE ➔ RW34L ➔ TT469 ➔ CHIBA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -162217,7 +162217,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "AROSA ➔ AVEEY ➔ TT460 ➔ TT461 ➔ CIVIC ➔ TT462 ➔ TT463 ➔ TT464 ➔ EPSON ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO",
+        "path": "AROSA ➔ AVEEY ➔ TT460 ➔ TT461 ➔ CIVIC ➔ TT462 ➔ TT463 ➔ TT464 ➔ EPSON ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO ➔ ATMEK ➔ 47VOR ➔ MD34L ➔ UTIBO ➔ ALLIE ➔ AZURE ➔ RW34L ➔ TT469 ➔ CHIBA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -162293,7 +162293,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "GODIN ➔ CHIPS ➔ COLOR ➔ COPSE ➔ COACH ➔ TT465 ➔ TT466 ➔ TT467 ➔ EDDIE ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO",
+        "path": "GODIN ➔ CHIPS ➔ COLOR ➔ COPSE ➔ COACH ➔ TT465 ➔ TT466 ➔ TT467 ➔ EDDIE ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO ➔ ATMEK ➔ 47VOR ➔ MD34L ➔ UTIBO ➔ ALLIE ➔ AZURE ➔ RW34L ➔ TT469 ➔ CHIBA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -162407,7 +162407,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "POLIX ➔ CHIPS ➔ COLOR ➔ COPSE ➔ COACH ➔ TT465 ➔ TT466 ➔ TT467 ➔ EDDIE ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO",
+        "path": "POLIX ➔ CHIPS ➔ COLOR ➔ COPSE ➔ COACH ➔ TT465 ➔ TT466 ➔ TT467 ➔ EDDIE ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO ➔ ATMEK ➔ 47VOR ➔ MD34L ➔ UTIBO ➔ ALLIE ➔ AZURE ➔ RW34L ➔ TT469 ➔ CHIBA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -162543,7 +162543,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "XAC ➔ CLONE ➔ TT460 ➔ TT461 ➔ CIVIC ➔ TT462 ➔ TT463 ➔ TT464 ➔ EPSON ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO",
+        "path": "XAC ➔ CLONE ➔ TT460 ➔ TT461 ➔ CIVIC ➔ TT462 ➔ TT463 ➔ TT464 ➔ EPSON ➔ CREAM ➔ CLOAK ➔ CAMEL ➔ CACAO ➔ ATMEK ➔ 47VOR ➔ MD34L ➔ UTIBO ➔ ALLIE ➔ AZURE ➔ RW34L ➔ TT469 ➔ CHIBA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -171648,7 +171648,7 @@
           "27"
         ],
         "transition": "",
-        "path": "ANKIN ➔ JOBUD ➔ EDONG ➔ CASEY ➔ WINIR ➔ LUTIL ➔ D098L ➔ RW27",
+        "path": "ANKIN ➔ JOBUD ➔ EDONG ➔ CASEY ➔ WINIR ➔ LGD ➔ CF27 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -171675,7 +171675,7 @@
           "27"
         ],
         "transition": "",
-        "path": "GONIL ➔ JASMI ➔ IPLER ➔ LUTIL ➔ D098L ➔ RW27",
+        "path": "GONIL ➔ JASMI ➔ IPLER ➔ LUTIL ➔ LGD ➔ CF27 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -171684,7 +171684,7 @@
           "27"
         ],
         "transition": "",
-        "path": "MORSO ➔ ECTIN ➔ MICOL ➔ VICAR ➔ YUBEE ➔ WINIR ➔ LUTIL ➔ D098L ➔ RW27",
+        "path": "MORSO ➔ ECTIN ➔ MICOL ➔ VICAR ➔ LGD ➔ CF27 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -171711,7 +171711,7 @@
           "27"
         ],
         "transition": "",
-        "path": "NUMBI ➔ AYYAN ➔ KALIX ➔ YUBEE ➔ WINIR ➔ LUTIL ➔ D098L ➔ RW27",
+        "path": "NUMBI ➔ AYYAN ➔ KALIX ➔ YUBEE ➔ LGD ➔ CF27 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -171738,7 +171738,7 @@
           "27"
         ],
         "transition": "",
-        "path": "SAGOL ➔ BODIE ➔ ANIKA ➔ D077L ➔ RW27",
+        "path": "SAGOL ➔ BODIE ➔ LGD ➔ CF27 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -171765,7 +171765,7 @@
           "27"
         ],
         "transition": "",
-        "path": "SAKIB ➔ CRIZU ➔ BODIE ➔ ANIKA ➔ D077L ➔ RW27",
+        "path": "SAKIB ➔ CRIZU ➔ LGD ➔ CF27 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -172156,7 +172156,7 @@
           "27"
         ],
         "transition": "",
-        "path": "GOSTO ➔ MZ604",
+        "path": "GOSTO ➔ MZ604 ➔ MZ602 ➔ RW27 ➔ MZ610 ➔ MZ608 ➔ MZ606 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -172412,7 +172412,7 @@
           "03"
         ],
         "transition": "",
-        "path": "FORTA ➔ SERAU ➔ RESTY ➔ FF03 ➔ RW03",
+        "path": "FORTA ➔ SERAU ➔ BHL ➔ FF03 ➔ RW03",
         "waypoints": "PATH"
       },
       {
@@ -172421,7 +172421,7 @@
           "21"
         ],
         "transition": "",
-        "path": "FORTA ➔ PALIN ➔ PERGA ➔ CF21 ➔ PALIN ➔ PERGA ➔ CI21 ➔ RW21",
+        "path": "FORTA ➔ PALIN ➔ BHL ➔ CF21 ➔ BHL ➔ CI21 ➔ RW21",
         "waypoints": "PATH"
       },
       {
@@ -172458,7 +172458,7 @@
           "21"
         ],
         "transition": "",
-        "path": "MCT ➔ TOGIP ➔ SP21A ➔ RW21",
+        "path": "MCT ➔ TOGIP ➔ PERGA",
         "waypoints": "PATH"
       },
       {
@@ -173833,7 +173833,7 @@
           "24"
         ],
         "transition": "",
-        "path": "KLO ➔ VE502",
+        "path": "KLO ➔ VE502 ➔ VE501 ➔ RW24 ➔ CRISO ➔ RW24",
         "waypoints": "PATH"
       },
       {
@@ -175706,7 +175706,7 @@
           "27"
         ],
         "transition": "",
-        "path": "NOMYO ➔ DULPA ➔ SERAM ➔ NUMDE ➔ SERAM ➔ ISEAC ➔ D083L ➔ RW27",
+        "path": "NOMYO ➔ DULPA ➔ SERAM ➔ PR ➔ NUMDE ➔ PR ➔ MORIX ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -175724,7 +175724,7 @@
           "27"
         ],
         "transition": "",
-        "path": "MARIN ➔ TIBOR ➔ D341L ➔ SERAM ➔ NUMDE ➔ TIBOR ➔ D341L ➔ SERAM ➔ ISEAC ➔ D083L ➔ RW27",
+        "path": "MARIN ➔ TIBOR ➔ PR ➔ NUMDE ➔ PR ➔ MORIX ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -175733,7 +175733,7 @@
           "27"
         ],
         "transition": "",
-        "path": "ZENNY ➔ BAVIM ➔ MORIX ➔ RW27",
+        "path": "ZENNY ➔ BAVIM ➔ PR ➔ NUMDE ➔ PR ➔ MORIX ➔ RW27",
         "waypoints": "PATH"
       },
       {
