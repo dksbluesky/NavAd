@@ -31138,7 +31138,7 @@
           "28R"
         ],
         "transition": "",
-        "path": "YOSEM ➔ SNORA ➔ ZOMER ➔ FRIGG ➔ SOOIE ➔ FAITH ➔ DIVEC ➔ PONKE ➔ WETOR ➔ ROKME ➔ HEMAN ➔ FAITH ➔ DIVEC ➔ PONKE ➔ WETOR ➔ ROKME ➔ HEMAN ➔ FAITH ➔ DIVEC ➔ PONKE ➔ WETOR ➔ ROKME ➔ HEMAN ➔ RW28L",
+        "path": "YOSEM ➔ SNORA ➔ ZOMER ➔ FRIGG ➔ SOOIE ➔ FAITH ➔ DIVEC ➔ PONKE ➔ WETOR ➔ ROKME ➔ HEMAN ➔ RW28L",
         "waypoints": "PATH"
       }
     ]
@@ -150351,7 +150351,7 @@
           "09"
         ],
         "transition": "",
-        "path": "TNN ➔ YUNAN ➔ D281L ➔ YUNAN ➔ D281L ➔ YUNAN ➔ CQ09 ➔ RW09",
+        "path": "TNN ➔ YUNAN ➔ CQ09 ➔ RW09",
         "waypoints": "PATH"
       }
     ]
@@ -151435,7 +151435,7 @@
           "28"
         ],
         "transition": "",
-        "path": "ANNNA ➔ D054S ➔ DUPAR ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "ANNNA ➔ D054S ➔ DUPAR ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       },
       {
@@ -151444,7 +151444,7 @@
           "10"
         ],
         "transition": "",
-        "path": "APU ➔ MENIT ➔ PUTIN ➔ CD10 ➔ PUTIN ➔ TAZAN ➔ RW10",
+        "path": "APU ➔ MENIT ➔ PUTIN ➔ TAZAN ➔ RW10",
         "waypoints": "PATH"
       },
       {
@@ -151462,7 +151462,7 @@
           "28"
         ],
         "transition": "",
-        "path": "APU ➔ DUPAR ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "APU ➔ DUPAR ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       },
       {
@@ -151471,7 +151471,7 @@
           "28"
         ],
         "transition": "",
-        "path": "BAKER ➔ D040S ➔ DUPAR ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "BAKER ➔ D040S ➔ DUPAR ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       },
       {
@@ -151480,7 +151480,7 @@
           "28"
         ],
         "transition": "",
-        "path": "CAROL ➔ D001S ➔ DUPAR ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "CAROL ➔ D001S ➔ DUPAR ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       },
       {
@@ -151498,7 +151498,7 @@
           "28"
         ],
         "transition": "",
-        "path": "HLG ➔ FUSIN ➔ SIDIN ➔ PINSI ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "HLG ➔ FUSIN ➔ SIDIN ➔ PINSI ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       },
       {
@@ -151507,7 +151507,7 @@
           "10"
         ],
         "transition": "",
-        "path": "HLG ➔ PUTIN ➔ CD10 ➔ PUTIN ➔ TAZAN ➔ RW10",
+        "path": "HLG ➔ PUTIN ➔ TAZAN ➔ RW10",
         "waypoints": "PATH"
       },
       {
@@ -151516,7 +151516,7 @@
           "28"
         ],
         "transition": "",
-        "path": "HLG ➔ JONHO ➔ FUSIN ➔ SIDIN ➔ PINSI ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "HLG ➔ JONHO ➔ FUSIN ➔ SIDIN ➔ PINSI ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       },
       {
@@ -151525,7 +151525,7 @@
           "28"
         ],
         "transition": "",
-        "path": "KUDOS ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "KUDOS ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       },
       {
@@ -151543,7 +151543,7 @@
           "28"
         ],
         "transition": "",
-        "path": "YILAN ➔ EPKAT ➔ PINSI ➔ BESOM ➔ VOSLI ➔ BESOM ➔ RW28",
+        "path": "YILAN ➔ EPKAT ➔ PINSI ➔ BESOM ➔ RW28",
         "waypoints": "PATH"
       }
     ]
@@ -151820,7 +151820,7 @@
           "05R"
         ],
         "transition": "",
-        "path": "BAKER ➔ SEPIA ➔ AUGUR ➔ APRIL ➔ MARCH ➔ FETUS ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
+        "path": "BAKER ➔ SEPIA ➔ AUGUR ➔ APRIL ➔ MARCH ➔ FETUS ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
         "waypoints": "PATH"
       },
       {
@@ -151830,7 +151830,7 @@
           "23R"
         ],
         "transition": "",
-        "path": "BAKER ➔ SEPIA ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
+        "path": "BAKER ➔ SEPIA ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
         "waypoints": "PATH"
       },
       {
@@ -151840,7 +151840,7 @@
           "05R"
         ],
         "transition": "",
-        "path": "DRAKE ➔ SEPIA ➔ AUGUR ➔ APRIL ➔ MARCH ➔ FETUS ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
+        "path": "DRAKE ➔ SEPIA ➔ AUGUR ➔ APRIL ➔ MARCH ➔ FETUS ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
         "waypoints": "PATH"
       },
       {
@@ -151850,7 +151850,7 @@
           "23R"
         ],
         "transition": "",
-        "path": "DRAKE ➔ SEPIA ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
+        "path": "DRAKE ➔ SEPIA ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
         "waypoints": "PATH"
       },
       {
@@ -151860,7 +151860,7 @@
           "05R"
         ],
         "transition": "",
-        "path": "GRACE ➔ SEPIA ➔ AUGUR ➔ APRIL ➔ MARCH ➔ FETUS ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
+        "path": "GRACE ➔ SEPIA ➔ AUGUR ➔ APRIL ➔ MARCH ➔ FETUS ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
         "waypoints": "PATH"
       },
       {
@@ -151870,7 +151870,7 @@
           "23R"
         ],
         "transition": "",
-        "path": "GRACE ➔ SEPIA ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
+        "path": "GRACE ➔ SEPIA ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
         "waypoints": "PATH"
       },
       {
@@ -151880,7 +151880,7 @@
           "05R"
         ],
         "transition": "",
-        "path": "TNN ➔ MEICH ➔ BRAVO ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
+        "path": "TNN ➔ MEICH ➔ BRAVO ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
         "waypoints": "PATH"
       },
       {
@@ -151890,7 +151890,7 @@
           "23R"
         ],
         "transition": "",
-        "path": "TNN ➔ MEICH ➔ BRAVO ➔ JAMMY ➔ MAYOR ➔ JUNTA ➔ JUROR ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
+        "path": "TNN ➔ MEICH ➔ BRAVO ➔ JAMMY ➔ MAYOR ➔ JUNTA ➔ JUROR ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
         "waypoints": "PATH"
       },
       {
@@ -151900,7 +151900,7 @@
           "05R"
         ],
         "transition": "",
-        "path": "TONGA ➔ BOCCA ➔ ELBER ➔ BRAVO ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ KARAN ➔ ANKLE ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
+        "path": "TONGA ➔ BOCCA ➔ ELBER ➔ BRAVO ➔ JAMMY ➔ TP052 ➔ TP051 ➔ RW05L",
         "waypoints": "PATH"
       },
       {
@@ -151910,7 +151910,7 @@
           "23R"
         ],
         "transition": "",
-        "path": "TONGA ➔ BOCCA ➔ ELBER ➔ BRAVO ➔ JAMMY ➔ MAYOR ➔ JUNTA ➔ JUROR ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ FLASH ➔ DINKY ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
+        "path": "TONGA ➔ BOCCA ➔ ELBER ➔ BRAVO ➔ JAMMY ➔ MAYOR ➔ JUNTA ➔ JUROR ➔ AUGUR ➔ TP242 ➔ TP241 ➔ RW23L",
         "waypoints": "PATH"
       }
     ]
@@ -152305,7 +152305,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "LUBLA ➔ TORCH ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
+        "path": "LUBLA ➔ TORCH ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152335,7 +152335,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "LUBLA ➔ SOFIA ➔ AA458 ➔ AA459 ➔ AA460 ➔ AA461 ➔ BELKS ➔ PEAKS ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ RW34L",
+        "path": "LUBLA ➔ SOFIA ➔ AA458 ➔ AA459 ➔ AA460 ➔ AA461 ➔ BELKS ➔ PEAKS ➔ TYLER ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152345,7 +152345,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "RUTAS ➔ JITAN ➔ AQUOS ➔ SIGMA ➔ TORCH ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
+        "path": "RUTAS ➔ JITAN ➔ AQUOS ➔ SIGMA ➔ TORCH ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152375,7 +152375,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "RUTAS ➔ VENUS ➔ JARED ➔ AA451 ➔ AA452 ➔ AA453 ➔ YUMIL ➔ PEAKS ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ RW34L",
+        "path": "RUTAS ➔ VENUS ➔ JARED ➔ AA451 ➔ AA452 ➔ AA453 ➔ YUMIL ➔ PEAKS ➔ TYLER ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152385,7 +152385,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "SUPOK ➔ PLOKY ➔ UNARI ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
+        "path": "SUPOK ➔ PLOKY ➔ UNARI ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152415,7 +152415,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "SUPOK ➔ SOFIA ➔ AA458 ➔ AA459 ➔ AA460 ➔ AA461 ➔ BELKS ➔ PEAKS ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ RW34L",
+        "path": "SUPOK ➔ SOFIA ➔ AA458 ➔ AA459 ➔ AA460 ➔ AA461 ➔ BELKS ➔ PEAKS ➔ TYLER ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152425,7 +152425,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "SWAMP ➔ VIXEN ➔ PLEIA ➔ MIFFY ➔ KARMA ➔ UNARI ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
+        "path": "SWAMP ➔ VIXEN ➔ PLEIA ➔ MIFFY ➔ KARMA ➔ UNARI ➔ CORGI ➔ ELGAR ➔ HARPS ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -152455,7 +152455,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "SWAMP ➔ VIXEN ➔ PLEIA ➔ KARMA ➔ DREAM ➔ MCGEE ➔ AA455 ➔ AA456 ➔ AA457 ➔ HYDRA ➔ PEAKS ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ TYLER ➔ GIINA ➔ RW34L",
+        "path": "SWAMP ➔ VIXEN ➔ PLEIA ➔ KARMA ➔ DREAM ➔ MCGEE ➔ AA455 ➔ AA456 ➔ AA457 ➔ HYDRA ➔ PEAKS ➔ TYLER ➔ GIINA ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -156070,7 +156070,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "ATSAG ➔ IKOLO ➔ FF674 ➔ FF675 ➔ FF676 ➔ FF677 ➔ ELMIS ➔ ENTIX ➔ AKTIB ➔ ENTIX ➔ AKTIB ➔ RW16L",
+        "path": "ATSAG ➔ IKOLO ➔ FF674 ➔ FF675 ➔ FF676 ➔ FF677 ➔ ELMIS ➔ ENTIX ➔ AKTIB ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -156080,7 +156080,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "ATSAG ➔ FF468 ➔ FF469 ➔ FF470 ➔ FF471 ➔ MEMAX ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ KIGUS ➔ BUBTI ➔ RW34L",
+        "path": "ATSAG ➔ FF468 ➔ FF469 ➔ FF470 ➔ FF471 ➔ MEMAX ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -156126,7 +156126,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "HONOK ➔ AMAOH ➔ KEYAH ➔ UGROT ➔ FF670 ➔ FF671 ➔ FF672 ➔ FF673 ➔ SAKOX ➔ ENTIX ➔ AKTIB ➔ ENTIX ➔ AKTIB ➔ RW16L",
+        "path": "HONOK ➔ AMAOH ➔ KEYAH ➔ UGROT ➔ FF670 ➔ FF671 ➔ FF672 ➔ FF673 ➔ SAKOX ➔ ENTIX ➔ AKTIB ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -156136,7 +156136,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "HONOK ➔ AMAOH ➔ KEYAH ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ KIGUS ➔ BUBTI ➔ RW34L",
+        "path": "HONOK ➔ AMAOH ➔ KEYAH ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -156182,7 +156182,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "ISKUP ➔ UGROT ➔ FF670 ➔ FF671 ➔ FF672 ➔ FF673 ➔ SAKOX ➔ ENTIX ➔ AKTIB ➔ ENTIX ➔ AKTIB ➔ RW16L",
+        "path": "ISKUP ➔ UGROT ➔ FF670 ➔ FF671 ➔ FF672 ➔ FF673 ➔ SAKOX ➔ ENTIX ➔ AKTIB ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -156192,7 +156192,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "ISKUP ➔ UPKEM ➔ FF464 ➔ FF465 ➔ FF466 ➔ FF467 ➔ PIDAM ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ KIGUS ➔ BUBTI ➔ RW34L",
+        "path": "ISKUP ➔ UPKEM ➔ FF464 ➔ FF465 ➔ FF466 ➔ FF467 ➔ PIDAM ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -156202,7 +156202,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "KIRIN ➔ ITODA ➔ KAHOC ➔ DAZAI ➔ BUBTI ➔ DAZAI ➔ BUBTI ➔ RW34L",
+        "path": "KIRIN ➔ ITODA ➔ KAHOC ➔ DAZAI ➔ BUBTI ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -156212,7 +156212,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "KIRIN ➔ IDOLI ➔ ANBIM ➔ FF666 ➔ FF667 ➔ FF668 ➔ FF669 ➔ OBKOS ➔ ENTIX ➔ AKTIB ➔ ENTIX ➔ AKTIB ➔ RW16L",
+        "path": "KIRIN ➔ IDOLI ➔ ANBIM ➔ FF666 ➔ FF667 ➔ FF668 ➔ FF669 ➔ OBKOS ➔ ENTIX ➔ AKTIB ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -156222,7 +156222,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "KIRIN ➔ ANBIM ➔ IGNAV ➔ FF460 ➔ FF461 ➔ FF462 ➔ FF463 ➔ OLSIT ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ KIGUS ➔ BUBTI ➔ RW34L",
+        "path": "KIRIN ➔ ANBIM ➔ IGNAV ➔ FF460 ➔ FF461 ➔ FF462 ➔ FF463 ➔ OLSIT ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ RW34L",
         "waypoints": "PATH"
       },
       {
@@ -156232,7 +156232,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "SARUP ➔ IKOLO ➔ FF674 ➔ FF675 ➔ FF676 ➔ FF677 ➔ ELMIS ➔ ENTIX ➔ AKTIB ➔ ENTIX ➔ AKTIB ➔ RW16L",
+        "path": "SARUP ➔ IKOLO ➔ FF674 ➔ FF675 ➔ FF676 ➔ FF677 ➔ ELMIS ➔ ENTIX ➔ AKTIB ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -156242,7 +156242,7 @@
           "34R"
         ],
         "transition": "",
-        "path": "SARUP ➔ MEPUG ➔ FF469 ➔ FF470 ➔ FF471 ➔ MEMAX ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ KIGUS ➔ BUBTI ➔ RW34L",
+        "path": "SARUP ➔ MEPUG ➔ FF469 ➔ FF470 ➔ FF471 ➔ MEMAX ➔ NOKOH ➔ BEAMA ➔ TEMUM ➔ KIGUS ➔ BUBTI ➔ RW34L",
         "waypoints": "PATH"
       }
     ]
@@ -162120,7 +162120,7 @@
           "16L"
         ],
         "transition": "",
-        "path": "AKSEL ➔ SALLY ➔ TT253 ➔ TT254 ➔ TT255 ➔ STOWE ➔ SHAFT ➔ SNOKE ➔ SPINE ➔ SOPPY ➔ SNARE ➔ SACHS ➔ SANDY ➔ LABAN ➔ LINEN ➔ LORRY ➔ SANDY ➔ LYCEE ➔ RW16L",
+        "path": "AKSEL ➔ SALLY ➔ TT253 ➔ TT254 ➔ TT255 ➔ STOWE ➔ SHAFT ➔ SNOKE ➔ SPINE ➔ SOPPY ➔ SNARE ➔ SACHS ➔ SANDY ➔ LYCEE ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -162138,7 +162138,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "AKSEL ➔ SALLY ➔ SCOUT ➔ SCOPE ➔ T6R70 ➔ NUMAN ➔ NORIK ➔ T6R71 ➔ T6R72 ➔ NURSE ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RANGY ➔ RESIN ➔ RUGBY ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
+        "path": "AKSEL ➔ SALLY ➔ SCOUT ➔ SCOPE ➔ T6R70 ➔ NUMAN ➔ NORIK ➔ T6R71 ➔ T6R72 ➔ NURSE ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
         "waypoints": "PATH"
       },
       {
@@ -162236,7 +162236,7 @@
           "16L"
         ],
         "transition": "",
-        "path": "AROSA ➔ AVEEY ➔ ALDEN ➔ TT256 ➔ TT257 ➔ SLICK ➔ SHAFT ➔ SNOKE ➔ SPINE ➔ SOPPY ➔ SNARE ➔ SACHS ➔ SANDY ➔ LABAN ➔ LINEN ➔ LORRY ➔ SANDY ➔ LYCEE ➔ RW16L",
+        "path": "AROSA ➔ AVEEY ➔ ALDEN ➔ TT256 ➔ TT257 ➔ SLICK ➔ SHAFT ➔ SNOKE ➔ SPINE ➔ SOPPY ➔ SNARE ➔ SACHS ➔ SANDY ➔ LYCEE ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -162254,7 +162254,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "AROSA ➔ AVEEY ➔ ALDEN ➔ TT256 ➔ TT257 ➔ SCOUT ➔ SCOPE ➔ T6R70 ➔ NUMAN ➔ NORIK ➔ T6R71 ➔ T6R72 ➔ NURSE ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RANGY ➔ RESIN ➔ RUGBY ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
+        "path": "AROSA ➔ AVEEY ➔ ALDEN ➔ TT256 ➔ TT257 ➔ SCOUT ➔ SCOPE ➔ T6R70 ➔ NUMAN ➔ NORIK ➔ T6R71 ➔ T6R72 ➔ NURSE ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
         "waypoints": "PATH"
       },
       {
@@ -162332,7 +162332,7 @@
           "16L"
         ],
         "transition": "",
-        "path": "GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ SNARE ➔ SACHS ➔ SANDY ➔ LABAN ➔ LINEN ➔ LORRY ➔ SANDY ➔ LYCEE ➔ RW16L",
+        "path": "GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ SNARE ➔ SACHS ➔ SANDY ➔ LYCEE ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -162341,7 +162341,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RANGY ➔ RESIN ➔ RUGBY ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
+        "path": "GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
         "waypoints": "PATH"
       },
       {
@@ -162446,7 +162446,7 @@
           "16L"
         ],
         "transition": "",
-        "path": "POLIX ➔ GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ SNARE ➔ SACHS ➔ SANDY ➔ LABAN ➔ LINEN ➔ LORRY ➔ SANDY ➔ LYCEE ➔ RW16L",
+        "path": "POLIX ➔ GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ SNARE ➔ SACHS ➔ SANDY ➔ LYCEE ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -162455,7 +162455,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "POLIX ➔ GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RANGY ➔ RESIN ➔ RUGBY ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
+        "path": "POLIX ➔ GODIN ➔ NOVEL ➔ NAMCO ➔ TT680 ➔ TT681 ➔ NILUS ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
         "waypoints": "PATH"
       },
       {
@@ -162562,7 +162562,7 @@
           "16L"
         ],
         "transition": "",
-        "path": "XAC ➔ ANZAC ➔ SOLAR ➔ SCOUT ➔ TT250 ➔ TT251 ➔ TT252 ➔ STOCK ➔ SHAFT ➔ SNOKE ➔ SPINE ➔ SOPPY ➔ SNARE ➔ SACHS ➔ SANDY ➔ LABAN ➔ LINEN ➔ LORRY ➔ SANDY ➔ LYCEE ➔ RW16L",
+        "path": "XAC ➔ ANZAC ➔ SOLAR ➔ SCOUT ➔ TT250 ➔ TT251 ➔ TT252 ➔ STOCK ➔ SHAFT ➔ SNOKE ➔ SPINE ➔ SOPPY ➔ SNARE ➔ SACHS ➔ SANDY ➔ LYCEE ➔ RW16L",
         "waypoints": "PATH"
       },
       {
@@ -162580,7 +162580,7 @@
           "16R"
         ],
         "transition": "",
-        "path": "XAC ➔ ANZAC ➔ SOLAR ➔ SCOUT ➔ SCOPE ➔ T6R70 ➔ NUMAN ➔ NORIK ➔ T6R71 ➔ T6R72 ➔ NURSE ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RANGY ➔ RESIN ➔ RUGBY ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
+        "path": "XAC ➔ ANZAC ➔ SOLAR ➔ SCOUT ➔ SCOPE ➔ T6R70 ➔ NUMAN ➔ NORIK ➔ T6R71 ➔ T6R72 ➔ NURSE ➔ NEURO ➔ NIGEL ➔ NATTY ➔ RACER ➔ REMUS ➔ ROWAN ➔ RW16R",
         "waypoints": "PATH"
       },
       {
@@ -162706,7 +162706,7 @@
   },
   {
     "code": "RKJB",
-    "country": "South Korea",
+    "country": "International",
     "name": "MUAN INTL",
     "runways": [
       "01",
@@ -162802,7 +162802,7 @@
           "01"
         ],
         "transition": "",
-        "path": "KAMIT ➔ JB705 ➔ JB706 ➔ OLBES ➔ D189N ➔ CD01 ➔ OLBES ➔ KEVAP ➔ RW01",
+        "path": "KAMIT ➔ JB705 ➔ JB706 ➔ OLBES ➔ KEVAP ➔ RW01",
         "waypoints": "PATH"
       },
       {
@@ -162820,7 +162820,7 @@
           "01"
         ],
         "transition": "",
-        "path": "MANGI ➔ OSROX ➔ JB704 ➔ VASVA ➔ PEGRO ➔ D182O ➔ D189N ➔ CD01 ➔ PEGRO ➔ KEVAP ➔ RW01",
+        "path": "MANGI ➔ OSROX ➔ JB704 ➔ VASVA ➔ PEGRO ➔ KEVAP ➔ RW01",
         "waypoints": "PATH"
       },
       {
@@ -162829,7 +162829,7 @@
           "01"
         ],
         "transition": "",
-        "path": "MANGI ➔ OSROX ➔ JB703 ➔ JB702 ➔ JB701 ➔ OVGEN ➔ D196O ➔ D189N ➔ CD01 ➔ OVGEN ➔ KEVAP ➔ RW01",
+        "path": "MANGI ➔ OSROX ➔ JB703 ➔ JB702 ➔ JB701 ➔ OVGEN ➔ KEVAP ➔ RW01",
         "waypoints": "PATH"
       },
       {
@@ -162845,7 +162845,7 @@
   },
   {
     "code": "RKJJ",
-    "country": "South Korea",
+    "country": "International",
     "name": "GWANGJU",
     "runways": [
       "04L",
@@ -163022,7 +163022,7 @@
   },
   {
     "code": "RKJK",
-    "country": "South Korea",
+    "country": "International",
     "name": "KUNSAN AB",
     "runways": [
       "18",
@@ -163064,7 +163064,7 @@
   },
   {
     "code": "RKJY",
-    "country": "South Korea",
+    "country": "International",
     "name": "YEOSU",
     "runways": [
       "17",
@@ -163178,7 +163178,7 @@
           "35"
         ],
         "transition": "",
-        "path": "NISAV ➔ JY752 ➔ SOONA ➔ CF35 ➔ SOONA ➔ TOQUE ➔ RW35",
+        "path": "NISAV ➔ JY752 ➔ SOONA ➔ TOQUE ➔ RW35",
         "waypoints": "PATH"
       },
       {
@@ -163187,7 +163187,7 @@
           "17"
         ],
         "transition": "",
-        "path": "NISAV ➔ AVMET ➔ ADGES ➔ ISDOV ➔ BUGYO ➔ YEONA ➔ CD17 ➔ YEONA ➔ JY402 ➔ AGUTI ➔ RW17",
+        "path": "NISAV ➔ AVMET ➔ ADGES ➔ ISDOV ➔ BUGYO ➔ YEONA ➔ JY402 ➔ AGUTI ➔ RW17",
         "waypoints": "PATH"
       },
       {
@@ -163196,7 +163196,7 @@
           "17"
         ],
         "transition": "",
-        "path": "TEDAN ➔ YEONA ➔ CD17 ➔ YEONA ➔ JY402 ➔ AGUTI ➔ RW17",
+        "path": "TEDAN ➔ YEONA ➔ JY402 ➔ AGUTI ➔ RW17",
         "waypoints": "PATH"
       },
       {
@@ -163214,14 +163214,14 @@
           "35"
         ],
         "transition": "",
-        "path": "TEDAN ➔ ISRIV ➔ SEHEE ➔ MENIV ➔ SOONA ➔ CF35 ➔ SOONA ➔ TOQUE ➔ RW35",
+        "path": "TEDAN ➔ ISRIV ➔ SEHEE ➔ MENIV ➔ SOONA ➔ TOQUE ➔ RW35",
         "waypoints": "PATH"
       }
     ]
   },
   {
     "code": "RKNW",
-    "country": "South Korea",
+    "country": "International",
     "name": "WONJU",
     "runways": [
       "03",
@@ -163325,7 +163325,7 @@
   },
   {
     "code": "RKNY",
-    "country": "South Korea",
+    "country": "International",
     "name": "YANGYANG INTL",
     "runways": [
       "15",
@@ -163421,7 +163421,7 @@
           "33"
         ],
         "transition": "",
-        "path": "BIKSI ➔ NY049 ➔ NY042 ➔ NY031 ➔ NIMAL ➔ DUBUN ➔ CS33 ➔ DUBUN ➔ NY015 ➔ NY010 ➔ RW33",
+        "path": "BIKSI ➔ NY049 ➔ NY042 ➔ NY031 ➔ NIMAL ➔ DUBUN ➔ NY015 ➔ NY010 ➔ RW33",
         "waypoints": "PATH"
       },
       {
@@ -163430,14 +163430,14 @@
           "33"
         ],
         "transition": "",
-        "path": "KAE ➔ NY049 ➔ NY042 ➔ NY031 ➔ NIMAL ➔ DUBUN ➔ CS33 ➔ DUBUN ➔ NY015 ➔ NY010 ➔ RW33",
+        "path": "KAE ➔ NY049 ➔ NY042 ➔ NY031 ➔ NIMAL ➔ DUBUN ➔ NY015 ➔ NY010 ➔ RW33",
         "waypoints": "PATH"
       }
     ]
   },
   {
     "code": "RKPC",
-    "country": "South Korea",
+    "country": "International",
     "name": "JEJU INTL",
     "runways": [
       "07",
@@ -163758,7 +163758,7 @@
   },
   {
     "code": "RKPD",
-    "country": "South Korea",
+    "country": "International",
     "name": "JEONGSEOK",
     "runways": [
       "01",
@@ -163883,7 +163883,7 @@
           "01"
         ],
         "transition": "",
-        "path": "CJU ➔ PD701 ➔ PD702 ➔ TENUL ➔ GAPHA ➔ TENUL ➔ D178N ➔ TENUL ➔ D178N ➔ TENUL ➔ PD501 ➔ RW01",
+        "path": "CJU ➔ PD701 ➔ PD702 ➔ TENUL ➔ PD501 ➔ RW01",
         "waypoints": "PATH"
       },
       {
@@ -163892,7 +163892,7 @@
           "01"
         ],
         "transition": "",
-        "path": "GAEBI ➔ JDG ➔ TENUL ➔ GAPHA ➔ TENUL ➔ D178N ➔ TENUL ➔ D178N ➔ TENUL ➔ PD501 ➔ RW01",
+        "path": "GAEBI ➔ JDG ➔ TENUL ➔ PD501 ➔ RW01",
         "waypoints": "PATH"
       },
       {
@@ -163901,7 +163901,7 @@
           "01"
         ],
         "transition": "",
-        "path": "TODAL ➔ JDG ➔ TENUL ➔ GAPHA ➔ TENUL ➔ D178N ➔ TENUL ➔ D178N ➔ TENUL ➔ PD501 ➔ RW01",
+        "path": "TODAL ➔ JDG ➔ TENUL ➔ PD501 ➔ RW01",
         "waypoints": "PATH"
       },
       {
@@ -163910,14 +163910,14 @@
           "01"
         ],
         "transition": "",
-        "path": "UPGOS ➔ PD703 ➔ PD704 ➔ PD705 ➔ PD706 ➔ TENUL ➔ GAPHA ➔ TENUL ➔ D178N ➔ TENUL ➔ D178N ➔ TENUL ➔ PD501 ➔ RW01",
+        "path": "UPGOS ➔ PD703 ➔ PD704 ➔ PD705 ➔ PD706 ➔ TENUL ➔ PD501 ➔ RW01",
         "waypoints": "PATH"
       }
     ]
   },
   {
     "code": "RKPK",
-    "country": "South Korea",
+    "country": "International",
     "name": "GIMHAE INTL",
     "runways": [
       "18L",
@@ -164384,7 +164384,7 @@
   },
   {
     "code": "RKPS",
-    "country": "South Korea",
+    "country": "International",
     "name": "SACHEON",
     "runways": [
       "06L",
@@ -164524,7 +164524,7 @@
           "24R"
         ],
         "transition": "ANUBA",
-        "path": "ANUBA ➔ AKUBO ➔ PS421 ➔ MAMVI ➔ KABVO ➔ JALDA ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
+        "path": "ANUBA ➔ AKUBO ➔ PS421 ➔ MAMVI ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
         "waypoints": "PATH"
       },
       {
@@ -164534,7 +164534,7 @@
           "24R"
         ],
         "transition": "GOSBO",
-        "path": "GOSBO ➔ PS423 ➔ PS424 ➔ MAMVI ➔ KABVO ➔ JALDA ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
+        "path": "GOSBO ➔ PS423 ➔ PS424 ➔ MAMVI ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
         "waypoints": "PATH"
       },
       {
@@ -164544,7 +164544,7 @@
           "24R"
         ],
         "transition": "MASTA",
-        "path": "MASTA ➔ PS422 ➔ KABVO ➔ JALDA ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
+        "path": "MASTA ➔ PS422 ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
         "waypoints": "PATH"
       },
       {
@@ -164554,7 +164554,7 @@
           "24R"
         ],
         "transition": "NISAV",
-        "path": "NISAV ➔ PS423 ➔ PS424 ➔ MAMVI ➔ KABVO ➔ JALDA ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
+        "path": "NISAV ➔ PS423 ➔ PS424 ➔ MAMVI ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
         "waypoints": "PATH"
       },
       {
@@ -164564,7 +164564,7 @@
           "24R"
         ],
         "transition": "SARAM",
-        "path": "SARAM ➔ KABVO ➔ JALDA ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
+        "path": "SARAM ➔ KABVO ➔ PS581 ➔ BUVPU ➔ RW24L",
         "waypoints": "PATH"
       },
       {
@@ -164594,7 +164594,7 @@
           "06R"
         ],
         "transition": "ANUBA",
-        "path": "ANUBA ➔ SOLYI ➔ MUBIX ➔ SOLYI ➔ RUPIB ➔ AURIO ➔ SOLYI ➔ PS681 ➔ GUTVA ➔ RW06L",
+        "path": "ANUBA ➔ SOLYI ➔ PS681 ➔ GUTVA ➔ RW06L",
         "waypoints": "PATH"
       },
       {
@@ -164604,7 +164604,7 @@
           "06R"
         ],
         "transition": "MASTA",
-        "path": "MASTA ➔ AKUBO ➔ SOLYI ➔ MUBIX ➔ SOLYI ➔ RUPIB ➔ AURIO ➔ SOLYI ➔ PS681 ➔ GUTVA ➔ RW06L",
+        "path": "MASTA ➔ AKUBO ➔ SOLYI ➔ PS681 ➔ GUTVA ➔ RW06L",
         "waypoints": "PATH"
       },
       {
@@ -164641,7 +164641,7 @@
   },
   {
     "code": "RKPU",
-    "country": "South Korea",
+    "country": "International",
     "name": "ULSAN",
     "runways": [
       "18",
@@ -164746,7 +164746,7 @@
           "36"
         ],
         "transition": "",
-        "path": "APARU ➔ PU701 ➔ HAEGU ➔ CD36 ➔ HAEGU ➔ PU501 ➔ LUKLI ➔ RW36",
+        "path": "APARU ➔ PU701 ➔ HAEGU ➔ PU501 ➔ LUKLI ➔ RW36",
         "waypoints": "PATH"
       },
       {
@@ -164764,7 +164764,7 @@
           "36"
         ],
         "transition": "",
-        "path": "LAPAL ➔ DOGDI ➔ PU701 ➔ HAEGU ➔ CD36 ➔ HAEGU ➔ PU501 ➔ LUKLI ➔ RW36",
+        "path": "LAPAL ➔ DOGDI ➔ PU701 ➔ HAEGU ➔ PU501 ➔ LUKLI ➔ RW36",
         "waypoints": "PATH"
       },
       {
@@ -164780,7 +164780,7 @@
   },
   {
     "code": "RKSG",
-    "country": "South Korea",
+    "country": "International",
     "name": "A-511 DESIDERIO AAF",
     "runways": [
       "14",
@@ -164873,7 +164873,7 @@
   },
   {
     "code": "RKSI",
-    "country": "South Korea",
+    "country": "International",
     "name": "INCHEON INTL",
     "runways": [
       "15L",
@@ -165372,7 +165372,7 @@
   },
   {
     "code": "RKSM",
-    "country": "South Korea",
+    "country": "International",
     "name": "SEOUL / DOMESTIC",
     "runways": [
       "01",
@@ -165504,7 +165504,7 @@
   },
   {
     "code": "RKSO",
-    "country": "South Korea",
+    "country": "International",
     "name": "OSAN AB",
     "runways": [
       "09L",
@@ -165530,7 +165530,7 @@
   },
   {
     "code": "RKSS",
-    "country": "South Korea",
+    "country": "International",
     "name": "GIMPO INTL",
     "runways": [
       "14L",
@@ -165738,7 +165738,7 @@
           "32R"
         ],
         "transition": "",
-        "path": "GUKDO ➔ GT044 ➔ DT038 ➔ DT034 ➔ BUMSI ➔ D144T ➔ D144R ➔ CD32L ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ DT009 ➔ DT007 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
+        "path": "GUKDO ➔ GT044 ➔ DT038 ➔ DT034 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
         "waypoints": "PATH"
       },
       {
@@ -165758,7 +165758,7 @@
           "32R"
         ],
         "transition": "",
-        "path": "KARBU ➔ EGOBA ➔ KT033 ➔ BUMSI ➔ D144T ➔ D144R ➔ CD32L ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ DT009 ➔ DT007 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
+        "path": "KARBU ➔ EGOBA ➔ KT033 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
         "waypoints": "PATH"
       },
       {
@@ -165798,7 +165798,7 @@
           "32R"
         ],
         "transition": "",
-        "path": "OLMEN ➔ DT043 ➔ KAKSO ➔ DT038 ➔ DT034 ➔ BUMSI ➔ D144T ➔ D144R ➔ CD32L ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ DT009 ➔ DT007 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
+        "path": "OLMEN ➔ DT043 ➔ KAKSO ➔ DT038 ➔ DT034 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
         "waypoints": "PATH"
       },
       {
@@ -165818,7 +165818,7 @@
           "32R"
         ],
         "transition": "",
-        "path": "REBIT ➔ PQ091 ➔ PQ078 ➔ PQ070 ➔ PQ058 ➔ PQ032 ➔ BUMSI ➔ D144T ➔ D144R ➔ CD32L ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ DT009 ➔ DT007 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
+        "path": "REBIT ➔ PQ091 ➔ PQ078 ➔ PQ070 ➔ PQ058 ➔ PQ032 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
         "waypoints": "PATH"
       },
       {
@@ -165828,7 +165828,7 @@
           "32R"
         ],
         "transition": "",
-        "path": "REBIT ➔ PT091 ➔ PT062 ➔ PT055 ➔ PT053 ➔ PT041 ➔ PT030 ➔ BUMSI ➔ D144T ➔ D144R ➔ CD32L ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ DT009 ➔ DT007 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
+        "path": "REBIT ➔ PT091 ➔ PT062 ➔ PT055 ➔ PT053 ➔ PT041 ➔ PT030 ➔ BUMSI ➔ PUDUB ➔ WONKO ➔ RW32L",
         "waypoints": "PATH"
       },
       {
@@ -165855,7 +165855,7 @@
   },
   {
     "code": "RKTH",
-    "country": "South Korea",
+    "country": "International",
     "name": "POHANG GYEONGJU",
     "runways": [
       "10",
@@ -166147,7 +166147,7 @@
   },
   {
     "code": "RKTL",
-    "country": "South Korea",
+    "country": "International",
     "name": "ULJIN",
     "runways": [
       "17",
@@ -166261,7 +166261,7 @@
           "35"
         ],
         "transition": "",
-        "path": "LOSTO ➔ TL011 ➔ BANYA ➔ CD35 ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
+        "path": "LOSTO ➔ TL011 ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
         "waypoints": "PATH"
       },
       {
@@ -166270,7 +166270,7 @@
           "17"
         ],
         "transition": "",
-        "path": "LOSTO ➔ TL011 ➔ TL012 ➔ TL013 ➔ ALDON ➔ CD17 ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
+        "path": "LOSTO ➔ TL011 ➔ TL012 ➔ TL013 ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
         "waypoints": "PATH"
       },
       {
@@ -166279,7 +166279,7 @@
           "35"
         ],
         "transition": "",
-        "path": "LOSTO ➔ D191L ➔ BANYA ➔ CD35 ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
+        "path": "LOSTO ➔ D191L ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
         "waypoints": "PATH"
       },
       {
@@ -166288,7 +166288,7 @@
           "17"
         ],
         "transition": "",
-        "path": "LOSTO ➔ UJN ➔ D041E ➔ ALDON ➔ CD17 ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
+        "path": "LOSTO ➔ UJN ➔ D041E ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
         "waypoints": "PATH"
       },
       {
@@ -166297,7 +166297,7 @@
           "17"
         ],
         "transition": "",
-        "path": "NOBUT ➔ TL001 ➔ ALDON ➔ CD17 ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
+        "path": "NOBUT ➔ TL001 ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
         "waypoints": "PATH"
       },
       {
@@ -166306,7 +166306,7 @@
           "35"
         ],
         "transition": "",
-        "path": "NOBUT ➔ D352K ➔ UJN ➔ D131E ➔ BANYA ➔ CD35 ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
+        "path": "NOBUT ➔ D352K ➔ UJN ➔ D131E ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
         "waypoints": "PATH"
       },
       {
@@ -166315,7 +166315,7 @@
           "17"
         ],
         "transition": "",
-        "path": "NOBUT ➔ D352L ➔ ALDON ➔ CD17 ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
+        "path": "NOBUT ➔ D352L ➔ ALDON ➔ TL041 ➔ UMNAE ➔ RW17",
         "waypoints": "PATH"
       },
       {
@@ -166324,14 +166324,14 @@
           "35"
         ],
         "transition": "",
-        "path": "NOBUT ➔ TL001 ➔ TL002 ➔ TL003 ➔ TL004 ➔ BANYA ➔ CD35 ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
+        "path": "NOBUT ➔ TL001 ➔ TL002 ➔ TL003 ➔ TL004 ➔ BANYA ➔ TL051 ➔ HUPHO ➔ RW35",
         "waypoints": "PATH"
       }
     ]
   },
   {
     "code": "RKTN",
-    "country": "South Korea",
+    "country": "International",
     "name": "DAEGU INTL",
     "runways": [
       "13L",
@@ -166613,7 +166613,7 @@
           "31R"
         ],
         "transition": "BITUX",
-        "path": "BITUX ➔ OSNOP ➔ TGU ➔ TN652 ➔ UKBAT ➔ CD31 ➔ UKBAT ➔ D132O ➔ CI31L ➔ UKBAT ➔ CF31L ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
+        "path": "BITUX ➔ OSNOP ➔ TGU ➔ TN652 ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
         "waypoints": "PATH"
       },
       {
@@ -166623,7 +166623,7 @@
           "31R"
         ],
         "transition": "IGDOK",
-        "path": "IGDOK ➔ PEDVA ➔ TGU ➔ TN652 ➔ UKBAT ➔ CD31 ➔ UKBAT ➔ D132O ➔ CI31L ➔ UKBAT ➔ CF31L ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
+        "path": "IGDOK ➔ PEDVA ➔ TGU ➔ TN652 ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
         "waypoints": "PATH"
       },
       {
@@ -166633,7 +166633,7 @@
           "31R"
         ],
         "transition": "KALOD",
-        "path": "KALOD ➔ TN633 ➔ TGU ➔ TN652 ➔ UKBAT ➔ CD31 ➔ UKBAT ➔ D132O ➔ CI31L ➔ UKBAT ➔ CF31L ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
+        "path": "KALOD ➔ TN633 ➔ TGU ➔ TN652 ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
         "waypoints": "PATH"
       },
       {
@@ -166643,7 +166643,7 @@
           "31R"
         ],
         "transition": "LAPAL",
-        "path": "LAPAL ➔ UKBAT ➔ CD31 ➔ UKBAT ➔ D132O ➔ CI31L ➔ UKBAT ➔ CF31L ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
+        "path": "LAPAL ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
         "waypoints": "PATH"
       },
       {
@@ -166653,7 +166653,7 @@
           "31R"
         ],
         "transition": "MASTA",
-        "path": "MASTA ➔ TN653 ➔ TGU ➔ TN652 ➔ UKBAT ➔ CD31 ➔ UKBAT ➔ D132O ➔ CI31L ➔ UKBAT ➔ CF31L ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
+        "path": "MASTA ➔ TN653 ➔ TGU ➔ TN652 ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
         "waypoints": "PATH"
       },
       {
@@ -166663,7 +166663,7 @@
           "31R"
         ],
         "transition": "OPEDA",
-        "path": "OPEDA ➔ TGU ➔ TN652 ➔ UKBAT ➔ CD31 ➔ UKBAT ➔ D132O ➔ CI31L ➔ UKBAT ➔ CF31L ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
+        "path": "OPEDA ➔ TGU ➔ TN652 ➔ UKBAT ➔ TN601 ➔ INTUT ➔ RW31L",
         "waypoints": "PATH"
       },
       {
@@ -166730,7 +166730,7 @@
   },
   {
     "code": "RKTU",
-    "country": "South Korea",
+    "country": "International",
     "name": "CHEONGJU INTL",
     "runways": [
       "06L",
@@ -168250,7 +168250,7 @@
   },
   {
     "code": "RPLB",
-    "country": "Philippines",
+    "country": "International",
     "name": "SUBIC BAY PRINCIPAL",
     "runways": [
       "07",
@@ -168605,7 +168605,7 @@
   },
   {
     "code": "RPLC",
-    "country": "Philippines",
+    "country": "International",
     "name": "DIOSDADO MACAPAGAL INTL",
     "runways": [
       "02",
@@ -168924,7 +168924,7 @@
   },
   {
     "code": "RPLI",
-    "country": "Philippines",
+    "country": "International",
     "name": "LAOAG INTL",
     "runways": [
       "01",
@@ -169315,7 +169315,7 @@
   },
   {
     "code": "RPLK",
-    "country": "Philippines",
+    "country": "International",
     "name": "BICOL PRINCIPAL",
     "runways": [
       "05",
@@ -169436,7 +169436,7 @@
   },
   {
     "code": "RPLL",
-    "country": "Philippines",
+    "country": "International",
     "name": "NINOY AQUINO INTL",
     "runways": [
       "06",
@@ -170811,7 +170811,7 @@
   },
   {
     "code": "RPMD",
-    "country": "Philippines",
+    "country": "International",
     "name": "FRANCISCO BANGOY INTL",
     "runways": [
       "05",
@@ -171148,7 +171148,7 @@
   },
   {
     "code": "RPME",
-    "country": "Philippines",
+    "country": "International",
     "name": "BUTUAN",
     "runways": [
       "12",
@@ -171269,7 +171269,7 @@
   },
   {
     "code": "RPMR",
-    "country": "Philippines",
+    "country": "International",
     "name": "TAMBLER PRINCIPAL",
     "runways": [
       "17",
@@ -171543,7 +171543,7 @@
   },
   {
     "code": "RPMY",
-    "country": "Philippines",
+    "country": "International",
     "name": "LAGUINDINGAN PRINCIPAL",
     "runways": [
       "09",
@@ -171790,7 +171790,7 @@
   },
   {
     "code": "RPMZ",
-    "country": "Philippines",
+    "country": "International",
     "name": "ZAMBOANGA PRINCIPAL",
     "runways": [
       "09",
@@ -172298,7 +172298,7 @@
   },
   {
     "code": "RPSP",
-    "country": "Philippines",
+    "country": "International",
     "name": "BOHOL-PANGLAO INTL",
     "runways": [
       "03",
@@ -172421,7 +172421,7 @@
           "21"
         ],
         "transition": "",
-        "path": "FORTA ➔ PALIN ➔ PERGA ➔ CF21 ➔ PALIN ➔ PERGA ➔ CI21 ➔ RW21",
+        "path": "FORTA ➔ PALIN ➔ PERGA ➔ CI21 ➔ RW21",
         "waypoints": "PATH"
       },
       {
@@ -172511,7 +172511,7 @@
   },
   {
     "code": "RPUN",
-    "country": "Philippines",
+    "country": "International",
     "name": "NAGA PRINCIPAL",
     "runways": [
       "04",
@@ -172605,7 +172605,7 @@
   },
   {
     "code": "RPUT",
-    "country": "Philippines",
+    "country": "International",
     "name": "TUGUEGARAO",
     "runways": [
       "17",
@@ -172699,7 +172699,7 @@
   },
   {
     "code": "RPVA",
-    "country": "Philippines",
+    "country": "International",
     "name": "DANIEL Z. ROMUALDEZ",
     "runways": [
       "18",
@@ -173135,7 +173135,7 @@
   },
   {
     "code": "RPVB",
-    "country": "Philippines",
+    "country": "International",
     "name": "BACOLOD PRINCIPAL",
     "runways": [
       "03",
@@ -173724,7 +173724,7 @@
   },
   {
     "code": "RPVD",
-    "country": "Philippines",
+    "country": "International",
     "name": "DUMAGUETE",
     "runways": [
       "09",
@@ -173782,7 +173782,7 @@
   },
   {
     "code": "RPVE",
-    "country": "Philippines",
+    "country": "International",
     "name": "GODOFREDO P. RAMOS PRINCIPAL",
     "runways": [
       "06",
@@ -173885,7 +173885,7 @@
   },
   {
     "code": "RPVI",
-    "country": "Philippines",
+    "country": "International",
     "name": "ILOILO",
     "runways": [
       "02",
@@ -174260,7 +174260,7 @@
           "20"
         ],
         "transition": "",
-        "path": "BEDER ➔ LAYGO ➔ DOREG ➔ SATTI ➔ CF20 ➔ SATTI ➔ VI20A ➔ RW20",
+        "path": "BEDER ➔ LAYGO ➔ DOREG ➔ SATTI ➔ VI20A ➔ RW20",
         "waypoints": "PATH"
       },
       {
@@ -174296,7 +174296,7 @@
           "20"
         ],
         "transition": "",
-        "path": "BUSOG ➔ DOREG ➔ SATTI ➔ CF20 ➔ SATTI ➔ VI20A ➔ RW20",
+        "path": "BUSOG ➔ DOREG ➔ SATTI ➔ VI20A ➔ RW20",
         "waypoints": "PATH"
       },
       {
@@ -174332,7 +174332,7 @@
           "20"
         ],
         "transition": "",
-        "path": "GALIA ➔ JAMEL ➔ SATTI ➔ CF20 ➔ SATTI ➔ VI20A ➔ RW20",
+        "path": "GALIA ➔ JAMEL ➔ SATTI ➔ VI20A ➔ RW20",
         "waypoints": "PATH"
       },
       {
@@ -174368,7 +174368,7 @@
           "20"
         ],
         "transition": "",
-        "path": "LAMBO ➔ DOREG ➔ SATTI ➔ CF20 ➔ SATTI ➔ VI20A ➔ RW20",
+        "path": "LAMBO ➔ DOREG ➔ SATTI ➔ VI20A ➔ RW20",
         "waypoints": "PATH"
       },
       {
@@ -174456,7 +174456,7 @@
   },
   {
     "code": "RPVK",
-    "country": "Philippines",
+    "country": "International",
     "name": "KALIBO INTL",
     "runways": [
       "05",
@@ -174748,7 +174748,7 @@
   },
   {
     "code": "RPVM",
-    "country": "Philippines",
+    "country": "International",
     "name": "MACTAN-CEBU INTL",
     "runways": [
       "04L",
@@ -175529,7 +175529,7 @@
   },
   {
     "code": "RPVP",
-    "country": "Philippines",
+    "country": "International",
     "name": "PUERTO PRINCESA INTL",
     "runways": [
       "09",
@@ -175706,7 +175706,7 @@
           "27"
         ],
         "transition": "",
-        "path": "NOMYO ➔ DULPA ➔ SERAM ➔ NUMDE ➔ SERAM ➔ ISEAC ➔ D083L ➔ RW27",
+        "path": "NOMYO ➔ DULPA ➔ SERAM ➔ ISEAC ➔ D083L ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -175724,7 +175724,7 @@
           "27"
         ],
         "transition": "",
-        "path": "MARIN ➔ TIBOR ➔ D341L ➔ SERAM ➔ NUMDE ➔ TIBOR ➔ D341L ➔ SERAM ➔ ISEAC ➔ D083L ➔ RW27",
+        "path": "MARIN ➔ TIBOR ➔ D341L ➔ SERAM ➔ ISEAC ➔ D083L ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -175749,7 +175749,7 @@
   },
   {
     "code": "RPVR",
-    "country": "Philippines",
+    "country": "International",
     "name": "ROXAS PRINCIPAL",
     "runways": [
       "14",
