@@ -4961,7 +4961,7 @@
           "35"
         ],
         "transition": "BUWZO",
-        "path": "HELNS ➔ KRATR ➔ BTG ➔ BUWZO ➔ HELNS",
+        "path": "HELNS ➔ KRATR ➔ BTG ➔ MOKIY ➔ RW17",
         "waypoints": "PATH"
       },
       {
@@ -4971,7 +4971,7 @@
           "35"
         ],
         "transition": "SEA",
-        "path": "HELNS ➔ KRATR ➔ BTG ➔ SEA ➔ BUWZO ➔ HELNS",
+        "path": "HELNS ➔ KRATR ➔ BTG ➔ MOKIY ➔ RW17",
         "waypoints": "PATH"
       }
     ]
@@ -80238,7 +80238,7 @@
           "35R"
         ],
         "transition": "ROLLS",
-        "path": "CAMET ➔ DAWKS ➔ ROLLS ➔ SCUFF ➔ CAMET",
+        "path": "CAMET ➔ DAWKS ➔ WABUT ➔ RW13",
         "waypoints": "PATH"
       },
       {
@@ -80251,7 +80251,7 @@
           "35R"
         ],
         "transition": "SCUFF",
-        "path": "CAMET ➔ DAWKS ➔ SCUFF ➔ CAMET",
+        "path": "CAMET ➔ DAWKS ➔ WABUT ➔ RW13",
         "waypoints": "PATH"
       },
       {
@@ -94751,7 +94751,7 @@
           "30R"
         ],
         "transition": "",
-        "path": "DELMA ➔ MMRSN",
+        "path": "DELMA ➔ ZINKI ➔ FOSKU ➔ RW12R",
         "waypoints": "PATH"
       },
       {
@@ -154286,7 +154286,7 @@
           "19R"
         ],
         "transition": "",
-        "path": "CHE ➔ C9R53 ➔ C9R54 ➔ C9R55 ➔ NACKS",
+        "path": "CHE ➔ FF19 ➔ RW19R",
         "waypoints": "PATH"
       },
       {
@@ -158495,7 +158495,7 @@
           "06"
         ],
         "transition": "",
-        "path": "KMC ➔ SAWRA ➔ MEGIS ➔ KANOH ➔ DAIJO",
+        "path": "KMC ➔ CS06 ➔ RW06",
         "waypoints": "PATH"
       },
       {
@@ -161298,7 +161298,7 @@
           "27"
         ],
         "transition": "",
-        "path": "YSE ➔ SY761 ➔ MOKKE",
+        "path": "YSE ➔ CL27 ➔ RW27",
         "waypoints": "PATH"
       },
       {
@@ -161307,7 +161307,7 @@
           "09"
         ],
         "transition": "",
-        "path": "USUBA ➔ SY951 ➔ SY952 ➔ SY953 ➔ YURAH",
+        "path": "USUBA ➔ MOSSH ➔ RW09",
         "waypoints": "PATH"
       }
     ]
@@ -171440,152 +171440,7 @@
         "waypoints": "PATH"
       }
     ],
-    "stars": [
-      {
-        "name": "ANKI2C",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "ANKIN ➔ JOBUD ➔ EDONG ➔ CASEY ➔ WINIR ➔ LGD",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "ANKI4A",
-        "rwy": [
-          "09"
-        ],
-        "transition": "",
-        "path": "ANKIN ➔ YURRI ➔ AGEPA ➔ REBBY ➔ MY09A ➔ RW09",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "ANKI6A",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "ANKIN ➔ LAYZA ➔ ENTEP ➔ REMAX ➔ LALAH ➔ MY27A ➔ RW27",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "GONI2C",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "GONIL ➔ JASMI ➔ IPLER ➔ LUTIL ➔ LGD",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "MORS2C",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "MORSO ➔ ECTIN ➔ MICOL ➔ VICAR ➔ LGD",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "MORS4A",
-        "rwy": [
-          "09"
-        ],
-        "transition": "",
-        "path": "MORSO ➔ AGEPA ➔ REBBY ➔ MY09A ➔ RW09",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "MORS6A",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "MORSO ➔ JABAR ➔ JOYCE ➔ LUMVI ➔ LALAH ➔ MY27A ➔ RW27",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "NUMB2C",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "NUMBI ➔ AYYAN ➔ KALIX ➔ YUBEE ➔ LGD",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "NUMB4A",
-        "rwy": [
-          "09"
-        ],
-        "transition": "",
-        "path": "NUMBI ➔ IRWIN ➔ AGEPA ➔ REBBY ➔ MY09A ➔ RW09",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "NUMB6A",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "NUMBI ➔ VINAH ➔ ENTEP ➔ REMAX ➔ LALAH ➔ MY27A ➔ RW27",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "SAGO2C",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "SAGOL ➔ BODIE ➔ LGD",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "SAGO4A",
-        "rwy": [
-          "09"
-        ],
-        "transition": "",
-        "path": "SAGOL ➔ BAYSA ➔ JONAS ➔ MY09A ➔ RW09",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "SAGO6A",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "SAGOL ➔ MATTE ➔ MY27A ➔ RW27",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "SAKI2C",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "SAKIB ➔ CRIZU ➔ LGD",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "SAKI4A",
-        "rwy": [
-          "09"
-        ],
-        "transition": "",
-        "path": "SAKIB ➔ JONAS ➔ MY09A ➔ RW09",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "SAKI6A",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "SAKIB ➔ GLENN ➔ MATTE ➔ MY27A ➔ RW27",
-        "waypoints": "PATH"
-      }
-    ]
+    "stars": []
   },
   {
     "code": "RPMZ",
@@ -172211,7 +172066,7 @@
           "03"
         ],
         "transition": "",
-        "path": "FORTA ➔ SERAU ➔ BHL",
+        "path": "FORTA ➔ SERAU ➔ RESTY ➔ FF03 ➔ RW03",
         "waypoints": "PATH"
       },
       {
@@ -172220,7 +172075,7 @@
           "21"
         ],
         "transition": "",
-        "path": "FORTA ➔ PALIN ➔ BHL",
+        "path": "FORTA ➔ PALIN ➔ PERGA ➔ CF21 ➔ PALIN ➔ PERGA ➔ CI21 ➔ RW21",
         "waypoints": "PATH"
       },
       {
@@ -172257,7 +172112,7 @@
           "21"
         ],
         "transition": "",
-        "path": "MCT ➔ TOGIP ➔ PERGA",
+        "path": "MCT ➔ TOGIP ➔ SP21A ➔ RW21",
         "waypoints": "PATH"
       },
       {
@@ -175489,62 +175344,7 @@
         "waypoints": "PATH"
       }
     ],
-    "stars": [
-      {
-        "name": "MARI2W",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "MARIN ➔ TAJIN ➔ RIGEZ ➔ VP27A ➔ RW27",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "NOM2",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "NOMYO ➔ DULPA ➔ SERAM ➔ PR",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "NOMY2W",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "NOMYO ➔ MELSO ➔ LAVIK ➔ RIGEZ ➔ VP27A ➔ RW27",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "RIN2",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "MARIN ➔ TIBOR ➔ PR",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "ZEN2",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "ZENNY ➔ BAVIM ➔ PR",
-        "waypoints": "PATH"
-      },
-      {
-        "name": "ZENY2W",
-        "rwy": [
-          "27"
-        ],
-        "transition": "",
-        "path": "ZENNY ➔ ZYAAN ➔ VP27A ➔ RW27",
-        "waypoints": "PATH"
-      }
-    ]
+    "stars": []
   },
   {
     "code": "RPVR",
