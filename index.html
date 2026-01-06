@@ -132,7 +132,31 @@
                 </select>
             </div>
         </div>
-    </div>
+
+        <div v-if="selectedRunway && currentAirport.ils_data && currentAirport.ils_data[selectedRunway]" 
+             class="bg-blue-900/20 border border-av-cyan/30 rounded-lg p-3 flex items-center justify-between animate-pulse">
+            <div class="flex items-center gap-3">
+                <div class="bg-av-cyan text-black font-bold text-xs px-2 py-1 rounded">ILS</div>
+                <div class="flex flex-col">
+                    <span class="text-av-cyan font-mono font-bold text-lg leading-none">
+                        {{ currentAirport.ils_data[selectedRunway].freq }}
+                    </span>
+                    <span class="text-[10px] text-av-muted font-mono uppercase tracking-wider">Frequency</span>
+                </div>
+            </div>
+            
+            <div class="flex items-center gap-4 text-right">
+                <div>
+                    <div class="text-white font-mono font-bold">{{ currentAirport.ils_data[selectedRunway].crs }}°</div>
+                    <div class="text-[10px] text-av-muted uppercase">Crs</div>
+                </div>
+                <div>
+                    <div class="text-av-amber font-mono font-bold">{{ currentAirport.ils_data[selectedRunway].ident }}</div>
+                    <div class="text-[10px] text-av-muted uppercase">Id</div>
+                </div>
+            </div>
+        </div>
+        </div>
 
     <div v-if="selectedRunway" class="flex-1 flex flex-col gap-4">
         
