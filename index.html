@@ -3,13 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="theme-color" content="#0B1015">
     <title>Pro Flight Ops</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&family=JetBrains+Mono:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="apple-touch-icon" href="sid&star.png">
-    <link rel="icon" sizes="192x192" href="sid&star.png">
+    <link rel="manifest" href="manifest.webmanifest">
+    <link rel="apple-touch-icon" href="icons/icon-192.png">
+    <link rel="icon" sizes="192x192" href="icons/icon-192.png">
     <link rel="shortcut icon" href="sid&star.png"> 
     <script>
         tailwind.config = {
@@ -286,6 +288,11 @@
             };
         }
     }).mount('#app');
+</script>
+<script>
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js').catch((error) => console.warn('Service worker registration failed:', error));
+    }
 </script>
 </body>
 </html>
