@@ -186,11 +186,17 @@
         <div class="flex-1 overflow-y-auto space-y-3 pb-safe min-h-[300px]">
             <template v-if="showApproachCharts">
                 <div class="glass-panel rounded-xl overflow-hidden">
-                    <div class="px-5 py-3 border-b border-slate-700/60">
-                        <div class="font-bold text-white">CHARTFOX · {{ currentAirport.code }}</div>
-                        <div class="text-xs text-slate-500 font-mono mt-1">Select approach charts inside the embedded browser.</div>
+                    <div class="px-5 py-3 border-b border-slate-700/60 flex flex-wrap items-center justify-between gap-2">
+                        <div>
+                            <div class="font-bold text-white">CHARTFOX · {{ currentAirport.code }}</div>
+                            <div class="text-xs text-slate-500 font-mono mt-1">Select approach charts inside the embedded browser.</div>
+                        </div>
+                        <button v-if="chartFoxUrl" type="button" @click="chartFoxFrameKey++"
+                                class="bg-slate-800 hover:bg-av-cyan hover:text-black text-av-cyan border border-slate-600 px-3 py-2 rounded font-bold text-xs tracking-wider font-mono">
+                            BACK TO CHART LIST
+                        </button>
                     </div>
-                    <iframe v-if="chartFoxUrl" :src="chartFoxUrl" :title="'ChartFox charts for ' + currentAirport.code"
+                    <iframe v-if="chartFoxUrl" :key="chartFoxFrameKey" :src="chartFoxUrl" :title="'ChartFox charts for ' + currentAirport.code"
                             class="block w-full h-[70dvh] min-h-[480px] md:h-[78dvh] md:min-h-[600px] bg-slate-900" loading="lazy"></iframe>
                     <form v-else @submit.prevent="useChartFoxToken" class="p-5 space-y-3">
                         <label for="chartfox-token" class="block text-xs font-bold text-av-muted uppercase tracking-widest">ChartFox test token</label>
@@ -270,6 +276,7 @@
             const showApproachCharts = ref(false);
             const chartFoxTokenInput = ref('');
             const chartFoxToken = ref('');
+            const chartFoxFrameKey = ref(0);
             const errorMsg = ref('');
 
             onMounted(async () => {
@@ -328,14 +335,14 @@
             };
 
             return {
-                loading, icaoInput, currentAirport, selectedRunway, viewTab, showApproachCharts, chartFoxTokenInput, chartFoxUrl, useChartFoxToken, errorMsg, filteredProcedures, searchAirport, toggleExpand
+                loading, icaoInput, currentAirport, selectedRunway, viewTab, showApproachCharts, chartFoxTokenInput, chartFoxUrl, chartFoxFrameKey, useChartFoxToken, errorMsg, filteredProcedures, searchAirport, toggleExpand
             };
         }
     }).mount('#app');
 </script>
 <script>
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('sw.js?v=6').catch((error) => console.warn('Service worker registration failed:', error));
+        navigator.serviceWorker.register('sw.js?v=7').catch((error) => console.warn('Service worker registration failed:', error));
     }
 </script>
 </body>
