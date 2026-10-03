@@ -80,14 +80,14 @@
 </head>
 <body>
 
-<div id="app" class="max-w-md mx-auto min-h-screen p-4 flex flex-col gap-5 pb-10 relative">
+<div id="app" class="w-full mx-auto min-h-screen p-4 flex flex-col gap-5 pb-10 relative" :class="showApproachCharts ? 'max-w-md md:max-w-3xl lg:max-w-5xl' : 'max-w-md'">
 
     <div v-if="loading" class="fixed inset-0 bg-cockpit-bg z-50 flex flex-col items-center justify-center">
         <div class="radar-spinner mb-4"></div>
         <p class="text-av-cyan font-mono tracking-[0.2em] text-sm animate-pulse">LOADING NAV DATA...</p>
     </div>
 
-    <header class="flex justify-between items-center py-2 border-b border-cockpit-border/50 pb-4">
+    <header class="flex justify-between items-center py-2 border-b border-cockpit-border/50 pb-4 w-full max-w-md mx-auto">
         <div class="flex items-center gap-3">
             <div class="w-10 h-10 rounded-lg bg-gradient-to-br from-blue-900 to-slate-900 flex items-center justify-center border border-blue-500/30 shadow-lg shadow-blue-500/10">
                 <i class="fa-solid fa-plane-departure text-av-cyan text-lg"></i>
@@ -104,7 +104,7 @@
         </div>
     </header>
 
-    <div class="glass-panel rounded-xl p-5 space-y-4">
+    <div class="glass-panel rounded-xl p-5 space-y-4 w-full max-w-md mx-auto">
         <div class="flex justify-between items-end mb-1">
             <label class="text-xs font-bold text-av-muted uppercase tracking-widest">Airport ICAO</label>
             <span v-if="errorMsg" class="text-xs text-red-400 font-mono"><i class="fa-solid fa-triangle-exclamation mr-1"></i>NOT FOUND</span>
@@ -117,7 +117,7 @@
         </div>
     </div>
 
-    <div v-if="currentAirport" class="space-y-4">
+    <div v-if="currentAirport" class="space-y-4 w-full max-w-md mx-auto">
         <div class="flex justify-between items-center px-2">
             <div>
                 <h2 class="text-5xl font-black text-white font-mono tracking-tighter drop-shadow-lg">{{ currentAirport.code }}</h2>
@@ -130,7 +130,7 @@
                 <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                     <span class="text-av-muted font-mono text-xs">RWY</span>
                 </div>
-                <select v-model="selectedRunway" class="w-full bg-transparent text-white font-mono text-xl font-bold py-3 pl-12 pr-10 rounded-lg outline-none cursor-pointer hover:bg-white/5 transition">
+                <select v-model="selectedRunway" @change="showApproachCharts = false" class="w-full bg-transparent text-white font-mono text-xl font-bold py-3 pl-12 pr-10 rounded-lg outline-none cursor-pointer hover:bg-white/5 transition">
                     <option value="" disabled class="bg-cockpit-card text-slate-500">SELECT RUNWAY</option>
                     <option v-for="rwy in currentAirport.runways" :value="rwy" class="bg-cockpit-card text-white">{{ rwy }}</option>
                 </select>
@@ -164,25 +164,52 @@
 
     <div v-if="selectedRunway" class="flex-1 flex flex-col gap-4">
         
-        <div class="grid grid-cols-2 gap-1 bg-black/40 p-1 rounded-lg border border-slate-800">
-            <button @click="viewTab = 'SID'" 
+        <div class="grid grid-cols-3 gap-1 bg-black/40 p-1 rounded-lg border border-slate-800 w-full max-w-2xl mx-auto">
+            <button @click="viewTab = 'SID'; showApproachCharts = false"
                 :class="viewTab === 'SID' ? 'bg-av-green text-black shadow-[0_0_15px_rgba(0,230,118,0.4)]' : 'text-slate-500 hover:text-slate-300'" 
                 class="py-2 rounded font-bold transition-all text-sm tracking-wider font-mono">
                 DEPARTURE
             </button>
-            <button @click="viewTab = 'STAR'" 
-                :class="viewTab === 'STAR' ? 'bg-av-amber text-black shadow-[0_0_15px_rgba(255,179,0,0.4)]' : 'text-slate-500 hover:text-slate-300'" 
+            <button @click="viewTab = 'STAR'; showApproachCharts = false"
+                :class="viewTab === 'STAR' ? 'bg-av-amber text-black shadow-[0_0_15px_rgba(255,179,0,0.4)]' : 'text-slate-500 hover:text-slate-300'"
                 class="py-2 rounded font-bold transition-all text-sm tracking-wider font-mono">
                 ARRIVAL
+            </button>
+            <button @click="showApproachCharts = !showApproachCharts"
+                :disabled="viewTab !== 'STAR'"
+                :class="showApproachCharts ? 'bg-av-cyan text-black shadow-[0_0_15px_rgba(0,229,255,0.4)]' : viewTab === 'STAR' ? 'text-slate-500 hover:text-slate-300' : 'text-slate-700 cursor-not-allowed'"
+                class="py-2 rounded font-bold transition-all text-sm tracking-wider font-mono">
+                APPROACH
             </button>
         </div>
 
         <div class="flex-1 overflow-y-auto space-y-3 pb-safe min-h-[300px]">
-            <div v-if="filteredProcedures.length === 0" class="flex flex-col items-center justify-center py-12 text-av-muted opacity-50 border-2 border-dashed border-slate-800 rounded-xl">
+            <template v-if="showApproachCharts">
+                <div class="glass-panel rounded-xl overflow-hidden">
+                    <div class="px-5 py-3 border-b border-slate-700/60">
+                        <div class="font-bold text-white">CHARTFOX · {{ currentAirport.code }}</div>
+                        <div class="text-xs text-slate-500 font-mono mt-1">Select approach charts inside the embedded browser.</div>
+                    </div>
+                    <iframe v-if="chartFoxUrl" :src="chartFoxUrl" :title="'ChartFox charts for ' + currentAirport.code"
+                            class="block w-full h-[70dvh] min-h-[480px] md:h-[78dvh] md:min-h-[600px] bg-slate-900" loading="lazy"></iframe>
+                    <form v-else @submit.prevent="useChartFoxToken" class="p-5 space-y-3">
+                        <label for="chartfox-token" class="block text-xs font-bold text-av-muted uppercase tracking-widest">ChartFox test token</label>
+                        <input id="chartfox-token" v-model="chartFoxTokenInput" type="password" autocomplete="off" spellcheck="false"
+                               class="fms-input w-full rounded-lg px-3 py-2 font-mono text-sm" placeholder="Paste token locally">
+                        <button type="submit" :disabled="!chartFoxTokenInput.trim()"
+                                class="bg-slate-800 hover:bg-av-cyan hover:text-black text-av-cyan border border-slate-600 px-3 py-2 rounded font-bold text-xs tracking-wider font-mono disabled:opacity-50">
+                            LOAD CHARTFOX
+                        </button>
+                        <p class="text-[10px] text-av-muted font-mono">The token stays in this browser tab and is sent in the ChartFox iframe URL. Use an interface-only token.</p>
+                    </form>
+                </div>
+            </template>
+
+            <div v-if="!showApproachCharts && filteredProcedures.length === 0" class="flex flex-col items-center justify-center py-12 text-av-muted opacity-50 border-2 border-dashed border-slate-800 rounded-xl">
                 <p class="font-mono text-xs">NO PROCEDURES FOUND</p>
             </div>
             
-            <div v-for="proc in filteredProcedures" :key="proc.name + proc.transition" 
+            <div v-if="!showApproachCharts" v-for="proc in filteredProcedures" :key="proc.name + proc.transition"
                 @click="toggleExpand(proc)"
                 class="glass-panel rounded-xl relative overflow-hidden group hover:border-slate-500 transition-colors cursor-pointer select-none">
                 
@@ -239,7 +266,10 @@
             const icaoInput = ref('');
             const currentAirport = ref(null);
             const selectedRunway = ref('');
-            const viewTab = ref('STAR'); 
+            const viewTab = ref('STAR');
+            const showApproachCharts = ref(false);
+            const chartFoxTokenInput = ref('');
+            const chartFoxToken = ref('');
             const errorMsg = ref('');
 
             onMounted(async () => {
@@ -255,6 +285,7 @@
 
             const searchAirport = () => {
                 selectedRunway.value = '';
+                showApproachCharts.value = false;
                 errorMsg.value = '';
                 currentAirport.value = null;
                 const code = icaoInput.value.toUpperCase().trim();
@@ -283,15 +314,28 @@
                 return list.filter(p => p.rwy.includes("ALL") || p.rwy.includes(selectedRunway.value));
             });
 
+            const chartFoxUrl = computed(() => {
+                if (!chartFoxToken.value || !currentAirport.value || !selectedRunway.value) return '';
+                const url = new URL('/v2/interfaces/airport/' + encodeURIComponent(currentAirport.value.code), 'https://api.chartfox.org');
+                url.searchParams.set('token', chartFoxToken.value);
+                url.searchParams.set('darkMode', 'true');
+                return url.href;
+            });
+
+            const useChartFoxToken = () => {
+                chartFoxToken.value = chartFoxTokenInput.value.trim();
+                chartFoxTokenInput.value = '';
+            };
+
             return {
-                loading, icaoInput, currentAirport, selectedRunway, viewTab, errorMsg, filteredProcedures, searchAirport, toggleExpand
+                loading, icaoInput, currentAirport, selectedRunway, viewTab, showApproachCharts, chartFoxTokenInput, chartFoxUrl, useChartFoxToken, errorMsg, filteredProcedures, searchAirport, toggleExpand
             };
         }
     }).mount('#app');
 </script>
 <script>
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('sw.js').catch((error) => console.warn('Service worker registration failed:', error));
+        navigator.serviceWorker.register('sw.js?v=6').catch((error) => console.warn('Service worker registration failed:', error));
     }
 </script>
 </body>
