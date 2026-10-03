@@ -1,4 +1,4 @@
-const CACHE_NAME = 'navad-shell-v7';
+const CACHE_NAME = 'navad-shell-v8';
 const APP_SHELL = [
   './',
   './index.html',

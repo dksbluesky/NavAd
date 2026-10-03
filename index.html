@@ -191,10 +191,16 @@
                             <div class="font-bold text-white">CHARTFOX · {{ currentAirport.code }}</div>
                             <div class="text-xs text-slate-500 font-mono mt-1">Select approach charts inside the embedded browser.</div>
                         </div>
-                        <button v-if="chartFoxUrl" type="button" @click="chartFoxFrameKey++"
-                                class="bg-slate-800 hover:bg-av-cyan hover:text-black text-av-cyan border border-slate-600 px-3 py-2 rounded font-bold text-xs tracking-wider font-mono">
-                            BACK TO CHART LIST
-                        </button>
+                        <div v-if="chartFoxUrl" class="flex flex-wrap gap-2">
+                            <button type="button" @click="chartFoxFrameKey++"
+                                    class="bg-slate-800 hover:bg-av-cyan hover:text-black text-av-cyan border border-slate-600 px-3 py-2 rounded font-bold text-xs tracking-wider font-mono">
+                                BACK TO CHART LIST
+                            </button>
+                            <button type="button" @click="forgetChartFoxToken"
+                                    class="bg-slate-800 hover:bg-red-500 hover:text-white text-slate-300 border border-slate-600 px-3 py-2 rounded font-bold text-xs tracking-wider font-mono">
+                                FORGET TOKEN
+                            </button>
+                        </div>
                     </div>
                     <iframe v-if="chartFoxUrl" :key="chartFoxFrameKey" :src="chartFoxUrl" :title="'ChartFox charts for ' + currentAirport.code"
                             class="block w-full h-[70dvh] min-h-[480px] md:h-[78dvh] md:min-h-[600px] bg-slate-900" loading="lazy"></iframe>
@@ -206,8 +212,9 @@
                                 class="bg-slate-800 hover:bg-av-cyan hover:text-black text-av-cyan border border-slate-600 px-3 py-2 rounded font-bold text-xs tracking-wider font-mono disabled:opacity-50">
                             LOAD CHARTFOX
                         </button>
-                        <p class="text-[10px] text-av-muted font-mono">The token stays in this browser tab and is sent in the ChartFox iframe URL. Use an interface-only token.</p>
+                        <p class="text-[10px] text-av-muted font-mono">Saved on this device until you tap Forget Token or clear site data. Sent in the ChartFox iframe URL. Use an interface-only token.</p>
                     </form>
+                    <p v-if="chartFoxStorageError" class="px-5 pb-3 text-xs text-red-400 font-mono">{{ chartFoxStorageError }}</p>
                 </div>
             </template>
 
@@ -277,9 +284,16 @@
             const chartFoxTokenInput = ref('');
             const chartFoxToken = ref('');
             const chartFoxFrameKey = ref(0);
+            const chartFoxStorageError = ref('');
+            const chartFoxStorageKey = 'navad.chartfox.token.v1';
             const errorMsg = ref('');
 
             onMounted(async () => {
+                try {
+                    chartFoxToken.value = localStorage.getItem(chartFoxStorageKey) || '';
+                } catch (e) {
+                    chartFoxStorageError.value = 'Device storage is unavailable; token will last only until this page closes.';
+                }
                 try {
                     const response = await fetch('./database.json?timestamp=' + new Date().getTime());
                     database.value = await response.json();
@@ -332,17 +346,34 @@
             const useChartFoxToken = () => {
                 chartFoxToken.value = chartFoxTokenInput.value.trim();
                 chartFoxTokenInput.value = '';
+                try {
+                    localStorage.setItem(chartFoxStorageKey, chartFoxToken.value);
+                    chartFoxStorageError.value = '';
+                } catch (e) {
+                    chartFoxStorageError.value = 'Could not save token on this device; enter it again next time.';
+                }
+            };
+
+            const forgetChartFoxToken = () => {
+                chartFoxToken.value = '';
+                chartFoxTokenInput.value = '';
+                try {
+                    localStorage.removeItem(chartFoxStorageKey);
+                    chartFoxStorageError.value = '';
+                } catch (e) {
+                    chartFoxStorageError.value = 'Could not clear saved token; clear NavAd site data in the browser.';
+                }
             };
 
             return {
-                loading, icaoInput, currentAirport, selectedRunway, viewTab, showApproachCharts, chartFoxTokenInput, chartFoxUrl, chartFoxFrameKey, useChartFoxToken, errorMsg, filteredProcedures, searchAirport, toggleExpand
+                loading, icaoInput, currentAirport, selectedRunway, viewTab, showApproachCharts, chartFoxTokenInput, chartFoxUrl, chartFoxFrameKey, chartFoxStorageError, useChartFoxToken, forgetChartFoxToken, errorMsg, filteredProcedures, searchAirport, toggleExpand
             };
         }
     }).mount('#app');
 </script>
 <script>
     if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('sw.js?v=7').catch((error) => console.warn('Service worker registration failed:', error));
+        navigator.serviceWorker.register('sw.js?v=8').catch((error) => console.warn('Service worker registration failed:', error));
     }
 </script>
 </body>
